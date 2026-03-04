@@ -1,15 +1,7 @@
+from google import genai
 import os
-from dotenv import load_dotenv
-import google.ai.generativelanguage as glm
-from google.api_core.client_options import ClientOptions
 
-load_dotenv()
-API_KEY = os.getenv("GEMINI_API_KEY")
+client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
-client = glm.GenerativeServiceClient(
-    client_options=ClientOptions(api_key=API_KEY)
-)
-
-models = client.list_models().models
-for m in models:
+for m in client.models.list():
     print(m.name)

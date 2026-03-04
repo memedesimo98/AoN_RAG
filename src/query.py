@@ -3,11 +3,12 @@ import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
 from dotenv import load_dotenv
-import requests
-import json
+from google import genai
 
 load_dotenv()
 API_KEY = os.getenv("GEMINI_API_KEY")
+
+client = genai.Client(api_key=API_KEY)
 
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 TOP_K = 5
@@ -16,8 +17,6 @@ index = faiss.read_index("data/index.faiss")
 chunks = np.load("data/chunks.npy", allow_pickle=True)
 sources = np.load("data/chunk_sources.npy", allow_pickle=True)
 embedder = SentenceTransformer(MODEL_NAME)
-
-GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=" + API_KEY
 
 def retrieve(query, k=TOP_K):
     q_emb = embedder.encode([query], convert_to_numpy=True)
@@ -40,26 +39,15 @@ QUESTION:
 ANSWER:
 """
 
-    payload = {
-        "contents": [
-            {
-                "parts": [
-                    {"text": prompt}
-                ]
-            }
-        ]
-    }
+    response = client.models.generate_content(
+        model="models/gemini-2.5-flash",
+        contents=prompt
+    )
 
-    response = requests.post(GEMINI_URL, json=payload)
-    data = response.json()
-
-    try:
-        return data["candidates"][0]["content"]["parts"][0]["text"]
-    except:
-        return f"Error: {json.dumps(data, indent=2)}"
+    return response.text
 
 if __name__ == "__main__":
-    print("Gemini RAG (REST API) ready.")
+    print("Gemini RAG (SDK) ready.")
     while True:
         q = input("\nAsk a question (or 'exit'): ")
         if q == "exit":
