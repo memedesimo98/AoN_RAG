@@ -1,10 +1,10 @@
 AoN_RAG: Pathfinder 1e AI Assistant
-AoN_RAG è un sistema di Retrieval-Augmented Generation (RAG) sperimentale progettato per interrogare in linguaggio naturale il database di Archive of Nethys (Pathfinder 1st Edition).
+AoN_RAG è un sistema di Retrieval-Augmented Generation (RAG) sperimentale e molto basico progettato per interrogare in linguaggio naturale il database di Archive of Nethys (Pathfinder 1st Edition).
 
 Il progetto utilizza Gemini 2.5 Flash per l'elaborazione del linguaggio e la generazione di embedding, permettendo di ottenere risposte precise, contestualizzate e basate sulle regole ufficiali del gioco.
 
 Caratteristiche Principali
-Scraping Modulare: Estrazione automatizzata di talenti, razze, classi e altre categorie da Archive of Nethys.
+Scraping Modulare: Estrazione automatizzata di talenti, razze da Archive of Nethys.
 
 Potenza di Gemini 2.5 Flash: Sfrutta l'ultima versione del modello di Google per un ragionamento superiore e una finestra di contesto estesa.
 
