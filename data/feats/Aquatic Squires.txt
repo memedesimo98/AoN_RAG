@@ -1,0 +1,154 @@
+Aquatic Squires - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Aquatic Squires
+Source
+Blood of the Sea pg. 15
+When you call for aid from the sea, your summoned creatures remain to serve you longer.
+Prerequisites
+: Triton,
+summon nature’s ally II
+spell-like ability, character level 5th.
+Benefit
+: The duration of your
+summon nature’s ally II
+spell-like ability is 1 minute per level.
+Normal
+:
+Summon nature’s ally II
+has a duration of 1 round per level.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

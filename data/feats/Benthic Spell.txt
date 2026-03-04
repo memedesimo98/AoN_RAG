@@ -1,0 +1,145 @@
+Benthic Spell - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Benthic Spell (Metamagic)
+Source
+Elemental Master's Handbook pg. 14
+Explorers in the depths of the Arcadian Ocean have learned that deadly pressure can be just as lethal as any flame.
+Benefit
+: You can modify a spell that deals acid, cold, electricity, or fire damage to deal damage through high-pressure water instead. The spell gains the water descriptor, and you can either replace the spell’s normal damage with bludgeoning damage or split the spell’s damage so that half is bludgeoning and half is of its normal type. Creatures with damage reduction apply their damage reduction to bludgeoning damage from a benthic spell, but the spell counts as bludgeoning and magic for the purposes of bypassing damage reduction.
+A benthic spell uses up a spell slot one level higher than the spell’s actual level.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

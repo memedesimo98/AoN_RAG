@@ -1,0 +1,150 @@
+Assured Destruction - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Assured Destruction
+Source
+Inner Sea Monster Codex pg. 59
+Your zeal for death—including your own—brings even greater harm to those around you.
+Prerequisites
+:
+Empowered Daemonic Pact
+, urdefhan.
+Benefit
+:  When you use your daemonic pact ability and allow your soul to be consumed, you automatically succeed. The amount of negative energy damage dealt by your daemonic pact ability increases to 3d6 points, and the profane bonus to the save DC increases to +4.
+Normal
+:  The daemonic pact ability has a 50% chance of success per attempt, and it deals 2d6 points of negative energy damage.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

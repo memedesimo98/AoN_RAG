@@ -1,0 +1,152 @@
+Mobile Bulwark Style - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Mobile Bulwark Style (Combat, Shield Style, Style)
+Source
+Armor Master's Handbook pg. 12
+You are able to swing your tower shield around quickly.
+Prerequisites
+: Str 13,
+Shield Focus
+,
+Tower Shield Proficiency
+, base attack bonus +1.
+Benefit
+: While using a tower shield, add the shield’s bonus to AC (including its enhancement bonus) to your CMD against bull rush and overrun combat maneuvers. While using this style, you can use a tower shield to grant you total cover along one edge of your space (
+Pathfinder Roleplaying Game Core Rulebook
+153) as a move action.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

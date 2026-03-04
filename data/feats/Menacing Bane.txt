@@ -1,0 +1,150 @@
+Menacing Bane - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Menacing Bane
+Source
+Ultimate Combat pg. 109
+You are deadly when you team up with allies against a single foe.
+Prerequisites
+: Bane class feature.
+Benefit
+:  You can use your bane class feature to imbue a melee weapon with the menacing special weapon ability (
+Advanced Player’s Guide
+288) instead of bane. You can spend a swift action to switch between the two special weapon abilities. Doing so otherwise works according to your bane class feature.
+Special
+:  If you have the Double Bane feat, you can imbue each weapon you wield with either bane or menacing. No single weapon can have both.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

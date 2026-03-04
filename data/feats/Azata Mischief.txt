@@ -1,0 +1,154 @@
+Azata Mischief - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Azata Mischief (Combat)
+Source
+Planar Adventures pg. 25
+You move with uncommon grace that disorients enemies, causing foes that strike at you to overreach and stumble.
+Prerequisites
+:
+Agile Maneuvers
+,
+Azata Style
+,
+Dodge
+,
+Mobility
+, base attack bonus +6.
+Benefit
+: While using Azata Style, whenever an opponent misses you with an attack of opportunity provoked by your movement through its threatened squares, you can attempt a trip combat maneuver against that creature at the end of your turn as a swift action, provided you are still adjacent to the creature when you end your movement for the round. This trip attempt does not provoke attacks of opportunity. You gain a bonus on your combat maneuver check equal to any bonuses to AC you gain against attacks of opportunity provoked by movement (such as that granted by the Mobility feat).
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

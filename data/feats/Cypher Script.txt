@@ -1,0 +1,150 @@
+Cypher Script - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Cypher Script
+Source
+Adventurer's Guide pg. 60
+,
+Second Darkness Player's Guide pg. 27
+,
+Inner Sea World Guide pg. 284
+Through researching lengthy, ancient, arcane scripts salvaged from Thassilonian ruins, you have discovered a more efficient method of recording spells. As with the Cypher Magic feat, Cypher Script was originally developed by the Cyphermages of Riddleport, but recently has been spreading through the Inner Sea region.
+Prerequisites
+: Knowledge (arcana) 1 rank, Linguistics 1 rank, Spellcraft 1 rank, spellbook class feature.
+Benefit
+: Any spell you scribe in your spellbook costs half as much as normal and takes up only half the room it normally would (round all fractions up). It takes you only 10 minutes per spell level to scribe a spell into your spellbook (5 minutes for cantrips).
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

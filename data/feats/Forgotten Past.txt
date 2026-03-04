@@ -1,0 +1,171 @@
+Forgotten Past - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Forgotten Past (Story)
+Source
+Ultimate Campaign pg. 69
+A pivotal event from your past eludes your memory.
+Prerequisites
+: You must have suffered permanent
+memory loss or have the Reincarnated background.
+Benefit
+:  The duration of mind-affecting spells (even
+beneficial ones) is halved for you, to a minimum of 1
+round. Your inquisitive nature gives you a +2 bonus
+on Perception checks. If you have 10 or more ranks in
+Perception, this bonus increases to +4.
+Goal
+:  Regain a major portion of your lost memories. The
+exact means varies, possibly requiring a
+wish
+, assistance
+from a divine being, reliving a past life, or confronting
+the situation that led to your memory loss. This process
+must involve encountering a challenging foe, though
+possibly in ways other than direct confrontation.
+Completion Benefit
+:  You roll twice whenever you
+attempt a saving throw against a mind-affecting effect,
+keeping the better result.
+Special
+:  Restoration of memories by means less significant
+than
+miracle
+or
+wish
+does not qualify for the prerequisite.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,157 @@
+Feral Combat Training - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Feral Combat Training (Combat)
+Source
+Ultimate Combat pg. 101
+You were taught a style of martial arts that relies on the natural weapons from your racial ability or class feature.
+Prerequisites
+:
+Improved Unarmed Strike
+, Weapon Focus with selected natural weapon.
+Benefit
+:  Choose one of your natural weapons. While using the selected natural weapon, you can apply the effects of feats that have Improved Unarmed Strike as a prerequisite.
+Special
+:  If you are a monk, you can use the selected natural weapon with your flurry of blows class feature.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 119
+At the start of your turn, you can spend any number of stamina points. Until the beginning of your next turn, for every 2 stamina points you spent this way, you can apply the effects of Feral Combat Training to a single natural weapon attack made with a natural weapon other than the weapon chosen with this feat.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

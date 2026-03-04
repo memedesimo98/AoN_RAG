@@ -1,0 +1,154 @@
+Impressive Grit - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Impressive Grit (Weapon Mastery)
+Source
+Weapon Master's Handbook pg. 21
+Your mastery of ranged weapons allows you to perform impressive deeds.
+Prerequisites
+: Base attack bonus +11, weapon training class feature with a ranged weapon.
+Benefit
+:  Select one of the following gunslinger deeds
+UC
+: dead shot, startling shot, or targeting. You can perform the selected deed a number of times per day equal to your highest mental ability score modifier (Intelligence, Wisdom, or Charisma; minimum 1). You can use this deed with an appropriate ranged weapon. If you also have the selected deed as a class feature, reduce the number of grit points that you need to use it by 1, as per the Signature Deed
+UC
+feat.
+Special
+:  You can select Impressive Grit up to three times. Each time you select it, choose a different gunslinger deed. A gunslinger
+UC
+can ignore the weapon training class feature prerequisite of Impressive Grit.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

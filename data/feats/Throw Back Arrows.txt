@@ -1,0 +1,152 @@
+Throw Back Arrows - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Throw Back Arrows (Combat)
+Source
+Ranged Tactics Toolbox pg. 9
+When you catch arrows and other ranged ammunition, you can immediately hurl them at your enemies.
+Prerequisites
+: Dex 17,
+Deflect Arrows
+,
+Improved Unarmed Strike
+,
+Snatch Arrows.
+Benefit
+:  When using the Snatch Arrows feat, you can throw a caught piece of ranged ammunition (such as an arrow, bolt, or sling bullet, but not a firearm bullet) as though it were a thrown weapon with a range increment of 20 feet (even though it isn’t your turn). The thrown ammunition deals the normal amount of damage for its type plus your Strength modifier, and you don’t take a penalty for throwing a weapon that isn’t designed to be thrown. This attack provokes attacks of opportunity as normal.
+You must have at least one hand free (holding nothing) to use this feat.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

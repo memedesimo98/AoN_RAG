@@ -1,0 +1,154 @@
+Spring-Heeled Reaping - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Spring-Heeled Reaping (Armor Style, Combat)
+Source
+Armor Master's Handbook pg. 11
+Your armor’s flexibility and your own training allow you to strike multiple times while moving.
+Prerequisites
+: Dex 17,
+Dodge
+,
+Mobility
+, Shot on the Run or Spring Attack,
+Spring-Heeled Sprint
+,
+Spring-Heeled Style
+, base attack bonus +11, proficiency with light armor.
+Benefit
+: While using Spring-Heeled Style, whenever you use Shot on the Run or Spring Attack, you can attack two different creatures at any point in your movement. Each attack is made at your full attack bonus. Any creature that you attack in melee with this feat cannot make attacks of opportunity against you for that movement, as normal for Spring Attack.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

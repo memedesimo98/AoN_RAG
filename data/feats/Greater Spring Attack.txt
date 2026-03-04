@@ -1,0 +1,160 @@
+Greater Spring Attack - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Greater Spring Attack (Combat)
+Source
+Ultimate Wilderness pg. 113
+You are a scything wind cutting through the battlefield as you topple your foes.
+Prerequisites
+: Dex 17,
+Acrobatic Steps
+,
+Dodge
+,
+Improved Spring Attack
+,
+Mobility
+,
+Nimble Moves
+,
+Spring Attack
+, base attack bonus +16.
+Benefit
+: When you use Spring Attack, you can select three targets to attack during your movement instead of one. The second attack made this way is made at your full base attack bonus – 5, and the third attack made this way is made at your full base attack bonus – 10. All restrictions of Spring Attack apply to each target, and your movement does not provoke attacks of opportunity from any of your targets. You can’t target the same creature more than once.
+Special
+: A monk of at least 18th level can select this feat as a monk bonus feat, but only if he has Improved Spring attack and Spring Attack.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

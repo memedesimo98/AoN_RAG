@@ -1,0 +1,246 @@
+Summon Good Monster - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Summon Good Monster
+Source
+Champions of Purity pg. 33
+You can summon the aid of creatures driven by their very nature to
+destroy evil.
+Prerequisites
+: Good alignment.
+Benefit
+:  When casting
+summon monster
+, you also gain access to  the list of good monsters below. Your righteous determination grants  these summoned creatures the Diehard feat. You may still summon  creatures from the standard list, but without the Diehard feat.
+1st Level
+Celestial dog (NG)
+Celestial dolphin (NG)
+Celestial eagle (NG)
+Celestial fire beetle (NG)
+Celestial pony (NG)
+Celestial viper (NG)
+2nd Level
+Celestial octopus (NG)
+Celestial wolf (NG)
+Faun
+B3
+(CG)
+Grig
+B2
+(without fiddle ability) (NG)
+Pseudodragon (NG)
+3rd Level
+Blink dog (LG)
+Celestial shark (NG)
+Foo dog
+B3
+(NG)
+Lantern archon (LG)
+Lyrakien azata
+B2
+(CG)
+Silvanshee agathion
+B2
+(NG)
+4th Level
+Celestial dire wolf (NG)
+Celestial giant eagle (NG)
+Celestial pegasus (CG)
+Faerie dragon
+B3
+(NG)
+Foo lion
+B3
+(NG)
+Hound archon (LG)
+Pixie (NG)
+5th Level
+Bralani azata (CG)
+Celestial orca (NG)
+Djinni (CG)
+Unicorn (CG)
+Vulpinal agathion
+B2
+(NG)
+6th Level
+Celestial giant octopus (NG)
+Kirin
+B3
+(LG)
+Legion archon
+B3
+(LG)
+Lillend azata (LG)
+Wood giant
+B2
+(CG)
+7th Level
+Celestial dire shark (NG)
+Celestial roc (NG)
+Movanic deva
+B2
+(NG)
+Shedu
+B3
+(LG)
+Shield archon
+B2
+(LG)
+Treant (NG)
+Young bronze dragon (LG)
+8th Level
+Cloud giant (NG)
+Dragon horse
+B2
+(NG)
+Lammasu
+B3
+(LG)
+Monadic deva
+B2
+(NG)
+Young gold dragon (LG)
+9th Level
+Astral deva (NG)
+Couatl (LG)
+Ghaele azata (CG)
+Leonal agathion
+B2
+(NG)
+Storm giant (CG)
+Trumpet archon (LG)
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

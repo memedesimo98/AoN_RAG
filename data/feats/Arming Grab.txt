@@ -1,0 +1,154 @@
+Arming Grab - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Arming Grab (Combat)
+Source
+Martial Arts Handbook pg. 22
+Opponents would be foolish to underestimate you, even if you appear unarmed and helpless. You are practiced at turning the tables on armed foes and using their own weapons against them.
+Prerequisites
+: Int 13,
+Catch Off-Guard
+,
+Combat Expertise
+,
+Improved Disarm
+.
+Benefit
+: You take no penalty on your attack roll when attempting to disarm an opponent while you are unarmed. If you succeed at a disarm attempt without using a weapon and choose to pick up the disarmed weapon, you can attack with that weapon as though you were proficient with it until the end of your next turn. If you are already proficient with that type of weapon, you gain a +2 morale bonus to your attack rolls with that weapon until the end of your next turn.
+Normal
+: Attempting to disarm a foe while unarmed imposes a –4 penalty on the attack.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,150 @@
+Shambling Monolith - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Shambling Monolith
+Source
+Dungeon Denizens Revisited pg. 61
+You are able to draw up available vegetation into your body mass and increase your size and strength.
+Prerequisites
+: Shambling mound.
+Benefit
+: As a full-round action, you may draw additional vegetable matter into yourself and increase your size, strength, and durability as if using an
+animal growth
+spell. At the beginning of each turn, you must succeed at a Fortitude save to maintain your increased size. The save DC is 10 if in forest or jungle and 15 if in a swamp or underground , and increases by 1 for each round that passes. If you fail the save, you collapse back to your normal size and are fatigued for 8 hours.
+Special
+: You must be in forest, jungle, swamp, or underground terrain to use this feat. You cannot use this feat when you are fatigued or exhausted.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

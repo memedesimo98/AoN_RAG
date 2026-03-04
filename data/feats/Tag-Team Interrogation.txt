@@ -1,0 +1,146 @@
+Tag-Team Interrogation - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Tag-Team Interrogation (Teamwork)
+Source
+Adventurer's Guide pg. 36
+You and your partner work together to bewilder a target, alternating between fear and kindness.
+Prerequisites
+: Intimidating Prowess or Persuasive; Diplomacy 1 rank; Intimidate 1 rank.
+Benefit
+: While using Diplomacy or Intimidate to shift the attitude of a creature, one ally you can see who also has this feat can attempt to shift the creature’s attitude at the same time. You roll either a Diplomacy check or an Intimidate check, and your ally rolls a check with the other skill. If you both succeed, you choose whether to apply the Diplomacy check’s or Intimidate check’s effects; the other check has no direct effect but instead provides the first check a +5 circumstance bonus to its result. If only one person succeeds, ignore the failed check, but the successful skill check’s effect lasts only half as long. If you both fail, any effects resulting from both failed checks apply.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

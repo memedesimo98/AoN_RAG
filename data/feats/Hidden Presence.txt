@@ -1,0 +1,156 @@
+Hidden Presence - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Hidden Presence
+Source
+Occult Adventures pg. 135
+You are adept at hiding within your host.
+Prerequisites
+: Int or Cha 17, ability to cast
+possession
+or
+greater possession
+.
+Benefit
+:  While possessing another creature, you can hide yourself from divinations and pass through wards such as
+magic circle against evil
+or the effects of a
+forbiddance
+spell. You must attempt a Will save against the spell (even if it doesn’t normally allow a saving throw). If you succeed, the spell treats you as if you were your host (for instance, divinations would reveal only the host’s alignment, and
+forbiddance
+keyed to the host’s alignment wouldn’t damage you). If your saving throw fails, the spell functions against you as normal; if the spell normally allows a save, your previous failure doesn’t count as a failed save against the spell’s normal effects.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

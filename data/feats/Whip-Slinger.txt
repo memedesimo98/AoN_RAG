@@ -1,0 +1,148 @@
+Whip-Slinger - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Whip-Slinger (Combat)
+Source
+Halflings of Golarion pg. 23
+You can use your sling as a sap to make attacks of opportunity.
+Prerequisites
+: Proficient with sling.
+Benefit
+: When wielding a sling, double sling, or halfling sling staff, you threaten areas around you as normal and can make attacks of opportunity with the sling into these threatened areas. The sling deals 1d4 nonlethal bludgeoning damage (1d6 for a Medium wielder), threatens a critical hit on a 20, and deals ×2 damage on a critical hit. If the sling isn’t loaded with ammunition when you make an attack of opportunity, you take a –4 penalty on the attack roll.
+Normal
+: Slings and double slings are ranged weapons, do not threaten areas, and cannot make attacks of opportunity. A halfling sling staff can be used as a simple melee weapon that deals bludgeoning damage equal to that of a club its size; as a melee weapon, it threatens areas normally and its wielder can make attacks of opportunity with it.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,147 @@
+Blasting Charge - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Blasting Charge
+Source
+Advanced Class Guide pg. 143
+You funnel the power of your bloodrage into a strike capable of erupting with arcane power.
+Prerequisites
+: Base attack bonus +7, ability to cast 2nd-level bloodrager spells, bloodrage class feature.
+Benefit
+:  While you are bloodraging, at the end of a charge you can expend a bloodrager spell slot as a swift action to imbue your charge attack with extra power. You deal an additional 1d6 points of damage per level of the spell slot expended. This extra damage is force damage, and it’s not multiplied in the case of a critical hit.
+If your bloodline has a specific energy type associated with it (such as the elemental or draconic bloodlines), you can choose to increase the damage to 1d8 points per level of the spell slot expended, and this extra damage is of that energy type.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

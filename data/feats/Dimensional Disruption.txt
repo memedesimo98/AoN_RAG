@@ -1,0 +1,154 @@
+Dimensional Disruption - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Dimensional Disruption (Combat)
+Source
+Monster Summoner's Handbook pg. 9
+You’ve become so adept at combating summoned creatures that you can interrupt the magical energies that summon them to your plane.
+Prerequisites
+: Arcane Strike or Disruptive;
+Banishing Critical
+;
+Combat Reflexes
+;
+Dimensional Awareness
+; Spellcraft 8 ranks; arcane pool class feature.
+Benefit
+:  When you use Dimensional Awareness to make an attack of opportunity against a creature being summoned or called into a square you threaten, you can additionally use an immediate action to attempt to send the creature back to its home plane. Attempt a Spellcraft check (DC = 15 + the creature’s CR [minimum 1] + the spell level of the spell that summoned the creature). If you succeed, the creature does not get to act and is immediately sent back to its home plane.
+Normal
+:  A summoning or calling spell can be disrupted only by a failed concentration check or by countering the spell.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

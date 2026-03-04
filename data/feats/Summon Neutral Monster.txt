@@ -1,0 +1,276 @@
+Summon Neutral Monster - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Summon Neutral Monster
+Source
+Champions of Balance pg. 33
+You can summon creatures that embody the forces of balance.
+Prerequisites
+: Chaotic neutral, lawful neutral, or neutral alignment.
+Benefit
+: When casting a
+summon monster
+spell, you gain access to the list of neutral creatures on this page. You may also summon creatures from the standard
+summon monster
+list and apply the counterpoised creature simple template (see the sidebar) to applicable creatures instead of the celestial or fiendish template. Creatures you summon from the list on this page and creatures you summon with the counterpoised template gain a +2 resistance bonus on Will saves.
+1st Level
+Sprite
+B3
+(CN)
+Stirge (N)
+2nd Level
+Atomie
+B3
+(CN)
+Brownie
+B2
+(N)
+3rd Level
+Arbiter
+B2
+(inevitable) (LN)
+Nosoi
+B4
+(psychopomp) (N)
+Paracletus
+B2
+(aeon) (N)
+Thoqqua
+B2
+(N)
+Voidworm
+B2
+(protean) (CN)
+4th Level
+D’ziriak
+B2
+(N)
+Magmin
+B3
+(CN)
+Mephit (any) (N)
+Satyr (CN)
+Shae
+B3
+(N)
+Viduus
+ISB
+(psychopomp) (N)
+5th Level
+Catrina
+B4
+(psychopomp) (N)
+Mercane
+B2
+(LN)
+Rast
+B2
+(N)
+Tojanida
+B3
+(N)
+6th Level
+Chaos Beast
+B2
+(CN)
+Invisible stalker (N)
+Naunet
+B2
+(protean) (CN)
+Theletos
+B2
+(aeon) (N)
+Vanth
+B4
+(psychopomp) (N)
+7th Level
+Axiomite
+B2
+(LN)
+Jyoti
+B2
+(N)
+Shoki
+ISB
+(psychopomp) (N)
+Zelekhut
+B2
+(inevitable) (LN)
+8th Level
+Imentesh
+B2
+(protean) (CN)
+9th Level
+Akhana
+B2
+(aeon) (N)
+Morrigna
+B4
+(psychopomp)
+Valkyrie
+B3
+(CN)
+Counterpoised Creature (CR +0 or +1)
+Counterpoised creatures dwell in the Outer Planes where balance between elements or ideologies is paramount, but they can be summoned using spells such as
+summon monster
+and
+planar ally
+. A counterpoised creature’s CR increases by 1 only if the base creature has 5 or more Hit Dice. A counterpoised creature’s quick and rebuild rules are the same.
+Rebuild Rules
+:
+Senses
+gains darkvision 60 ft.;
+Defensive Abilities
+gains DR and energy resistance as noted on the table;
+SR
+gains SR equal to new CR +5;
+Special Attacks
+smite bias 1/day as a swift action (adds Cha bonus to attack rolls and damage bonus equal to HD against a foe that is chaotic evil, chaotic good, lawful evil, or lawful good; smite persists until the target is dead or the counterpoised creature rests).
+Counterpoised Creature Defenses
+Hit Dice
+Resist Cold, Electricity, and Fire
+DR
+1–4
+5
+—
+5–10
+10
+5/adamantine
+11+
+15
+10/adamantine
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

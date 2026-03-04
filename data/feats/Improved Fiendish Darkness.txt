@@ -1,0 +1,158 @@
+Improved Fiendish Darkness - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Improved Fiendish Darkness
+Source
+Blood of Fiends pg. 25
+Your innate ability to shroud others in darkness is further empowered.
+Prerequisites
+:
+Fiendish Darkness
+,
+darkness
+spell-like ability, caster level 3rd, tiefling.
+Benefit
+:  You gain a +2 bonus to your effective caster level when using your
+darkness
+spell-like ability. In addition, whenever you cast a spell with the evil descriptor that targets another creature, you can spend a swift action to apply the effects of your
+darkness
+spell-like ability to the spell cast, with the
+darkness
+effect centered on the spell’s target. Using the
+darkness
+spell-like ability in this way expends all three uses of it for the day, and it cannot be used if fewer than three uses of it remain for that day.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

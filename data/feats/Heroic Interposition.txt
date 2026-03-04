@@ -1,0 +1,159 @@
+Heroic Interposition - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Heroic Interposition (Combat)
+Source
+Inner Sea Gods pg. 212
+You arrive just when you are most needed to vanquish evil.
+Prerequisites
+: Dex 13,
+Dodge
+,
+Improved Initiative
+,
+Mobility
+, worshiper of an empyreal lord.
+Benefit
+:  Once per day, you can move up to your speed as an immediate action, but you must end this movement adjacent to an opponent who is about to make an attack against an ally. As long as you are visible to the opponent you moved next to, that opponent takes a –2 penalty on the attack roll to which you moved in response.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Weapon Master's Handbook pg. 25
+By spending 4 stamina points, you can use this feat an additional time per day.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

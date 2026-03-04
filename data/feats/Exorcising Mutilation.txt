@@ -1,0 +1,151 @@
+Exorcising Mutilation - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Exorcising Mutilation
+Source
+Horror Adventures pg. 87
+Malevolent entities that seek to possess or dominate you are unaware of how far you will go to stop them.
+Prerequisites
+: Con 15,
+Clarity of Pain
+,
+Improved Iron Will
+,
+Iron Will.
+Benefit
+: When you fail a saving throw to resist possession or a dominate spell, you can deal 4 points of Constitution damage to yourself and reroll your saving throw as an immediate action. You cannot reduce or negate this damage in any way, and the only way to heal the damage is through natural recovery; magical methods don’t work. You must take the result of the second roll, even if it is worse. If you succeed at the second saving throw, you also become immune to that spell or ability from that creature for 24 hours. You must be wielding a lethal piercing or slashing weapon, or possess a claw natural attack or some way to draw such a weapon reactively without using your immediate action, to use this ability.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

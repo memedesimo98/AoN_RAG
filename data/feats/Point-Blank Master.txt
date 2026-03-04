@@ -1,0 +1,157 @@
+Point-Blank Master - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Point-Blank Master (Combat)
+Source
+Advanced Player's Guide pg. 167
+You are adept at firing ranged weapons in close quarters.
+Prerequisites
+: Weapon Specialization with selected ranged weapon.
+Benefit
+:  Choose one type of ranged weapon. You do not provoke attacks of opportunity when firing the selected weapon while threatened.
+Normal
+:  Using a ranged weapon while you are threatened provokes attacks of opportunity.
+Special
+:  Starting at 6th level, a ranger with the archery combat style may select Point Blank Master as a combat style feat, but he must have Weapon Focus instead of Weapon Specialization in the selected weapon.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 129
+When firing any type of ranged weapon, throwing a weapon, or making a ranged touch attack, you can spend 2 stamina points to avoid provoking an attack of opportunity.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

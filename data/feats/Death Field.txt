@@ -1,0 +1,149 @@
+Death Field - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Death Field (Conduit)
+Source
+Planar Adventures pg. 27
+The deadly power of the Negative Energy Plane creates a field that snuffs out life forces at the cost of your own vitality.
+Prerequisites
+: Knowledge (planes) 5 ranks.
+Benefit
+: As a move action, you can exude deadly energy from your body. While this death field is in effect, small plants wither and recoil from you, allowing you to ignore the effects of difficult terrain caused by plant life and ignore the effects of spells like entangle that compel vegetation to grasp at you, provided the spell’s level is 3rd or lower (the death field cannot affect more powerful plant magic).
+Any swarm that enters your space takes 1d6 points of negative energy damage; this damage is applied before you are affected by any swarm attacks, so if the damage is enough to destroy the swarm, it does not harm you.
+At the end of your turn each round the death field is active, you take 1 point of negative energy damage, and you cannot be healed by positive energy effects while the death field is in place. Magic items and spells that protect against negative energy damage do not protect against this damage, but if you are undead or have negative energy affinity (or a similar ability), the death field instead grants fast healing 1 while it is in effect.
+You can use this feat’s benefit for a number of rounds per day equal to your ranks in Knowledge (planes). These rounds need not be consecutive. If you have at least 11 ranks in Knowledge (planes), you can activate your death field as a swift action.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

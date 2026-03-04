@@ -1,0 +1,153 @@
+Derro Magister - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Derro Magister
+Source
+Pathfinder #61: Shards of Sin pg. 58
+A derro magister's mind is particularly affected by the consumption of strange mold, granting enhanced resistance to magic and additional spell-like abilities and traits.
+Prerequisites
+: Cha 20, derro.
+Benefit
+: A derro magister’s spell resistance equals the derro’s Hit Dice +10. Heal is always a class skill for a derro magister, and it gains a +4 racial bonus on all Heal checks.
+A derro with this feat treats its caster level for all spell-like abilities as equal to his Hit Dice. In addition, as soon as a derro with this feat achieves a total of 6 Hit Dice by gaining enough levels in any combination of classes, it gains the use of additional spell-like abilities as detailed below.
+At will—
+levitate
+1/day—
+deeper slumber
+,
+modify memory
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

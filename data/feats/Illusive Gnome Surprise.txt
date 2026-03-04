@@ -1,0 +1,162 @@
+Illusive Gnome Surprise - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Illusive Gnome Surprise (Combat)
+Source
+Weapon Master's Handbook pg. 12
+You can use gnome weapons in unusual ways.
+Prerequisites
+: Int 13,
+Combat Expertise
+,
+Gnome Weapon Focus
+ARG
+,
+Illusive Gnome Style
+,
+Improved Feint.
+Benefit
+:  While using Illusive Gnome Style, you gain a +2 bonus on combat maneuver checks to perform dirty tricks
+APG
+and on Bluff checks to feint. In addition, when you successfully use Bluff to feint against a foe, instead of denying that foe its Dexterity bonus to AC, you can treat one “gnome” weapon that you are wielding as if it had one of the following weapon special features: blocking
+UC
+, brace, disarm, distracting
+UC
+, performance
+UC
+, sunder, or trip. This benefit applies only against that foe and lasts for a number of rounds equal to your Charisma modifier (minimum 1).
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

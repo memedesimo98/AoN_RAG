@@ -1,0 +1,163 @@
+Mounted Archery - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Mounted Archery (Combat)
+Source
+PRPG Core Rulebook pg. 131
+You are skilled at making ranged attacks while mounted.
+Prerequisites
+: Ride 1 rank,
+Mounted Combat.
+Benefit
+: The penalty you take when using a ranged weapon while mounted is halved: –2 instead of –4 if your mount is taking a double move, and –4 instead of –8 if your mount is running.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 127
+When making an attack using a ranged weapon while mounted, you can spend 1 or 2 stamina points to reduce the penalties on the attack roll by double the number of stamina points you spent.
+Mythic Mounted Archery
+Source
+Mythic Adventures pg. 69
+Your skill as a rider allows you to take cover and shoot with amazing accuracy.
+Prerequisites
+:
+Mounted Archery.
+Benefit
+:  When using the Ride skill to use your mount as cover, you can still make a single ranged weapon attack as a standard action. While your mount is moving, you can expend one use of mythic power to negate the penalties for making ranged weapon attacks while mounted until the beginning of your next turn.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

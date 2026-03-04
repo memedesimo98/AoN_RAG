@@ -1,0 +1,146 @@
+Sacrificial Aid - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Sacrificial Aid (Teamwork)
+Source
+Antihero's Handbook pg. 10
+You convince an ally to help you disable a trap, but the ally takes the damage if you fail.
+Benefit
+: When you attempt to disable a trap, an ally who also has this feat can bolster your efforts. The ally rolls 1d20 and adds either her total bonus on Disable Device checks or her character level, whichever is higher; if the result of the ally’s roll is 10 or greater, you gain a +4 bonus on your Disable Device check. If you trigger the trap, your ally is the target of the trap’s effects. In the case of a trap with multiple targets, your ally takes the effects both for herself and for you (potentially taking damage twice or attempting saving throws twice).
+Normal
+: You can use the aid another action only if you are able to attempt the skill check in question. The bonus provided is only +2.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

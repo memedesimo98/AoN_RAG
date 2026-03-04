@@ -1,0 +1,157 @@
+Electric Eel Conduit - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Electric Eel Conduit (Combat)
+Source
+Blood of the Sea pg. 10
+You can establish an ongoing electrical charge between you and a target you have grabbed.
+Prerequisites
+: Wis 17,
+Electric Eel Shock
+,
+Electric Eel Style
+,
+Elemental Fist
+APG
+,
+Improved Unarmed Strike
+, base attack bonus +13 or monk level 9th.
+Benefit
+: You gain one additional Elemental Fist (
+Pathfinder RPG Advanced Player’s Guide
+158) attempt per day. When you successfully grapple a creature, you may expend two uses of Elemental Fist as a swift action to set up an electric charge between yourself and the creature. If you do, the target takes electricity damage equal to 1d6 plus your Wisdom modifier each round you maintain the grapple. This damage ceases when you are no longer grappling the target.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

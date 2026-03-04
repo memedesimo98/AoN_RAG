@@ -1,0 +1,155 @@
+Shield Material Expertise - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Shield Material Expertise (Combat, Shield Mastery)
+Source
+Armor Master's Handbook pg. 19
+You emphasize and exploit the potential of the special material from which your shield is made.
+Prerequisites
+:
+Shield Focus
+, base attack bonus +6 or fighter level 4th.
+Benefit
+: When wielding a shield made of one of the materials listed below, you can use the listed ability twice per day.
+Darkwood
+: As a free action as part of an attack with your shield, you can drive splinters of your shield into your opponent, dealing an amount of bleed damage equal to 1 + the shield’s enhancement bonus.
+Dragonhide
+: As an immediate action when you take energy damage of the type to which the dragonhide shield is immune, you can reduce the amount of damage you take by 10 hit points.
+Living Steel
+UE
+: As a free action as part of an attack with your shield, you can attempt a sunder combat maneuver check against a metal weapon wielded by your target. If you succeed at the attempt, the weapon gains the broken condition; if the weapon already has the broken condition, it is destroyed.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

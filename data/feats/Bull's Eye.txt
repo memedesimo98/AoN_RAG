@@ -1,0 +1,156 @@
+Bull's Eye - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Bull's Eye (Blood Hex)
+Source
+Magic Tactics Toolbox pg. 29
+Your ranged attacks unerringly seek those you have cursed.
+Prerequisites
+: Dex 13, Int 13,
+Dodge
+,
+Mobility
+,
+Point-Blank Shot
+,
+Shot on the Run
+, base attack bonus +4, Use Magic Device 1 rank.
+Benefit
+: As a standard action, you can curse a creature you’ve dealt damage to with a ranged weapon attack since the beginning of your last turn. The target must succeed at a Reflex save, or you don’t take penalties on ranged weapon attacks against the creature for the first range increment and you ignore any bonus to the creature’s Armor Class from cover. The creature still benefits from total cover. This effect lasts for 1 minute.
+Special
+: A shaman or witch with this blood hex can use it against a target she has damaged with any ranged attack since her last turn, and applies its benefits to any ranged attack she makes against an affected creature.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

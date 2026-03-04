@@ -1,0 +1,150 @@
+Giant Vendetta - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Giant Vendetta (Story)
+Source
+Giant Hunter's Handbook pg. 13
+Your life has been shaped by an encounter with giants.
+Prerequisites
+: You must have been knocked unconscious in an encounter with a challenging giant foe or have a regional background trait tied to giants (such as those presented in this section).
+Benefit
+: Choose one kind of giant (such as hill or stone); you must choose a kind of giant that allows you to qualify for this feat. You gain a +1 bonus on attack rolls against giants of that kind. You also gain a +1 bonus on Knowledge (local) checks regarding giants of that kind and can attempt those Knowledge checks untrained. In addition, you gain a +1 dodge bonus to AC against all giants.
+Goal
+: Defeat a giant of the chosen kind that is a challenging foe.
+Completion Benefit
+: You gain a +1 bonus on initiative checks when facing a giant of any kind, which increases to +2 against giants of the selected kind. Whenever you defeat a giant of any kind that is a challenging foe, the benefits of this feat that apply only to a specific kind of giant now also apply to giants of the kind you defeated.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

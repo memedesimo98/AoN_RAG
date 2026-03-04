@@ -1,0 +1,188 @@
+Draconic Magic - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Draconic Magic
+Source
+Monster Codex pg. 129
+Your draconic aspect manifests as magical might.
+Prerequisites
+:
+Draconic Aspect
+ARG
+, kobold.
+Benefit
+:  You gain a group of spell-like abilities based on the color of your dragon aspect. Each spell-like ability can be used once per day, and the DC of any of these spelllike abilities is 10 + 1/2 your Hit Dice + Charisma modifier.
+Black
+:
+Corrosive touch
+UM, †
+,
+darkness
+.
+Blue
+:
+Minor image
+,
+shocking grasp
+†.
+Green
+:
+Entangle
+†,
+gust of wind
+.
+Red
+:
+Burning hands
+†,
+pyrotechnics
+.
+White
+:
+Burning hands
+† (deals cold damage instead of fire),
+fog cloud
+.
+Special
+:  You can use this feat instead of Draconic Breath
+ARG
+or Draconic Glide
+ARG
+to qualify for the Draconic Paragon
+ARG
+feat. If you have this feat and Draconic Paragon, you can use the spell-like ability marked with a dagger (†) twice per day.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

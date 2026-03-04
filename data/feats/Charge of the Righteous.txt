@@ -1,0 +1,157 @@
+Charge of the Righteous - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Charge of the Righteous (Combat)
+Source
+Inner Sea Gods pg. 209
+,
+Faiths of Purity pg. 24
+You charge toward undead and fiends with confidence in your righteous cause.
+Prerequisites
+: Base attack bonus +1, any good alignment.
+Benefit
+:  You do not take a penalty to AC while charging undead creatures and evil outsiders.
+Normal
+:  When you charge, you take a –2 penalty to AC until the start of your next turn.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Weapon Master's Handbook pg. 24
+When charging any creature with an evil alignment, you can spend 2 stamina points in order to ignore the –2 penalty to AC imposed by charging.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

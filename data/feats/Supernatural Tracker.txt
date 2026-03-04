@@ -1,0 +1,150 @@
+Supernatural Tracker - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Supernatural Tracker
+Source
+Heroes of the Wild pg. 26
+Combining magical detection with your tracking skills allows you to sense and track a creature’s lingering presence.
+Prerequisites
+: Survival 1 rank, ability to cast a detect spell.
+Benefit
+:  You can cast a detect spell that specifies a creature type, such as
+detect animals and plants
+or
+detect undead
+, to augment your ability to track such creatures instead of the spell’s normal benefit; you can see a soft glow that highlights tracks of passage left by creatures of that type. For a duration of 1 hour per level of the spell, you gain a bonus equal to 5 + the spell’s level on Survival checks to track creatures of the specified type. For this duration, you can track such creatures as if you are trained in the Survival skill, even if you are not.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

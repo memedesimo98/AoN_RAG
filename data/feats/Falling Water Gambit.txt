@@ -1,0 +1,167 @@
+Falling Water Gambit - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Falling Water Gambit (Combat)
+Source
+Adventurer's Guide pg. 25
+,
+Inner Sea Combat pg. 10
+You have integrated both the Roaring Falls and Shrouded Lake techniques of Aldori swordplay into a seamless union.
+Prerequisites
+:
+Aldori Dueling Disciple
+,
+Duelist of the Roaring Falls
+,
+Duelist of the Shrouded Lake
+,
+Exotic Weapon Proficiency (Aldori dueling sword)
+,
+Weapon Finesse
+,
+Weapon Focus (Aldori dueling sword)
+, base attack bonus +8.
+Benefit
+: When attacking a creature denied its Dexterity bonus to AC because of your successful feint, you increase the threat range of your Aldori dueling sword by 1 (typically to 18–20/×2), and gain a +2 bonus on attack rolls to confirm critical hits. After you make a dueling dodge or succeed at a dueling parry during a duel, you can make an attack of opportunity against the foe who attacked you if that foe is shaken, frightened, or panicked. To gain these benefits, you must be wielding only an Aldori dueling sword (not using a shield, an off-hand weapon, armor spikes, unarmed strikes, or natural weapons).
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Weapon Master's Handbook pg. 25
+By spending 4 stamina points, you gain the ability to attempt a dueling dodge or a dueling parry against attacks made by a shaken, frightened, or panicked opponent, even if you aren’t participating in a duel.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,161 @@
+Sundering Strike - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Sundering Strike (Combat)
+Source
+Advanced Player's Guide pg. 171
+Your critical hits can sunder your foes’ weapons.
+Prerequisites
+: Str 13,
+Improved Sunder
+,
+Power Attack
+, base attack bonus +9.
+Benefit
+:  Whenever you score a critical hit with a melee attack, you can sunder your opponent’s weapon, in addition to the normal damage dealt by the attack. If your confirmation roll exceeds your opponent’s CMD, you may deal damage to your opponent’s weapon as if from the sunder combat maneuver (roll normal damage to the weapon separately). This does not provoke an attack of opportunity.
+Normal
+:  You must perform a sunder combat maneuver to sunder an opponent’s weapon.
+Special
+:  You can only apply the effects of one of the following feats to a given critical hit: Bull Rush Strike, Disarming Strike, Repositioning Strike, Sundering Strike, or Tripping Strike. You may choose to use this feat after you make your confirmation roll.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 133
+When you fail to confirm a critical hit with a melee attack, you can spend 2 stamina points to attempt to sunder the target’s weapon anyway. When you do, reroll the confirmation roll and use it to determine if the sunder attempt exceeds the opponent’s CMD. This reroll is used only for the sunder combat maneuver; it can’t cause the critical hit to be confirmed. You still can’t make the attempt if the target is immune to critical hits.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

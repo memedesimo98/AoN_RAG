@@ -1,0 +1,166 @@
+Dastardly Finish - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Dastardly Finish (Combat)
+Source
+Advanced Player's Guide pg. 157
+You can take advantage of an enemy’s debilitated state to attempt a coup de grace.
+Prerequisites
+: Sneak attack +5d6.
+Benefit
+:  You can deliver a coup de grace to cowering or stunned targets.
+Normal
+:  You can only coup de grace helpless targets.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 116
+You can spend 10 stamina points to deliver a coup de grace against two helpless, cowering, or stunned targets within your reach as a fullround action. This provokes attacks of opportunity twice—one for each coup de grace.
+Mythic Dastardly Finish
+Source
+Mythic Adventures pg. 61
+You strike downed, dazed, and staggered opponents with deadly efficiency.
+Prerequisites
+:
+Dastardly Finish
+APG
+.
+Benefit
+:  You can deliver a coup de grace to dazed and staggered non-mythic opponents. In addition, when any creature makes a Fortitude saving throw to survive one of your coup de grace attempts, it takes a penalty to that saving throw equal to your tier.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

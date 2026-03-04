@@ -1,0 +1,152 @@
+Shark Leap - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Shark Leap (Combat)
+Source
+Aquatic Adventures pg. 58
+Like a deadly predator, you bolt at unsuspecting foes from below.
+Prerequisites
+:
+Improved Unarmed Strike
+,
+Shark Style
+,
+Shark Tear
+, Swim 10 ranks, base attack bonus +10 or monk level 10th.
+Benefit
+: While in Shark Style, when you’re underwater with neutral, rising, or swiftly rising buoyancy, you can perform a terrifying leap to attack opponents directly above you. This works similarly to the charge action, except you can move only straight up, and you make a single piercing unarmed strike or bite attack. If the attack hits, it deals double damage; if the attack roll’s result is also higher than 11 + the target’s Swim modifier, the attack knocks the target off-balance until its next turn. Like with a charge, you can perform a partial version when limited to a single standard action (such as in the surprise round); in addition to moving half as far as normal for a partial charge, the attack doubles only the damage dice (as per Vital Strike) rather than the full damage roll.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,152 @@
+Maleficium - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Maleficium (Damnation)
+Source
+Champions of Corruption pg. 17
+You are a master of dark magic.
+Benefit
+:  You cast spells with the evil descriptor with increased potency.
+One Damnation Feat
+: Add 1 to the DCs of all saving throws against spells with the evil descriptor that you cast.
+Two Damnation Feats
+: When you apply a metamagic feat to a spell with the evil descriptor, that spell takes up a spell slot 1 level lower than normal (to a minimum of 1 level above the spell’s actual level).
+Three Damnation Feats
+: Add 1 to the DCs of all saving throws against spells with the evil descriptor that you cast. This bonus stacks with the earlier benefits of this feat.
+Four Damnation Feats
+: Treat your caster level as being 2 higher for all level-dependent effects of spells with the evil descriptor that you cast.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

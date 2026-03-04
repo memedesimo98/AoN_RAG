@@ -1,0 +1,154 @@
+Sniper Shot - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Sniper Shot
+Source
+Pathfinder Campaign Setting pg. 89
+You are skilled at making deadly attacks from an extreme distance.
+Prerequisites
+: Int 13, Wis 13,
+Far Shot
+,
+Focused Shot
+,
+Point-Blank Shot
+,
+Precise Shot
+, Kyonin affinity.
+Benefit
+: As a full-round action, you may make an attack that allows you to deal precision-based extra damage to a distance equal to your weapon’s range increment. You may only make this attack with bows and crossbows. Precision-based damage includes sneak attacks, a ranger’s favored weapon bonus, and the damage bonus from the Focused Shot feat. Creatures immune to critical hits and sneak attacks are immune to this extra damage.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

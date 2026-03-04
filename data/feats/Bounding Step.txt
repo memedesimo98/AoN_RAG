@@ -1,0 +1,151 @@
+Bounding Step - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Bounding Step
+Source
+Heroes of the Wild pg. 22
+You can leap through difficult terrain like a deer or elk.
+Prerequisites
+: Dex 15,
+Nimble Moves.
+Benefit
+:  You gain a +2 bonus on Acrobatics checks to keep your balance and Reflex saves to avoid falling. Additionally, select one terrain type from the ranger list of favored terrains. Within that terrain, the maximum number of feet of difficult terrain you can move through as if it were normal terrain increases by 10 feet.
+Normal
+:  Nimble Moves allows you to move through 5 feet of difficult terrain each round as if it were normal terrain.
+Special
+:  If you have the favored terrain class feature, you do not select a terrain with this feat. Instead, this feat’s increased movement through difficult terrain applies to all of your favored terrains.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

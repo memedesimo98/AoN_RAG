@@ -1,0 +1,291 @@
+Summon Evil Monster - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Summon Evil Monster
+Source
+Champions of Corruption pg. 33
+You can summon the aid of creatures driven their very nature to destroy goodness.
+Prerequisites
+: Evil alignment.
+Benefit
+:  When casting
+summon monster
+, you also have access to the list of evil monsters on this page. When summoning a creature from this list, your debased nature allows you to cast the spell as a standard action. The summoned creature appears as normal for the spell but can’t act until next your next turn. It is not flat-footed, however, and it can make attacks of opportunity as normal. These effects don’t apply for creatures from the standard list that aren’t also on this list.
+Special
+:  If you possess the Sacred Summons
+UM
+feat, you can apply it to a creature on this list whose alignment (as opposed to its subtype or subtypes) matches your aura.
+1st Level
+Fiendish dire rat (NE)
+Fiendish fire beetle (NE)
+Fiendish ghost scorpion
+B3
+(NE)
+Fiendish pony (NE)
+Fiendish stingray
+B2
+(NE)
+Fiendish vulture
+B3
+(NE)
+2nd Level
+Damned petitioner
+B2
+(LE)
+Fiendish squid (NE)
+Fuath
+B3
+(gremlin, CE)
+Hunted petitioner
+B2
+(NE)
+Larvae petitioner
+B2
+(CE)
+Lemure (devil, LE)
+Pugwampi
+B3
+(gremlin, NE)
+3rd Level
+Augur
+B3
+(kyton, LE)
+Cacodaemon
+B2
+(daemon, NE)
+Doru
+B3
+(div, NE)
+Dretch (demon, CE)
+Fiendish shark (NE)
+Howler
+B2
+(CE)
+Tripurasura
+B3
+(asura, LE)
+4th Level
+Aghash
+B3
+(div, NE)
+Hell hound (LE)
+Kelpie
+B2
+(NE)
+Schir
+B3
+(demon, CE)
+Spring-Heeled Jack
+B4
+(CE)
+Yeth Hound (NE)
+Zebub
+B2
+(devil, LE)
+5th Level
+Babau (demon, CE)
+Barbazu (devil, LE)
+Evangelist (kyton, LE)
+Fiendish giant moray eel (NE)
+Lurker in light
+B2
+(NE)
+Salamander (CE)
+Shadow mastiff
+B3
+(NE)
+6th Level
+Efreeti (genie, LE)
+Erinyes (devil , LE)
+Fiendish giant octopus (NE)
+Pairaka
+B3
+(div, NE)
+Shadow demon (CE)
+Soul eater
+B2
+(NE)
+Succubus (demon, CE)
+7th Level
+Bebilith (CE)
+Bogeyman
+B3
+(NE)
+Leukodaemon
+B2
+(daemon, NE)
+Nuckelavee
+B3
+(NE)
+Osyluth (devil, LE)
+Sacristan
+B4
+(kyton, LE)
+Vrock (demon, CE)
+8th Level
+Baregara
+B3
+(CE)
+Dorvae
+B4
+(NE)
+Hamatula (devil, LE)
+Hezrou (demon, CE)
+Meladaemon
+B2
+(daemon, NE)
+Rusalka
+B3
+(NE)
+Young adult green dragon (LE)
+9th Level
+Ankou
+B4
+(LE)
+Nalfeshnee (demon, CE)
+Derghodaemon
+B2
+(daemon, NE)
+Gelugon (devil, LE)
+Glabrezu (demon, CE)
+Sepid
+B3
+(div, NE)
+Thanadaemon
+B2
+(daemon, NE)
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

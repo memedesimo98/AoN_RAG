@@ -1,0 +1,146 @@
+Wild Growth Channel - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Wild Growth Channel
+Source
+Ultimate Wilderness pg. 119
+When you channel positive energy, you cause vines to grow and ensnare enemies.
+Prerequisites
+: Channel positive energy class feature, Plant domain.
+Benefit
+: By expending two additional uses when you channel energy, you cause the ground in the area of effect to erupt in a growth of vines. You create a number of vine growths (AC 10, 5 hp) equal to your Charisma modifier (minimum 1). Each growth of vines occupies 1 5-foot square of your choosing. As an immediate action when you use this ability, and again as a free action at the start of your turn, you can command the vines to wrap around the legs of a creature occupying the square. The creature must succeed at a Reflex save (DC = 10 + half your class level + your Charisma modifier) or become rooted to the spot. The vines last a number of rounds equal to your Charisma modifier (minimum 1). The ground must be composed of a material able to support plant life (such as soil).
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

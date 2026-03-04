@@ -1,0 +1,149 @@
+Measure Foe - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Measure Foe (Combat)
+Source
+Ultimate Intrigue pg. 86
+You can read a foe’s martial skill from its body language.
+Prerequisites
+:
+Street Smarts
+, base attack bonus +1.
+Benefit
+: You can attempt a Sense Motive check as a free action to deduce a foe’s martial training after observing the foe’s movements for at least 1 minute or observing the foe’s attacks for at least 2 rounds. You take a –10 penalty on your check if you are observing movements, rather than attacks. The DC equals 20 + the creature’s base attack bonus or 10 + the creature’s Bluff or Disguise modifier, whichever is higher.
+If you succeed, you learn the foe’s base attack bonus and one combat feat it has, and you learn an additional combat feat it has for every 5 points by which you exceed the DC. You also gain a +1 insight bonus on attack rolls against that foe and to your AC against that foe until the foe gains a level or otherwise improves its abilities. If you fail this check against a particular foe, you can’t try again against that foe until you gain more ranks in Sense Motive.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

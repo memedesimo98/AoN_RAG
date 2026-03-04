@@ -1,0 +1,165 @@
+Vital Strike - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Vital Strike (Combat)
+Source
+PRPG Core Rulebook pg. 136
+You make a single attack that deals significantly more damage than normal.
+Prerequisites
+: Base attack bonus +6.
+Benefit
+: When you use the attack action, you can make one attack at your highest base attack bonus that deals additional damage. Roll the weapon's damage dice for the attack twice and add the results together before adding bonuses from Strength, weapon abilities (such as
+flaming
+), precision-based damage, and other damage bonuses. These extra weapon damage dice are not multiplied on a critical hit, but are added to the total.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 135
+After rolling the damage of a Vital Strike attack, you can spend 2 stamina points to reroll up to two of the weapon’s damage dice. (For weapons with more than one damage die, count all the weapon’s base damage dice together as one.) You must take the second result, even if it’s lower.
+Mythic Vital Strike
+Source
+Mythic Adventures pg. 77
+You can strike your foes with incredible force.
+Prerequisites
+:
+Vital Strike.
+Benefit
+:  Whenever you use Vital Strike, Improved Vital Strike, or Greater Vital Strike, multiply the Strength bonus, magic bonus, and other bonuses that would normally be multiplied on a critical hit by the number of weapon damage dice you roll for that feat.
+Extra damage from sources that wouldn’t normally be multiplied on a critical hit isn’t multiplied by this feat.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

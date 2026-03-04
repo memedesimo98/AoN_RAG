@@ -1,0 +1,148 @@
+Sabotage Magic Item - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Sabotage Magic Item
+Source
+Ultimate Intrigue pg. 90
+You can cause magic items to suffer mishaps.
+Prerequisites
+:
+Magical Aptitude
+, Disable Device 5 ranks, Use Magic Device 5 ranks.
+Benefit
+: You can attempt a Use Magic Device check to sabotage a magic item rather than to activate it, with the same DC as activating it blindly. If you succeed at the check, you define a condition under which the magic item will suffer a mishap, either dealing 2d6 points of damage to the creature attempting to use the magic item and failing to perform its desired function or else affecting the wrong target. The condition must be either an audible or a visual trigger, as defined by the magic mouth spell. If you fail the check, you suffer a mishap instead, just as if you had failed to activate the item blindly by 10 or more.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

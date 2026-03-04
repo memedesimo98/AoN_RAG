@@ -1,0 +1,153 @@
+Tattoo Transformation - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Tattoo Transformation
+Source
+Monster Summoner's Handbook pg. 15
+You’ve learned to take on some of the resistance of a summoned creature when you absorb it as a tattoo.
+Prerequisites
+:
+Inscribe Magical Tattoo
+ISM
+or Varisian Tattoo
+ISWG
+;
+Tattoo Attunement
+; Spellcraft 9 ranks.
+Benefit
+:  When you use Tattoo Attunement on a creature you’ve summoned, you can gain that creature’s elemental resistance as long as it is in tattoo form. If the creature has resistance to multiple elemental types, you gain only one of them. If the creature is immune to an elemental type, you gain resistance 20 to that type. For example, if the creature has resistance 10 to both fire and cold and immunity to electricity, you can gain resistance 10 to either fire or cold or resistance 20 to electricity as long as the creature is in tattoo form.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

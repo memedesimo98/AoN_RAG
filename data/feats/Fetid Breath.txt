@@ -1,0 +1,148 @@
+Fetid Breath - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Fetid Breath
+Source
+Monster Codex pg. 152
+The rotting of your flesh has spread to your lungs and fills them with putrid fluids.
+Prerequisites
+: Con 15,
+Corrupted Flesh
+, 6 HD, ogre.
+Benefit
+:  You can exhale a 30-foot cone of vile-smelling, moist air mixed with phlegm and remnants of old meals. Creatures in the area must succeed at a Fortitude save (DC = 10 + 1/2 your Hit Dice + your Constitution modifier) or they are nauseated for 1d6 minutes. Affected creatures that spend a full-round action gasping for fresh air and scraping off your oral debris may attempt another save to overcome the effect. You can use this breath weapon twice per day, plus one additional time per day for every 6 HD you possess beyond 6.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

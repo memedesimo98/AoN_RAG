@@ -1,0 +1,169 @@
+Bleeding Critical - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Bleeding Critical (Combat, Critical)
+Source
+PRPG Core Rulebook pg. 118
+Your critical hits cause opponents to bleed profusely.
+Prerequisites
+:
+Critical Focus
+, base attack bonus +11.
+Benefit
+: Whenever you score a critical hit with a slashing or piercing weapon, your opponent takes 2d6 points of bleed damage (see Conditions) each round on his turn, in addition to the damage dealt by the critical hit. Bleed damage can be stopped by a DC 15 Heal skill check or through any magical healing. The effects of this feat stack.
+Special
+: You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 114
+When you deal bleed damage with this feat, you can spend up to 3 stamina points to increase the amount of bleed damage dealt by double the number of stamina points you spent.
+Mythic Bleeding Critical
+Source
+Mythic Adventures pg. 60
+Your deadliest blows unleash rivers of blood.
+Prerequisites
+:
+Bleeding Critical
+,
+Critical Focus (mythic).
+Benefit
+:  The bleed damage dealt with Bleeding Critical increases by your tier. Stopping this bleed damage requires a Heal check with a DC equal to 15 + 1/2 your tier. Any magical healing ends the bleed damage normally.
+You can expend one use of mythic power to deal 1 Con bleed, in addition to the hit point bleed damage you deal with this feat. This effect increases by 1 for each additional use of mythic power you expend.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

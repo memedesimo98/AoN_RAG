@@ -1,0 +1,165 @@
+Covering Shield - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Covering Shield (Combat)
+Source
+Dragonslayer's Handbook pg. 24
+You can use your shield to
+protect your most vulnerable
+parts from area effects.
+Prerequisites
+: Dex 13, Shield
+Focus,
+Shield Proficiency.
+Benefit
+:  While using a shield of the type
+to which your Shield Focus feat applies, you
+gain a bonus on Reflex saves against area of effect
+attacks equal to your shield’s base bonus to armor class
+plus any bonuses granted by feats or class abilities. This
+does not transfer any enhancement bonuses on a shield
+to Reflex saves.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Armor Master's Handbook pg. 20
+You can spend 3 stamina points to also gain the enhancement bonus of your shield on your Reflex save against one attack or hazard. (
+Dragonslayer’s Handbook 24
+)
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

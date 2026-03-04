@@ -1,0 +1,150 @@
+Feral Grace - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Feral Grace (Combat)
+Source
+Ultimate Wilderness pg. 218
+The animal’s grace and agility are honed for battle, making it a deadly combatant.
+Prerequisites
+:
+Weapon Finesse
+, base attack bonus +3, animal companion.
+Benefit
+: Choose one of the animal companion’s natural attack. When the animal companion makes a melee attack with the chosen natural attack using its Dexterity bonus on attack rolls and its Strength bonus on damage rolls, it adds 1/4 of its Hit Dice as a bonus on damage rolls. This bonus damage doesn’t increase or decrease based upon whether the natural attack is a primary or secondary natural attack.
+Special
+: You can select this feat multiple times. Its effects don’t stack. Each time you select this feat, choose a different natural attack to apply its benefit to.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

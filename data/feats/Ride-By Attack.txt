@@ -1,0 +1,163 @@
+Ride-By Attack - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Ride-By Attack (Combat)
+Source
+PRPG Core Rulebook pg. 132
+While mounted and charging, you can move, strike at a foe, and then continue moving.
+Prerequisites
+: Ride 1 rank,
+Mounted Combat.
+Benefit
+: When you are mounted and use the charge action, you may move and attack as if with a standard charge and then move again (continuing the straight line of the charge). Your total movement for the round can't exceed double your mounted speed. You and your mount do not provoke an attack of opportunity from the opponent that you attack.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 130
+After making a mounted charge attack using this feat, you can spend 5 stamina points to change the direction of your movement instead of continuing to move in a straight line.
+Mythic Ride-By Attack
+Source
+Mythic Adventures pg. 72
+You can make multiple attacks as you ride past your enemies.
+Prerequisites
+:
+Ride-By Attack.
+Benefit
+:  When you successfully strike an opponent as part of a Ride-By Attack, you can continue to make attacks against successive targets. You can make one additional attack per 3 tiers you possess, but you can’t make more attacks than you could if you were making a full attack. Successive attacks use the lower bonus for multiple attacks, as when making a full attack. You must move at least 10 feet between each attack.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

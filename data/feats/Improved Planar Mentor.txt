@@ -1,0 +1,191 @@
+Improved Planar Mentor - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Improved Planar Mentor
+Source
+Plane-Hopper's Handbook pg. 26
+As you grow, so too does your mentor’s influence.
+Prerequisites
+:
+Planar Mentor
+, character level 7th.
+Benefit
+: You can benefit from your
+Planar Mentor
+feat one additional time per day. While your mentor’s boon is active, weapons and natural weapons you wield overcome damage reduction as though they were weapons of that alignment (e.g., as good weapons for earning good approval). For neutral approval, your weapons and natural weapons overcome damage reduction as cold iron and silver weapons.
+Once per day while benefiting from your mentor’s boon, you can cast one of the following spell-like abilities based on the active boon’s alignment (CL = your character level). Once you cast the spell-like ability, your mentor’s boon ends immediately.
+Chaotic
+:
+Chaos hammer
+,
+magic circle against law
+,
+summon monster IV
+(chaotic outsiders only).
+Evil
+:
+Magic circle against good
+,
+summon monster IV
+(evil outsiders only),
+unholy blight
+.
+Good
+:
+Holy smite
+,
+magic circle against evil
+,
+summon monster IV
+(good outsiders only).
+Lawful
+:
+Magic circle against chaos
+,
+order’s wrath
+,
+summon monster IV
+(lawful outsiders only).
+Neutral
+:
+Bestow curse
+,
+prayer
+,
+summon monster IV
+(outsiders without alignment subtypes only).
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

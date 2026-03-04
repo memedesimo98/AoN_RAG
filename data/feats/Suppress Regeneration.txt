@@ -1,0 +1,144 @@
+Suppress Regeneration - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Suppress Regeneration (Combat, Teamwork)
+Source
+Giant Hunter's Handbook pg. 19
+You and your allies can exacerbate a regenerating creature’s weaknesses. By making a precisely timed attack to open a serious wound just a bit further, your allies can extend the length of time the creature’s regeneration is suppressed.
+Benefit
+:  When you make a successful attack that causes a creature’s regeneration ability to cease functioning for at least 1 round (such as by hitting a troll with alchemist’s fire), any ally who also has this feat and is currently threatening the creature can make an attack of opportunity against it. This attack of opportunity deals no damage, but instead extends the time that the creature’s regeneration is suppressed by 1 additional round. If multiple allies with this feat hit the creature with this attack of opportunity, the additional rounds of suppression stack.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

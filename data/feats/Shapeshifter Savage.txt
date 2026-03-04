@@ -1,0 +1,154 @@
+Shapeshifter Savage - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Shapeshifter Savage (Combat)
+Source
+Martial Arts Handbook pg. 19
+You have enough control over your transformations that you can lash out at an opponent while assuming your alternate form.
+Prerequisites
+:
+Shapeshifter Style
+,
+Shapeshifter Twist
+, base attack bonus +8, change shape ability, shapechanger subtype.
+Benefit
+: While you are using
+Shapeshifter Style
+, if you use your change shape or wild shape ability as a standard action, you can also make a single melee attack with one of your natural weapons at your highest base attack bonus against one foe within your reach.
+Special
+: A character with the wild shape class feature counts as having the change shape ability and shapechanger subtype for the purpose of meeting this feat’s prerequisites.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,148 @@
+Ankle Biter - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Ankle Biter (Combat)
+Source
+Goblins of Golarion pg. 24
+You know how take a mouthful out of anyone who tries to overpower you.
+Prerequisites
+: Goblin, Escape Artist 1 rank.
+Benefit
+:  If you are the target of a combat maneuver you can, as an immediate action, attempt to bite your opponent in addition to any attacks of opportunity or other consequences your opponent might incur from attacking you. This bonus natural attack does not provoke an attack of opportunity itself and deals base damage appropriate for a creature of your current size (usually 1d4 for Small creatures). If grappled or pinned, you can continue to make this additional bite attack each round as swift action on your turn. You gain a bonus on any attempt to break the grapple equal to the damage you dealt with your bite that round.
+Special
+:  You cannot make this bite attack when you are the aggressor, including if you manage to reverse a grapple or make any other attack of opportunity.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

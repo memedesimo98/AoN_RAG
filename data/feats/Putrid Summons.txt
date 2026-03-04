@@ -1,0 +1,160 @@
+Putrid Summons - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Putrid Summons
+Source
+Horror Adventures pg. 91
+You summon creatures whose very presence turns the stomach of your foes.
+Prerequisites
+:
+Spell Focus (conjuration)
+; ability to cast
+summon monster
+or
+summon nature’s ally
+.
+Benefit
+: When you cast a
+summon monster
+or
+summon nature’s ally
+spell, you can choose to summon a single creature that exudes a putrid odor or befouls the water surrounding it, granting it the stench universal monster ability. The duration of the sickened condition created by this stench is a number of rounds equal to the spell’slevel. When performing a putrid summon, you summon a creature from the next lower list than the spell you are casting. For instance, if you cast
+summon monster IV
+, you summon a creature from the
+summon monster III
+list.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

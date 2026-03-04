@@ -1,0 +1,148 @@
+Energized Wild Shape - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Energized Wild Shape
+Source
+Ultimate Wilderness pg. 110
+Your wild shape form gains the benefits of one energy type for both offensive and defensive purposes.
+Prerequisites
+: Wis 19, base attack bonus +6, wild shape class feature.
+Benefit
+: When you assume a wild shape form, choose one of the following energy types: acid, cold, electricity, or fire. You gain resistance 10 to that energy type. Also, one of your natural attacks deals an additional 1d6 points of damage of the chosen energy type. If you choose a wild shape form that already has energy resistance of the same type you choose, it increases by 5 instead. If you choose a wild shape form that deals damage of the same energy type you choose, increase the energy damage you deal by one die size (1d6 becomes 1d8, and so on).
+Special
+: You can take this feat more than once. Each time you take this feat, choose a different energy type.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

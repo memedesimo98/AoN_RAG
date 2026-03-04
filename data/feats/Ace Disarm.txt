@@ -1,0 +1,154 @@
+Ace Disarm - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Ace Disarm (Targeting, Weapon Mastery)
+Source
+Weapon Master's Handbook pg. 20
+You catch objects with your ranged attacks and drag them along with you.
+Prerequisites
+: Dex 13,
+Deadly Aim
+,
+Ranged Disarm (
+Ranged Tactics Toolbox
+8)
+, base attack bonus +6, weapon training class feature with a ranged weapon.
+Benefit
+:  You don’t take the –2 penalty for attempting disarm combat maneuver checks with a ranged weapon using Ranged Disarm, and you can attempt a steal
+APG
+combat maneuver check instead of a disarm combat maneuver check when using Ranged Disarm. In addition, when you successfully disarm or steal an item from an opponent, that item is deposited in that opponent’s square. For every 5 by which your attack exceeds the target’s CMD, you can deposit the item 5 feet away from the target (to a maximum of the attack’s maximum range or until your projectile strikes an object that it cannot penetrate). If you use this ability with a thrown weapon and have the Ricochet Toss feat, both the weapon and the item return to you.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

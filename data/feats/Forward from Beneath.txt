@@ -1,0 +1,154 @@
+Forward from Beneath - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Forward from Beneath (Story)
+Source
+Pathfinder #131: The Reaper's Right Hand pg. 78
+You have vowed to infiltrate your wicked kin and redeem your family’s reputation.
+Prerequisites
+: Be a member of House Kastner, be a good-aligned member of a family or organization whose secret evil has been publicly revealed, or have the Dishonored Family or Betrayal backgrounds.
+Benefit
+: Your experience with infiltrating your own family or organization gives you a +2 bonus on Disguise checks. If you have 10 or more ranks in Disguise, this bonus increases to +4. If you are not evil, as a standard action you can choose to radiate a faint aura of evil for the purposes of spells such as
+detect evil
+. You can dismiss this ersatz aura as a standard action.
+Goal
+: Redeem your family or organization.
+Completion Benefit
+: You gain the benefit of
+undetectable alignment
+as a constant spell-like ability. You can suppress or resume this ability as a standard action.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

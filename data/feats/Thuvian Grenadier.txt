@@ -1,0 +1,147 @@
+Thuvian Grenadier - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Thuvian Grenadier (Teamwork)
+Source
+People of the Sands pg. 9
+Training with alchemically inclined allies helps you avoid friendly fire.
+Prerequisites
+: Precise Shot or Throw Anything.
+Benefit
+:  Whenever you hit a creature with a splash weapon, you may choose to exclude one creature within the weapon’s splash area from taking splash damage. If a creature within the splash area also has this feat, it automatically ignores splash damage from your splash weapons on a successful hit.
+In addition, if you miss with a splash weapon and the errant weapon lands in a square occupied or adjacent to an ally with this feat, your ally can attempt a DC 20 Reflex save. If the ally succeeds, he is able to catch the weapon. If your ally also has the Snatch Arrows feat, he can toss the splash weapon back to you as an immediate action.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,180 @@
+Whispering Way Disciple - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Whispering Way Disciple
+Source
+Agents of Evil pg. 13
+Your research has gained the attention of the Whispering Way, which rewards you with access to its libraries.
+Prerequisites
+:
+Associate (Whispering Way).
+Benefit
+:  You can exploit lore acquired from the Whispering Way once per day to combine your own blood and a vial of unholy water to create a
+potion of cure light wounds
+or a
+potion of inflict light wounds
+as a full-round action. The blood loss from this transformation deals 1 point of Constitution damage to you. In addition, in any settlement that is the size of a small town or larger, you can always find scrolls of the following spells available for purchase regardless of their legality:
+animate dead
+,
+control undead
+,
+create undead
+,
+detect undead
+,
+disrupt undead
+,
+false life
+,
+greater false life
+UM
+,
+ghoul touch
+,
+lesser animate dead
+UM
+,
+mass repair undead
+ACG
+,
+repair undead
+ACG
+, and
+undead anatomy I–IV
+UM
+.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

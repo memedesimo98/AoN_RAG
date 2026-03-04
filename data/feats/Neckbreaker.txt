@@ -1,0 +1,165 @@
+Neckbreaker - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Neckbreaker (Combat)
+Source
+Ultimate Combat pg. 111
+With a quick jerk, you snap an enemy’s neck.
+Prerequisites
+:
+Bonebreaker
+,
+Greater Grapple
+,
+Improved Grapple
+,
+Improved Unarmed Strike
+,
+Jawbreaker
+,
+Stunning Fist
+, Heal 12 ranks.
+Benefit
+:  If you have an opponent your size or smaller helpless or pinned, after you initiate or maintain a grapple, you can make a Stunning Fist attempt at a –5 penalty on the attack roll. If you succeed, you wrench that opponent’s neck, dealing 2d6 Strength or Dexterity damage. If the targeted ability score is reduced to 0, any remaining damage is dealt to that opponent’s Constitution score. A creature that is immune to critical hits or that has no discernible head and neck is immune to the effects of this feat.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 127
+When using this feat, you can spend 10 stamina points to deal 1d6 points of Constitution damage instead of 2d6 points of Strength or Dexterity damage.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

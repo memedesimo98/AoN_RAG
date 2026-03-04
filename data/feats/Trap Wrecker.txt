@@ -1,0 +1,148 @@
+Trap Wrecker - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Trap Wrecker
+Source
+Advanced Race Guide pg. 142
+You can smash traps instead of disarming them.
+Prerequisites
+:
+Power Attack
+, Disable Device 1 rank, orc.
+Benefit
+:  You can attempt to disarm a trap by striking it with a melee weapon instead of making a Disable Device check. As a full-round action, make a melee attack against an Armor Class equal to the trap’s Disable Device DC. If you miss, the trap activates. If you hit, roll damage. If this damage is at least half the trap’s Disable Device DC, you disable the trap. If this damage is less than half the trap’s Disable Device DC, the trap activates. You can only attempt this on nonmagical traps. You must be able to reach some part of the trap with your attack in order to use this feat. At the GM’s discretion, some traps may not be susceptible to this feat.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

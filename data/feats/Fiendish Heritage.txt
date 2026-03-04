@@ -1,0 +1,150 @@
+Fiendish Heritage - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Fiendish Heritage
+Source
+Pathfinder #25: The Bastards of Erebus pg. 66
+You possess a strong tie to your fiendish ancestors, granting you favorable abilities.
+Prerequisites
+: Tiefling, must be taken at 1st level.
+Benefit
+: Your fiendish bloodline proves particularly strong, being tied to a specific race of fiends. Rather than taking a tiefling’s usual racial ability modifiers, choose one of the tiefling heritage modifiers presented on page 64. In addition, you may roll on the Variant Tiefling Abilities table three times and choose the most favorable ability.
+Nethys Note
+:
+Blood of Fiends pgs. 18-23
+reprints the tiefling heritages and does not require players to select the Fiendish Heritage feat to take one.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

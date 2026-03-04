@@ -1,0 +1,151 @@
+Hellknight Aegis - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Hellknight Aegis
+Source
+Path of the Hellknight pg. 62
+Your Hellknight armor guards you against many threats.
+Prerequisites
+: Heavy Armor Proficiency, base attack bonus +5, must swear allegiance to a single Hellknight order.
+Benefit
+: Once per day as a full-round action, you can give your Hellknight armor the broken condition. Upon doing so, you are affected by one of the following spells (your choice), using your character level as your caster level:
+break enchantment, neutralize poison, remove disease
+, or
+remove paralysis
+. Once you have used this benefit, your Hellknight armor must be repaired as normal to restore its full bonus to your Armor Class and return its armor check penalty to normal.
+You can use this ability even if paralyzed or otherwise restrained, but not if you are unconscious. For the purposes of this ability, “Hellknight armor” means any armor with the word “Hellknight” in its name. You cannot use this ability if your armor is already broken.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

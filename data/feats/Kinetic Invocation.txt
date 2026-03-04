@@ -1,0 +1,276 @@
+Kinetic Invocation - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Kinetic Invocation
+Source
+Psychic Anthology pg. 24
+You have learned to channel your element’s energy into the magic used by traditional spellcasters.
+Prerequisites
+: Kineticist level 1st, elemental focus class feature.
+Benefit
+: For each kineticist element to which you have access, you treat all spells associated with that element (see below) as utility wild talents of the listed level, which you can select as normal. Each has a burn cost of 1 unless otherwise noted, and any nonpermanent, non-instantaneous effects end when your burn is removed. Using this wild talent is considered psychic spellcasting (except for the purpose of prerequisites), and you must provide emotion and thought components, as well as material components where appropriate. In addition, some spells are restricted to certain races (as detailed on page 9 of
+Pathfinder RPG Advanced Race Guide
+). Your caster level for a spell is equal to your kineticist level, and the save DC for any spell is equal to 10 + the listed level of the spell + your Constitution modifier. At the GM’s discretion, other appropriate spells can be added to each element’s list.
+Aether
+:
+Etheric shards
+OA
+(5th),
+instant armor
+APG
+(2nd),
+kinetic reverberation
+UC
+(2nd),
+protective spirit
+APG
+(3rd),
+telekinetic charge
+UC
+(4th; 2 burn).
+Air
+:
+Air step
+ACG
+(2nd),
+body capacitance
+ACG
+(1st),
+cloak of winds
+APG
+(3rd),
+cloud shape
+ARG
+(4th; self only),
+gaseous form
+(3rd),
+wind walk
+(6th).
+Earth
+:
+Expeditious excavation
+APG
+(2nd; 0 burn),
+groundswell
+ARG
+(2nd),
+imprisonment
+(9th),
+rampart
+APG
+(7th),
+slowing mud
+ACG
+(4th),
+statue
+(7th; 0 burn; self only),
+stone shield
+ARG
+(1st).
+Fire
+:
+Blessing of the salamander
+APG
+(5th; self only),
+boiling blood
+UM
+(2nd),
+death candle
+ARG
+(2nd),
+fury of the sun
+ARG
+(2nd; 0 burn),
+hypnotic pattern
+(2nd),
+hypnotism
+(2nd; 0 burn),
+invigorate
+APG
+(1st).
+Void
+:
+Animate dead
+(3rd),
+command undead
+(2nd),
+death ward
+(4th),
+halt undead
+(3rd),
+life channel
+ARG
+(1st; 0 burn; self only),
+mind blank
+(8th; self only),
+unliving rage
+ACG
+(3rd).
+Water
+:
+Fluid form
+APG
+(6th),
+ride the waves
+UM
+(4th),
+silent image
+(2nd; 0 burn),
+sleet storm
+(3rd),
+water breathing
+(3rd).
+Wood
+:
+Command plants
+(4th),
+fairy ring retreat
+ACG
+(7th; ends 1 hour after your burn is removed),
+goodberry
+(1st),
+grove of respite
+APG
+(4th),
+lesser restoration
+(2nd),
+ward of the season
+ARG
+(3rd).
+Special
+: Kineticists with the air affinity, earth affinity, fire affinity, or water affinity racial traits or the air, earth, fire, or water subtypes can select spells of the appropriate element as if they had this feat. Caligni (Pathfinder RPG Bestiary 5 66) and dhampir (Pathfinder RPG Bestiary 2 89) kineticists can select spells of the void element as if they had this feat. Gathlain (Pathfinder RPG Bestiary 4 122) and ghoran (Bestiary 5 119) kineticists can select spells of the wood element as if they had this feat. Such a character must still have access to the appropriate element to select spells this way. At the GM’s discretion, this benefit can be expanded to other races.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

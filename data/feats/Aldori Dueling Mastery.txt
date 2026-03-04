@@ -1,0 +1,164 @@
+Aldori Dueling Mastery - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Aldori Dueling Mastery (Combat)
+Source
+Adventurer's Guide pg. 24
+,
+Pathfinder Campaign Setting pg. 67
+,
+Inner Sea World Guide pg. 284
+You have mastered the impenetrable Aldori fighting style.
+Prerequisites
+:
+Exotic Weapon Proficiency (Aldori dueling sword)
+,
+Quick Draw
+,
+Weapon Finesse
+,
+Weapon Focus (Aldori dueling sword).
+Benefit
+: You gain a +2 bonus on initiative checks as long as you start combat with an Aldori dueling sword in your hand. As long as you wield only a single Aldori dueling sword in one hand (not using a shield, an off-hand weapon, armor spikes, unarmed strikes, or natural weapons), you gain a +2 shield bonus to your AC. If you wield the sword in two hands, this bonus drops to a +1 shield bonus to AC. Although the dueling sword deals slashing damage, you treat it as if it were also a piercing weapon when determining the effects of weapons used by a duelist or swashbuckler.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Weapon Master's Handbook pg. 24
+You can spend up to 6 stamina points at the start of your turn to increase the shield bonus that you gain from the Aldori Dueling Mastery feat by 1 per 2 stamina points spent until the start of your next turn.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

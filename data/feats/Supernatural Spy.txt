@@ -1,0 +1,154 @@
+Supernatural Spy - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Supernatural Spy (Story)
+Source
+Spymaster's Handbook pg. 17
+Your familiarity with magic drives you to discover a great supernatural secret. You might work with an eldritch organization, which could be a school of magic such as the Arcanamirium or part of a government with strong ties to magic such as that of Irrisen, or you might attempt to keep your magical inquiries hidden from your employers.
+Prerequisites
+: Alchemist discovery, arcane discovery, arcanist exploit, or magus arcana class feature and you must either have observed a created magical effect you could not understand or have the Master Craftsman
+UCA
+or the Unquenchable Hunger for Knowledge
+UCA
+background.
+Benefit
+: Treat your Intelligence, Wisdom, or Charisma score as 2 higher for the purpose of calculating the effects and save DCs of one of the following class features: alchemist discoveries, arcane discoveries, arcanist exploits, or magus arcana. You select both the ability score and class feature to be affected when you select this feat, and the choice cannot be changed. This increases the potency of the abilities but does not grant access to additional abilities.
+Goal
+: Learn a great supernatural secret, connected in some manner to an aspect of the class feature you selected with this story feat. You must evade or thwart a challenging foe in the process.
+Completion Benefit
+: When calculating the effect of the class feature selected with this feat, you treat your class level for the relevant class as 2 higher. This does not impact when you gain access to additional abilities tied to that class feature, only the effectiveness of abilities from the feature you already have.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

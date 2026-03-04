@@ -1,0 +1,158 @@
+Gaze Reflection - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Gaze Reflection
+Source
+Ultimate Intrigue pg. 84
+The power of your psychic stare wards you from the potent gazes of your enemies.
+Prerequisites
+: Spellcraft 10 ranks, bold stare
+OA
+and mesmerist tricks
+OA
+class features.
+Benefit
+: When you avert your eyes from a creature with a gaze attack (including one produced by a spell like
+eyebite
+or
+burning gaze
+or by a magic item), you can roll twice and select the better result when checking to see whether you are exposed to that gaze attack and when rolling your miss chance on attacks made against that creature (the latter doesn't stack with
+Blind-Fight
+). In addition, as a swift action, you can expend one mesmerist trick to make yourself immune to that creature's gaze until the beginning of your next turn. If you expend two mesmerist tricks instead, you gain immunity to that creature's gaze and also reflect its gaze back at it, affecting it with its own gaze.
+Special
+: A mesmerist’s hypnotic stare, a witch’s or hag’s evil eye, and a vampire’s dominate ability are treated as gaze attacks for the purpose of this feat, as are abilities that are triggered when looking at a creature, such as a nymph’s blinding beauty or a sea hag’s horrific appearance. Spending two mesmerist tricks on this feat does not bypass any immunity the creature might have to its own gaze, such as a vampire’s immunity to mind-affecting effects or the fact that the nymph’s blinding beauty works only on humanoids.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

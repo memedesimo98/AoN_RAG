@@ -1,0 +1,151 @@
+Arcing Weapon - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Arcing Weapon (Combat)
+Source
+Chronicle of Legends pg. 8
+You can send magical blasts through your weapon.
+Prerequisites
+:
+Diverse training class feature.
+Benefit
+: As a standard action, you can cast a ray spell that requires a ranged touch attack and deliver the effect through your melee weapon, either through a melee attack or as a ranged attack. If you deliver this spell as a melee attack, this functions as the
+magus spellstrike ability
+. If you deliver the spell as a ranged attack, the spell is a ranged touch attack that discharges from your weapon and applies the weapon’s enhancement bonus to the spell’s damage. When fired in this way, the spell uses the weapon’s critical threat range, but the spell effect deals only ×2 damage on a successful critical hit. You can use a ranged touch attack spell that targets more than one creature (such as
+scorching ray
+), but you make only one attack through your weapon to deliver one ranged touch effect; additional ranged touch attacks from the spell are wasted and have no effect.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

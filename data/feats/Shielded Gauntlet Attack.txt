@@ -1,0 +1,154 @@
+Shielded Gauntlet Attack - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Shielded Gauntlet Attack (Combat, Shield Style)
+Source
+Armor Master's Handbook pg. 12
+Your gauntlet helps you take advantage of weakness.
+Prerequisites
+:
+Shield Gauntlet Style
+,
+Weapon Focus (gauntlet or spiked gauntlet)
+, proficiency with bucklers and light shields.
+Benefit
+: While using Shield Gauntlet Style, you can calculate the damage of your gauntlet or spiked gauntlet using the sacred weapon damage value of a warpriest
+ACG
+with a level 4 less than your base attack bonus. The style also allows you to take one attack of opportunity each round that does not count toward your maximum number of attacks of opportunity. This must be used to make an attack with your gauntlet (or spiked gauntlet), or a disarm or steal
+APG
+combat maneuver. You do not provoke an attack of opportunity for performing either combat maneuver, and you are able to attempt a steal combat maneuver with this attack of opportunity despite the maneuver normally requiring a standard action.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

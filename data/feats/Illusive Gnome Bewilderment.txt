@@ -1,0 +1,157 @@
+Illusive Gnome Bewilderment - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Illusive Gnome Bewilderment (Combat)
+Source
+Weapon Master's Handbook pg. 12
+You can use your gnome weapons in unusual ways.
+Prerequisites
+: Int 13,
+Combat Expertise
+,
+Gnome Weapon Focus
+ARG
+,
+Illusive Gnome Style
+,
+Illusive Gnome Surprise
+,
+Improved Feint
+, gnome magic and weapon familiarity racial traits.
+Benefit
+:  While using Illusive Gnome Style, when you successfully use Bluff to feint against an opponent, you can pick one special weapon feature from among those listed by Illusive Gnome Surprise and deny the opponent its Dexterity modifier to AC, as normal for feinting; alternatively, you can pick two special weapon features instead of one.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

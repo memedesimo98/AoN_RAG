@@ -1,0 +1,153 @@
+Cranial Adjustment - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Cranial Adjustment
+Source
+Occult Origins pg. 24
+You have learned to manually adjust the plates that make up the skull, inducing altered states in your subjects.
+Prerequisites
+: Deft Hands or Trepanation.
+Benefit
+:  You can perform the hypnotism occult skill unlock
+OA
+even if you can’t use psychic magic. If you can cast psychic spells or have the Psychic Sensitivity
+OA
+feat, you can use hypnotism one additional time per day.
+You can use the Sleight of Hand skill in place of Diplomacy to hypnotize a subject, but doing so requires 10 minutes of contact with the target’s skull. You can perform an adjustment that takes 1 hour to access the deeper recesses of a target’s emotional mind, either granting the target a +2 bonus or imposing a –2 penalty on the target’s saving throws against mind-affecting emotion
+UM
+effects for 24 hours.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

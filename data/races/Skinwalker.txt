@@ -1,0 +1,280 @@
+Skinwalker - Races - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+Core Races
+|
+Other Races
+Skinwalkers
+Source
+Bestiary 5 pg. 233
+,
+Inner Sea Races pg. 248
+,
+Blood of the Moon pg. 6
+Monster Entry
+Link
+Most people believe skinwalkers are half-breeds of lycanthropes, or that they share some slight version of the curse of those creatures. Skinwalker shamans say they are chosen by nature or the gods to be a bridge between the world of humanity and the animal world. The truth may lie somewhere between these two ideas. For indeed, skinwalkers are those with a lycanthrope crouching somewhere in the branches of their family tree. These distant progeny of monstrous werewolves and other creatures of the night have special talents unlike those of most civilized peoples, and they arise randomly among remote humanoid populations as well as within their own secretive sects. A pair of humans may give birth to a skinwalker—the dormant lycanthropic ancestry making itself known in a child neither beast nor human—or a pair of skinwalker parents may produce a skinwalker child, though these couplings can sometimes produce human children as well.
+Skinwalkers resemble humans much of the time, but they possess the uncanny ability to transform into bestial humanoids who combine the most fearsome aspects of flesh and fur. It’s largely believed that skinwalkers originated far from the Inner Sea region, on the distant continent of Arcadia to the west, though their prevalence in Avistan and Garund leads many to question this theory.
+Physical Description
+: Outwardly human, skinwalkers are virtually indistinguishable from others of the ethnic group into which they are born. Those rare skinwalkers who have bred true for generations tend to have dark eyes, straight dark hair, and richly colored skin. Skinwalkers’ features vary greatly when they shapechange. They gain a bestial visage evoking the creatures they emulate; the snout elongates, teeth become more prominent, claws emerge from fingertips, and skin toughens into hide. Despite their shapechanging abilities, they are not immune to infection from full lycanthropes.
+Society
+: Skinwalkers sometimes weave themselves into other societies, hoping their peculiar talents go unnoticed. They may also be nomads found in lands with wide-open spaces. Groups of skinwalkers hidden among a larger community of non-skinwalkers may regularly gather for lunar rituals or nocturnal pack hunting.
+Relations
+: Skinwalkers mostly populate human settlements and communities. They tend to get along with catfolk, tengus, and members of other animal-like races (including lycanthropes), and are comfortable taking their animalistic forms in the company of these fellows. However, many natural lycanthropes see skinwalkers as weaker, inferior versions of their own kind, and some lycanthropes even take to infecting or even hunting their distant kin.
+Alignment and Religion
+: Skinwalkers tend toward neutral alignments, but may be of any. Many follow the Green Faith or venerate deities with close ties to nature and the animal world, as well as those connected with hunting, transformation, travel, and trickery.
+Adventurers
+: Often on the move, skinwalkers make for excellent adventurers. Once they become comfortable in a group, most skinwalkers come to see their adventuring allies as their pack or herd.
+Names
+: Skinwalkers born in human and humanoid societies share the naming conventions of the surrounding culture. Skinwalkers born in their own packs typically have names similar to their overarching ethnicities appended with flavorful, animal-inspired appellations such as Bearmaw, Wolftamer, Fangblood, or Owlmarked.
+Skinwalker Racial Traits
++2 Wisdom, –2 Intelligence, +2 to One Physical Ability Score While in Bestial Form
+: Skinwalkers are attuned to the natural order and value passion above reason. Their bestial forms strengthen their bodies in various ways.
+Medium
+: Skinwalkers are Medium creatures and have no bonuses or penalties due to their size.
+Normal Speed
+: Skinwalkers have a base speed of 30 feet.
+Low-Light Vision
+: Skinwalkers can see twice as far as humans can in dim light.
+Spell-Like Ability
+: A skinwalker with a Wisdom score of 11 or higher can use
+speak with animals
+once per day as a spell-like ability, using his Wisdom modifier to determine his concentration checks. The caster level for this ability is equal to the skinwalker's character level.
+Animal-Minded
+: Skinwalkers have a +2 racial bonus on Handle Animal checks and on wild empathy checks.
+Change Shape (Su)
+A skinwalker can change shape to a bestial form as a standard action. In bestial form, a skinwalker gains a +2 racial bonus to his choice of Strength, Dexterity, or Constitution. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, he can choose to gain two claw attacks that each deal 1d4 points of damage, 60 foot darkvision, or a +1 natural armor bonus. These benefits last until the skinwalker returns to his humanoid form as a swift action. A skinwalker must first return to his humanoid form before changing to bestial form again to change benefits.
+Languages
+: Skinwalkers all begin play speaking Common. Skinwalkers with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic).
+Subraces
+Werebat-Kin (Bloodmarked)
+Source
+Inner Sea Races pg. 248
+,
+Blood of the Moon pg. 8
+These skinwalkers are usually communal and defer readily to their superiors. They prefer dwelling in areas of dense foliage, such as jungles or forests. They often have little trust for those not in their immediate clan.
+Ability Modifiers
++2 Intelligence, –2 Wisdom (+2 Dexterity while shapechanged)
+Alternate Skill Modifiers
+Fly, Perception at night
+Alternate Spell-Like Ability
+obscuring mist
+1/day
+Bestial Features
+Bite attack that deals 1d6 points of damage
++4 racial bonus on Perception checks
+Scent to a range of 30 feet
+Treat falling damage as if the distance fallen were 20 feet less than it actually is
+Werebear-Kin (Coldborn)
+Source
+Inner Sea Races pg. 248
+,
+Blood of the Moon pg. 10
+Known and respected as the defenders of the wild in many parts of the Lands of the Linnorm Kings, these skinwalkers often prefer to live as recluses.
+Ability Modifiers
++2 Constitution, –2 Charisma (+2 Wisdom while shapechanged)
+Alternate Skill Modifiers
+Climb, wild empathy
+Alternate Spell-Like Ability
+calm animals
+1/day
+Bestial Features
+Bite attack that deals 1d6 points of damage
+2 claw attacks that each deal 1d4 points of damage
+Climb speed of 20 feet
+Scent to a range of 30 feet
+Wereboar-Kin (Ragebred)
+Source
+Inner Sea Races pg. 248
+,
+Blood of the Moon pg. 12
+These skinwalkers are known for their fiery tempers and stubborn streaks, features that have earned them respect in remote corners of Garund, Cheliax, and Varisia as freedom fighters.
+Ability Modifiers
++2 Strength, –2 Charisma (+2 Constitution while shapechanged)
+Alternate Skill Modifiers
+Handle Animal, Perception
+Alternate Spell-Like Ability
+speak with animals
+(pigs and boars only) 3/day
+Bestial Features
++10 foot racial bonus to base speed
+Gore attack that deals 1d6 points of damage
+2 hoof attacks that each deal 1d4 points of damage
+Scent to a range of 30 feet
+Werecrocodile-Kin (Scaleheart)
+Source
+Inner Sea Races pg. 249
+,
+Blood of the Moon pg. 14
+Found most often in areas such as the Shackles and the Sodden lands, these skinwalkers are often brutish and cruel.
+Ability Modifiers
++2 Constitution, –2 Wisdom (+2 Strength while shapechanged)
+Alternate Skill Modifiers
+Stealth, wild empathy
+Alternate Spell-Like Ability
+scare
+1/day
+Bestial Features
+Bite attack that deals 1d6 points of damage
+Darkvision to a range of 60 feet
+Swim speed of 30 feet
+Ferocity
+Wereraptor-Kin (Aerieborn)
+Source
+Pathfinder #115: Trail of the Hunted pg. 89
+Ancestry
+wereraptor
+Typical Alignment
+LN
+Ability Modifiers
++2 Wis, –2 Cha (+2 Dex while shapechanged)
+Alternate Skill Modifiers
+Perception, Sense Motive
+Alternate Spell-Like Ability
+feather fall
+1/day
+Bestial Features
+Bite attack that deals 1d6 points of damage
+2 talon attacks that each deal 1d4 points of damage
++4 racial bonus on Perception checks
+Increase fly speeds from other sources by 10 feet
+Wererat-Kin (Nightskulk)
+Source
+Inner Sea Races pg. 249
+,
+Blood of the Moon pg. 18
+These creatures, who are among the more common of the skinwalkers, prefer to dwell in urban areas.
+Ability Modifiers
++2 Intelligence, –2 Strength (+2 Dexterity while shapechanged)
+Alternate Skill Modifiers
+Handle Animal, Stealth in urban environments
+Alternate Spell-Like Ability
+speak with animals
+(rodents only) 3/day
+Bestial Features
+Bite attack that deals 1d6 points of damage
+Climb speed of 30 feet
+Distraction
+(except with only one chosen natural attack per round, and sickens instead of nauseates).
+Scent to a range of 30 feet
+Wereshark-Kin (Seascarred)
+Source
+Inner Sea Races pg. 249
+,
+Blood of the Moon pg. 20
+These unusual skinwalkers tend to be strong-willed and brisk in their patterns of speech. They often serve aboard pirate ships, where their traits are well appreciated.
+Ability Modifiers
++2 Wisdom, –2 Intelligence (+2 Constitution while shapechanged)
+Alternate Skill Modifiers
+Perception, Swim
+Alternate Spell-Like Ability
+charm animal
+(aquatic animals only) 3/day
+Bestial Features
+Breathe water as well as air
+Bite attack that deals 1d6 points of damage
+Ferocity
+Swim speed of 30 feet
+Weretiger-Kin (Fanglord)
+Source
+Inner Sea Races pg. 249
+,
+Blood of the Moon pg. 22
+More common in Vudra than the Inner Sea region, these skinwalkers are notorious for their fickle attitudes.
+Ability Modifiers
++2 Dexterity, –2 Wisdom (+2 Charisma while shapechanged)
+Alternate Skill Modifiers
+Acrobatics, Perception
+Alternate Spell-Like Ability
+jump
+1/day
+Bestial Features
+Bite attack that deals 1d6 points of damage
+2 claw attacks that each deal 1d4 points of damage
++10-foot racial bonus to base speed
+See in darkness
+Werewolf-Kin (Witchwolf)
+Source
+Inner Sea Races pg. 249
+,
+Blood of the Moon pg. 24
+Perhaps the most prevalent breed of skinwalker, witchwolves prefer dwelling with others of their kind.
+Ability Modifiers
++2 Constitution, –2 Intelligence (+2 Wisdom while shapechanged)
+Alternate Skill Modifiers
+Perception, wild empathy
+Alternate Spell-Like Ability
+magic fang
+1/day
+Bestial Features
+Bite attack that deals 1d6 points of damage
+2 claw attacks that each deal 1d4 points of damage
+Darkvision 60 feet
++2 racial bonus on all saving throws
+Skinwalker Alternate Racial Trait
+Replaces Lifebound
+Beast Talker
+Source
+Inner Sea Races pg. 216
+Some skinwalkers’ ability to communicate with animals is stronger than their ability to transform. Such skinwalkers can only use their change shape ability once per day for 1 minute per level, but they can use their
+speak with animals
+spell-like ability at will. This racial trait alters the change shape and spell-like ability racial traits.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

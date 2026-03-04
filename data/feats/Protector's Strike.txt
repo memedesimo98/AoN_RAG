@@ -1,0 +1,150 @@
+Protector's Strike - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Protector's Strike
+Source
+Inner Sea Gods pg. 215
+,
+Faiths of Purity pg. 25
+You can use your smiting power to protect an ally from known evil.
+Prerequisites
+: Base attack bonus +5, smite evil class feature.
+Benefit
+:  When you choose the target of your smite evil ability, you also choose one creature other than you within line of sight. While your smite is in effect, the additional creature you chose gains a deflection bonus to AC equal to your Charisma modifier against attacks made by the target of the smite. This bonus ends when the smite ends. You do not gain the deflection bonus to AC normally granted by smite evil.
+Normal
+:  While smite evil is in effect, the paladin gains a deflection bonus to her AC equal to her Charisma bonus (if any) against attacks made by the target of her smite attack.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

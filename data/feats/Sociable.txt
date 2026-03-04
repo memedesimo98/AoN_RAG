@@ -1,0 +1,157 @@
+Sociable - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Sociable
+Source
+Advanced Player's Guide pg. 170
+You have a way of helping others to get along.
+Prerequisites
+: Cha 13, half-elf.
+Benefit
+:  As a move action, you grant all friendly creatures within 30 feet who can see or hear you (including yourself) a +2 bonus on Diplomacy checks for a number of rounds equal to your Charisma modifier (minimum 1 round).
+Mythic Sociable
+Source
+Mythic Adventures pg. 74
+Your easy nature flows from you without effort, putting others at ease.
+Prerequisites
+:
+Sociable
+APG
+.
+Benefit
+:  You grant and benefit from the +2 bonus on Diplomacy checks from Sociable constantly without having to spend a move action. You can spend a move action to increase the bonus to +4 for a number of rounds equal to your tier.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

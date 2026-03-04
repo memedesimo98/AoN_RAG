@@ -1,0 +1,159 @@
+Kirin Strike - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Kirin Strike (Combat)
+Source
+Ultimate Combat pg. 107
+You have read the texts of the perfect way, and know how identify to your enemies’ weak spot.
+Prerequisites
+: Int 13,
+Kirin Style
+,
+Improved Unarmed Strike
+, Knowledge (arcana) 9 ranks, Knowledge (dungeoneering, local, nature, planes, or religion) 3 ranks.
+Benefit
+:  You gain a +2 insight bonus on Knowledge checks made to identify creatures, including the one Kirin Style allows. While using Kirin Style against a creature you have identified using that feat, as a swift action after you have hit a creature with a melee or ranged attack, you can add twice your Intelligence modifier in damage (minimum 2).
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 125
+As long as you have at least 1 stamina point in your stamina pool, when you hit a creature you have identified with Kirin Style
+UC
+, you add your Intelligence modifier to melee and ranged attack damage rolls against that creature for the next 24 hours. You still can take a swift action to add twice your Intelligence modifier to damage rolls, but that damage doesn’t stack with the damage from this combat trick.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

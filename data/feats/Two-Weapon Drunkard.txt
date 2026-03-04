@@ -1,0 +1,152 @@
+Two-Weapon Drunkard - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Two-Weapon Drunkard (Combat)
+Source
+Paths of the Righteous pg. 7
+You effortlessly wield tankards in your off hand, and can use them to drink from and as deadly weapons in a battle with equal ease.
+Prerequisites
+:
+Catch Off-Guard
+,
+Two-Weapon Fighting.
+Benefit
+: When you wield a tankard as an improvised weapon in your off hand, it functions as a light mace, including for the purpose of determining the effects of feats like Weapon Focus. If you worship Cayden Cailean, your off-hand tankard functions as a divine focus and does not interfere with somatic spell components.
+When you fight with two weapons and have the sickened condition, you do not apply the penalties from being sickened to attack rolls or weapon damage rolls.
+Normal
+: A tankard wielded as an improvised weapon normally functions as a gauntlet.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,157 @@
+Arcane Shield - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Arcane Shield
+Source
+Advanced Player's Guide pg. 150
+You can convert any spell into a defense.
+Prerequisites
+: Arcane spellcaster, caster level 10th.
+Benefit
+:  As a immediate action, you can sacrifice a prepared spell or unused spell slot of 1st level or higher and gain a deflection bonus to AC equal to the level of the spell or spell slot you sacrificed for 1 round. 0-level spells may not be sacrificed in this manner.
+Mythic Arcane Shield
+Source
+Mythic Adventures pg. 55
+You sculpt spells into a powerful, enduring arcane barriers.
+Prerequisites
+:
+Arcane Shield
+APG
+.
+Benefit
+:  You add half your tier to the deflection bonus granted to your AC when you use your Arcane Shield. You can expend one use of mythic power when using this feat to extend the duration to a number of rounds equal to your tier.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

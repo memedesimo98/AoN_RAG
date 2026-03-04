@@ -1,0 +1,153 @@
+Touch of the Brackish Emperor - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Touch of the Brackish Emperor
+Source
+Aquatic Adventures pg. 59
+Your touch can suppress spells that aid in breathing water.
+Prerequisites
+: Character level 5th, worshiper of Kelizandri,
+Benefit
+: Once per day while underwater, you can touch a creature in order to suppress any spells that allow the creature to breathe underwater (
+air bubble
+UC
+,
+life bubble
+,
+water breathing
+, and so on) for 5 minutes. Suppressing the spells requires you to roll 1d20 + your character level; the DC for each spell is 11 + the spell’s caster level (if the spells affecting the creature have differing caster levels, you might dispel some but not the others). This is a spell-like ability. At 10th level and every 5 levels thereafter, you can use this touch an additional time each day.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

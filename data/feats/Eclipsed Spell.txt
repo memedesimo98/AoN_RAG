@@ -1,0 +1,152 @@
+Eclipsed Spell - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Eclipsed Spell (Metamagic)
+Source
+Blood of Shadows pg. 25
+You alter how your spells affect illumination.
+Benefit
+:  Only spells that create areas of light or darkness can be eclipsed spells. If the eclipsed spell creates an area that shines like a torch or raises the light level by one step, you can choose to have the spell lower the illumination level in the affected area by one step, functioning like darkness. If the eclipsed spell creates an area that shines like daylight or raises the light level by two steps, you can choose to have the spell lower the illumination level in the affected area by two steps and create an area of magical darkness, functioning like
+deeper darkness
+.
+If the eclipsed spell lowers the illumination level in the affected area by one step, you can choose to have the spell cause the affected area to glow with normal light, functioning like
+light
+. If the eclipsed spell lowers the illumination level in the affected area by two steps, you can choose to have the spell cause the affected area to shed bright light, functioning like
+daylight
+.
+An eclipsed spell does not use up a higher-level spell slot than the spell’s actual level.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,148 @@
+Extend Resonant Power - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Extend Resonant Power
+Source
+Occult Adventures pg. 133
+You can share the benefits of your resonant focus powers with nearby allies.
+Prerequisites
+: Caster level 7th, mental focus class feature.
+Benefit
+:  Select an implement school. When you place mental focus points into an implement of that school, you can choose to gain benefits from the resonant power as if you had placed only half as many points of mental focus into the implement. If you do, you can extend the same benefits to one additional ally within 30 feet at the time you invest mental focus. If the ally moves outside of the extended power’s range, the power is suppressed, but it resumes functioning once the ally moves within range again. You can spend 1 point of mental focus from your implement to pass the effect to a new target, so long as both the original target and the new one are within 30 feet. This feat can affect only one implement from a given school at a time, even if you have selected the same implement school more than once.
+Special
+:  You can take this feat multiple times. Each time you take the feat, select a different implement school.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

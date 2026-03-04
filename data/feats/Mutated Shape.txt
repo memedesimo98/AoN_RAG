@@ -1,0 +1,230 @@
+Mutated Shape - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Mutated Shape
+Source
+Ultimate Wilderness pg. 115
+Your wild shape form gains an additional appendage you can use to attack your foes.
+Prerequisites
+: Wis 19, base attack bonus +6, wild shape class feature.
+Benefit
+: When you use wild shape, you grow an additional appendage of your choice that can be used to make one of the following attacks: bite, claw, gore, slam, sting, or talons. The appendage can be used as part of a full attack using your highest base attack bonus, and it deals damage as described in Table 3–2: Mutated Shape Appendage Attacks. This appendage lasts for as long as you stay in the same form with this use of wild shape.
+Attack
+Fine
+Diminutive
+Tiny
+Small
+Medium
+Large
+Huge
+Gargantuan
+Collosal
+Damage Type
+Attack Type
+Bite
+1
+1d2
+1d3
+1d4
+1d6
+1d8
+2d6
+2d8
+4d6
+B/P/S
+Primary
+Claw
+-
+1
+1d2
+1d3
+1d4
+1d6
+1d8
+2d6
+2d8
+B/S
+Primary
+Gore
+1
+1d2
+1d3
+1d4
+1d6
+1d8
+2d6
+2d8
+4d6
+P
+Primary
+Slam
+-
+1
+1d2
+1d3
+1d4
+1d6
+1d8
+2d6
+2d8
+B
+Primary
+Sting
+-
+1
+1d2
+1d3
+1d4
+1d6
+1d8
+2d6
+2d8
+P
+Primary
+Talons
+-
+1
+1d2
+1d3
+1d4
+1d6
+1d8
+2d6
+2d8
+S
+Primary
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

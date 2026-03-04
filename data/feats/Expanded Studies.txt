@@ -1,0 +1,151 @@
+Expanded Studies - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Expanded Studies
+Source
+Advanced Class Origins pg. 26
+You’re part of a group or organization with access to greater magical mysteries than you understand yourself, and you have learned from your colleagues’ eldritch expertise.
+Prerequisites
+: Wis 17, hunter or warpriest level 16th.
+Benefit
+:  You add 7th-level spells to your spell list for purposes of using spell completion and spell trigger magic items. If you’re a hunter, you add 7th-level druid spells to your list. If you’re a warpriest, you add 7th-level cleric spells to your list. This doesn’t give you the ability to cast spells of this level, only to act as though your spell list included them when using appropriate magic items.
+For example, a 16th-level hunter has access to druid spells of only 1st to 6th levels. Thus, the hunter can’t use spell completion or spell trigger magic items of druid spells of 7th level or higher without succeeding at a Use Magic Device check. If the hunter takes Eldritch Studies, she doesn’t gain the ability to cast 7th-level druid spells, but she could use a
+scroll of heal
+or a
+wand of summon nature’s ally VII
+without needing to attempt a Use Magic Device check.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

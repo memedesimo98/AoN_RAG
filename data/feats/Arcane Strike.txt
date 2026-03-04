@@ -1,0 +1,162 @@
+Arcane Strike - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Arcane Strike (Combat)
+Source
+PRPG Core Rulebook pg. 118
+You draw upon your arcane power to enhance your weapons with magical energy.
+Prerequisites
+: Ability to cast arcane spells.
+Benefit
+: As a swift action, you can imbue your weapons with a fraction of your power. For 1 round, your weapons deal +1 damage and are treated as magic for the purpose of overcoming damage reduction. For every five caster levels you possess, this bonus increases by +1, to a maximum of +5 at 20th level.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 114
+You can spend any number of stamina points to increase the duration of this feat’s effects by 1 round for each stamina point spent.
+Mythic Arcane Strike
+Source
+Mythic Adventures pg. 55
+Using your amazing arcane talents, you can deliver devastating blows infused with magical energy.
+Prerequisites
+:
+Arcane Strike.
+Benefit
+:  Whenever you use Arcane Strike to enhance your weapons, the effect lasts for 1 minute instead of 1 round. If you expend one use of mythic power when using Arcane Strike, you can also add any one magic weapon special ability with a base price modifier of +1 to your weapons. This base price modifier increases to +2 at 4th tier, +3 at 7th tier, and +4 at 10th tier.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

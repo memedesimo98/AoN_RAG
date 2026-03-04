@@ -1,0 +1,152 @@
+Smashing Style - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Smashing Style (Combat, Style)
+Source
+Weapon Master's Handbook pg. 17
+Your hammer blows dent armor, hampering your opponent.
+Prerequisites
+: Str 13,
+Improved Sunder
+,
+Power Attack
+, Weapon Focus with the chosen weapon.
+Benefit
+:  Choose one weapon from the axes, hammers, or flails fighter weapon group. While using this style, when you succeed at a sunder combat maneuver check against a suit of armor worn by an opponent, you can immediately attempt a bull rush or trip combat maneuver against that target with the same combat maneuver bonus. This maneuver does not provoke attacks of opportunity.
+Special
+:  A character with the weapon training (axes, hammers, or flails) class feature can use Smashing Style with any axe, flail, or hammer, respectively, in addition to the chosen weapon.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

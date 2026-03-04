@@ -1,0 +1,156 @@
+Redirect Attack - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Redirect Attack (Combat)
+Source
+Melee Tactics Toolbox pg. 7
+When you dodge an attack, you can deflect it toward another opponent.
+Prerequisites
+: Dex 15, Int 15,
+Dodge.
+Benefit
+:  Once per turn, when an opponent only you threaten fails an attack against you, you can redirect the attack to target another foe. The new target must be adjacent to you and within reach of the opponent that missed you. Attempt a combat maneuver check; if the result exceeds both the Combat Maneuver Defense of the opponent who missed you and the Armor Class of the new target, the attack strikes and deals its normal damage.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Armor Master's Handbook pg. 21
+You can spend up to 5 stamina points to grant yourself a bonus on the combat maneuver check equal to the number of stamina points you spent. (
+Melee Tactics Toolbox 7
+)
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

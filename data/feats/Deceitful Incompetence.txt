@@ -1,0 +1,147 @@
+Deceitful Incompetence - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Deceitful Incompetence (Combat)
+Source
+Antihero's Handbook pg. 8
+You learn from your mistakes rapidly when others lower their guard around you.
+Prerequisites
+:
+Combat Reflexes.
+Benefit
+: When you make an attack of opportunity in a single round after you have already made an unsuccessful attack of opportunity that round, you gain a cumulative +2 insight bonus on your attack roll for each unsuccessful attack of opportunity. For example, if you have made one unsuccessful attack of opportunity and an enemy provokes another attack of opportunity from you during that same round, you gain a +2 insight bonus on that attack roll, and if you have made two unsuccessful attacks of opportunity in a round and an enemy provokes another attack of opportunity from you during that same round, you gain a +4 insight bonus on that attack roll, and so on.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,155 @@
+Spectacular Exit - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Spectacular Exit (Combat, Performance)
+Source
+Inner Sea Combat pg. 12
+You have mastered acrobatic maneuvers that turn even your retreats into breathtaking feats of skill.
+Prerequisites
+: Dex 15,
+Dodge
+, Acrobatics 7 ranks.
+Benefit
+:  When you must attempt a performance combat check because you used the withdraw action, you can attempt an Acrobatics check against your opponent’s CMD before the performance combat check. Success allows you to withdraw without taking the standard –5 penalty on your check. In addition, for every 5 points by which your Acrobatics check result exceeds your opponent’s CMD, you gain a +1 bonus on all Perform checks you make for the remainder of the round.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Weapon Master's Handbook pg. 25
+When you use Spectacular Exit to withdraw without taking the –5 penalty on performance combat checks and you spend 5 stamina points, you don’t need to succeed at an Acrobatics check in order to avoid the penalty.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

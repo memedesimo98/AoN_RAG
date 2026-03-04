@@ -1,0 +1,159 @@
+Cloak and Dagger Tactics - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Cloak and Dagger Tactics (Combat)
+Source
+Blood of Shadows pg. 25
+You devastate enemies that you catch off-guard.
+Prerequisites
+: Int 13,
+Cloak and Dagger Style
+,
+Cloak and Dagger Subterfuge
+,
+Combat Expertise
+,
+Improved Dirty Trick
+APG
+,
+Vital Strike
+, Weapon Focus with the chosen weapon, base attack bonus +16.
+Benefit
+:  While you are using Cloak and Dagger Style and wielding your chosen weapon, whenever you hit an opponent that is denied its Dexterity bonus to AC or that you are flanking, or make an attack using Vital Strike (or its improved or greater versions), you can attempt a dirty trick
+APG
+combat maneuver check against that opponent as a free action. If you succeed, the target must succeed at a Fortitude save (DC = 10 + 1/2 your base attack bonus + your Intelligence modifier) or take an additional penalty from the dirty trick selected from the following list: anchored in place and unable to move from that square, confused, exhausted, or staggered. This additional penalty lasts only 1 round, regardless of how long the dirty trick’s normal penalty lasts, and can be removed by the target with a standard action. You can only attempt one free dirty trick combat maneuver check per round using this feat.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

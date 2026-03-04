@@ -1,0 +1,158 @@
+Perfect Style - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Perfect Style (Combat, Style)
+Source
+Adventurer's Guide pg. 106
+,
+Inner Sea Combat pg. 13
+You have trained at one of the Houses of Perfection.
+Prerequisites
+: Wis 13; base attack bonus +5 or monk level 5th.
+Benefit
+: When you take this feat, choose one of the Houses of Perfection; once this decision has been made, it cannot be changed. While using this style, you gain a type of energy resistance based on the House of Perfection you have chosen. Students of the Monastery of Untwisting Iron gain acid resistance 5. Students of the Monastery of Unblinking Flame gain fire resistance 5. Students of the Monastery of Unfolding Wind gain electricity resistance 5. If you have energy resistance from a racial trait or class feature, the energy resistance gained from this style stacks.
+Additionally, you gain a ki pool that you can use to activate abilities of your chosen House of Perfection style. Your pool contains 2 ki points, and this increases by 1 point at 9th level and every 4 levels thereafter. If you have a ki pool from another source, you do not gain additional ki points from this feat.
+Normal
+: You can select Perfect Style multiple times. Each time you do so, you must select a different House of Perfection to belong to.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Weapon Master's Handbook pg. 25
+You can spend up to 5 stamina points to increase the resistance granted to you by Perfect Style by 2 per stamina point spent.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

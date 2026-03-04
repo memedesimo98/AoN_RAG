@@ -1,0 +1,157 @@
+Spell Focus - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Spell Focus
+Source
+PRPG Core Rulebook pg. 134
+Choose a school of magic. Any spells you cast of that school are more difficult to resist.
+Benefit
+: Add +1 to the Difficulty Class for all saving throws against spells from the school of magic you select.
+Special
+: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new school of magic.
+Mythic Spell Focus
+Source
+Mythic Adventures pg. 74
+Your magical specialties are particularly effective.
+Prerequisites
+:
+Spell Focus.
+Benefit
+:  Choose a school of magic you already have Spell Focus in. The bonus to save DCs provided by Spell Focus and Greater Spell Focus for that school increases by 1. You can expend one use of mythic power as part of casting a spell from your chosen school to force any of the spell’s targets to roll their saving throws twice, taking the lower result.
+Special
+:  You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Spell Focus feat.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

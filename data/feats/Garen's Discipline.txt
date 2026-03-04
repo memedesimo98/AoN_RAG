@@ -1,0 +1,152 @@
+Garen's Discipline - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Garen's Discipline (Combat)
+Source
+Adventurer's Guide pg. 26
+You’ve learned to defend yourself against spell and storm with dazzling flourishes of your weapon.
+Prerequisites
+:
+Alertness
+,
+Exotic Weapon Proficiency (Aldori dueling sword)
+,
+Weapon Focus (Aldori dueling sword)
+, base attack bonus +4.
+Benefit
+: Whenever you use Combat Expertise, fight defensively, or take the total defense action, choose a type of saving throw. (You can choose a different type each time you take such an action.) Once per round before attempting a saving throw using the selected save, you gain a +2 bonus on that save. If you have a base attack bonus of +11 or higher, this bonus increases to +3. If you have a base attack bonus of +16 or higher, the bonus instead increases to +4.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

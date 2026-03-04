@@ -1,0 +1,151 @@
+Shadow's Shroud - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Shadow's Shroud (Conduit)
+Source
+Planar Adventures pg. 32
+You can camouflage yourself in shadows and gloom.
+Prerequisites
+: Knowledge (planes) 5 ranks.
+Benefit
+: As a swift action, you can shroud yourself in shifting, camouflaging shadow. While shrouded in this fashion, you can attempt Stealth checks as though you had concealment, even in areas of normal or bright light. Creatures that can see normally in supernatural darkness can still see you normally.
+You can use this feat’s benefit for a number of rounds per day equal to your ranks in Knowledge (planes). These rounds need not be consecutive.
+Special
+: Unlike spells like
+shadow walk
+, which require you to be on a plane that is coterminous with the Shadow Plane, this feat functions even on planes that do not normally share a border with the Shadow Plane. Like all conduit feats, the effects are suppressed when planar travel is forbidden.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

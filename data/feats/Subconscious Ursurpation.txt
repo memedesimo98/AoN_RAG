@@ -1,0 +1,146 @@
+Subconscious Ursurpation - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Subconscious Ursurpation
+Source
+Haunted Heroes Handbook pg. 6
+You have trained your subconscious to overpower your conscious mind under dire circumstances.
+Prerequisites
+: Base Will save bonus +2.
+Benefit
+: You can attempt to force yourself to act normally while your conscious mind is impaired. At the start of any turn that you are under the effects of a compulsion, confusion, or possession effect, you can attempt a Will saving throw (DC = the original effect’s save DC). If your saving throw is successful, you can perform one purely mental action (such as casting a psychic spell) as though you weren’t under the effects of a compulsion, confusion, or possession effect. This mental action must be a free action, a swift action, a move action, or a standard action. All other actions that you take during the turn are subject to the compulsion, confusion, or possession effect.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

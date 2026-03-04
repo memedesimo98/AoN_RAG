@@ -1,0 +1,152 @@
+Advanced Weapon Training - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Advanced Weapon Training (Combat)
+Source
+Weapon Master's Handbook pg. 19
+You are specially trained to use your weapon skills in new ways.
+Prerequisites
+: Fighter level 5th, weapon training class feature.
+Benefit
+:  Select one advanced weapon training option, applying it to one fighter weapon group you have already selected with the weapon training class feature.
+Special
+:  This feat can be taken more than once, but at most once per 5 fighter levels.
+Special:
+Fighters that have the
+weapon master
+archetype can select this feat beginning at 4th level. The benefits of a weapon master's advanced weapon training options apply only to his selected weapon rather than all weapons in the same fighter weapon group, and he can't select the weapon specialist advanced weapon training option. A weapon master can select this feat as a bonus feat; if he does so, it doesn't count for the purpose of the requirement that it can be taken at most once per 5 fighter levels.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

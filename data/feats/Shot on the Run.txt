@@ -1,0 +1,171 @@
+Shot on the Run - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Shot on the Run (Combat)
+Source
+PRPG Core Rulebook pg. 133
+You can move, fire a ranged weapon, and move again before your foes can react.
+Prerequisites
+: Dex 13,
+Dodge
+,
+Mobility
+,
+Point-Blank Shot
+, base attack bonus +4.
+Benefit
+: As a full-round action, you can move up to your speed and make a single ranged attack at any point during your movement.
+Normal
+: You cannot move before and after an attack with a ranged weapon.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 131
+You can spend 5 stamina points to use this feat as a standard action instead of a full-round action.
+Mythic Shot on the Run
+Source
+Mythic Adventures pg. 73
+With ease, you can snap off two shots while dashing across the battlefield.
+Prerequisites
+:
+Shot on the Run
+, base attack bonus +6.
+Benefit
+:  Whenever you use Shot on the Run, you can make two ranged attacks at your highest base attack bonus at any point during your movement, instead of just one.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

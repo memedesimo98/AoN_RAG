@@ -1,0 +1,148 @@
+Painful Cures - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Painful Cures
+Source
+Healer's Handbook pg. 8
+Your healing spells exacerbate rather than alleviate pain.
+Prerequisites
+: Evil alignment.
+Benefit
+: Whenever you use a spell to restore hit points to a living creature, you can cause that creature to be wracked with waves of searing pain. If you do, the spell gains the evil and pain (
+Pathfinder RPG Ultimate Magic 251
+) descriptors. The target takes nonlethal damage equal to the number of hit points restored. If the target fails its saving throw or chooses not to attempt one against your healing spell, it takes a –2 penalty on saving throws and skill checks for 10 minutes per caster level. If the spell does not normally allow a saving throw, it instead allows a Fortitude saving throw to negate this penalty (but not the nonlethal damage dealt).
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

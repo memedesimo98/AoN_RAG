@@ -1,0 +1,146 @@
+Cry of Mercy - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Cry of Mercy
+Source
+Pathfinder #39: The City of Seven Spears pg. 74
+You invoke an ancestral boon to modify your fatal blows, and those of your allies, so that they render your foes merely unconscious.
+Prerequisites
+: Wis 13.
+Benefit
+: As a swift action once per day, you may call upon the spirits of your ancestors to prevent your opponents from dying. For the remainder of the combat, all of your dying opponents are stabilized at their current hit points, and any opponents who would be killed by damage from you or your allies are instead reduced to –1 hit point and stabilized. This is a supernatural ability. If an ally wants to kill an opponent despite the efforts of your ancestral spirits, she may attempt a Will saving throw (DC equal to 10 plus half your level plus your Wisdom modifier); success means her attacks affect the opponents normally.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

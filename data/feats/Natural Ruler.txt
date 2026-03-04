@@ -1,0 +1,164 @@
+Natural Ruler - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Natural Ruler
+Source
+Quests and Campaigns pg. 27
+You have a special talent for ruling a nation, and take
+to the task with ease.
+Prerequisites
+: Hold a leadership role related to
+running a kingdom.
+Benefit
+:  Choose an ability score. Any time your
+leadership role calls for that ability score to affect
+one of your kingdom’s attributes, your modifier to
+that ability score is treated as being +2 higher. For
+example, if you choose Charisma and occupy the
+General or High Priest leadership role, your Charisma
+modifier to affect your kingdom’s stability would
+be +2 higher than normal. However, if you occupied
+the Spymaster leadership role—which employs the
+Intelligence and Wisdom ability scores—this feat would
+grant no benefit.
+Additionally, the entire kingdom gains +2 Stability for
+as long as you occupy a leadership role.
+Special
+:  You may gain this feat multiple times, but
+each time you must choose a different ability score. The
+bonus to Stability gained from this feat stacks.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

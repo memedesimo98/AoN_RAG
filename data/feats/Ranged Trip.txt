@@ -1,0 +1,148 @@
+Ranged Trip - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Ranged Trip (Combat, Targeting)
+Source
+Ranged Tactics Toolbox pg. 9
+A shot to the leg causes your foe to fall prone.
+Prerequisites
+: Dex 13,
+Deadly Aim
+, base attack bonus +1.
+Benefit
+:  As a full-round action, you can attempt to perform a trip combat maneuver with any ranged weapon at a –2 penalty. Add your Dexterity modifier to your CMB in place of your Strength modifier and apply range penalties to your combat maneuver check, doubling the penalties from range increments. If your target is more than 30 feet away, you take an additional –2 penalty. If the trip attempt is successful, the target also takes damage as if you had made a successful attack with that weapon. You can’t be knocked prone by failing the trip attempt.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,148 @@
+Nature's Weapons - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Nature's Weapons
+Source
+Ultimate Wilderness pg. 116
+You can make a weapon out of nearly anything that can be found in the wild.
+Prerequisites
+:
+Catch Off-Guard
+; base attack bonus +2; Knowledge (nature) or Survival 2 ranks.
+Benefit
+: You can turn nearly anything you might find in the wilderness into an improvised melee weapon. This improvised melee weapon is one-handed and deals 1d6 points of damage for Medium creatures and 1d4 for Small creatures. Depending on the weapon, it deals bludgeoning, piercing, or slashing damage (at the GM’s discretion). Grabbing an object to use as a weapon is the same action as drawing a weapon. The weapon must be of a material that is naturally occurring in that terrain.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

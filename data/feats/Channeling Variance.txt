@@ -1,0 +1,151 @@
+Channeling Variance - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Channeling Variance
+Source
+Magic Tactics Toolbox pg. 9
+You alter your channeled energies based on your god’s tenets.
+Prerequisites
+: Domain class feature, channel energy class feature, must worship and receive spells from a deity.
+Benefit
+: Choose one variant channeling ability (
+Pathfinder RPG Ultimate Magic 28
+). The chosen ability must match one of your deity’s domains, subdomains, or areas of concern. Three times per day when you channel energy, you can apply the modifications of the chosen variant channeling ability to your channeled energy, including reductions to the damage dealt or healing performed by your channeled energy.
+If you already have a variant channeling ability, this feat instead allows you to channel energy without the modifications of your chosen variant channeling ability (including reductions to the damage dealt or healing performed by your channeled energy) three times per day.
+Special
+: This feat can be selected twice. The second time you do, you can use Channeling Variance whenever you channel energy instead of just three times per day.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Data files (optional)
+data/*.npy
+data/*.faiss
+
+# VS Code
+.vscode/

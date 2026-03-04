@@ -1,0 +1,146 @@
+Teleport Sense - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Teleport Sense
+Source
+Pathfinder Campaign Setting pg. 99
+Like many Mendevians, you have faced so many demons teleporting that you have developed a sort of sixth sense for it.
+Prerequisites
+: Wis 13, Mendev affinity.
+Benefit
+: Whenever a creature uses a spell or effect from the conjuration (teleportation) school to appear within 60 feet of you, you may make a Sense Motive check to detect the teleportation. The DC equals 10 + caster level of the effect. If you succeed on this check, you are automatically not surprised and can act in the surprise round if combat begins immediately. If combat against the creature that teleported near you begins within 1 minute of the teleportation you gain a +4 bonus on the initiative check in that battle. If the creature teleporting in is a demon, you gain a +5 bonus on the Sense Motive check to detect it.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

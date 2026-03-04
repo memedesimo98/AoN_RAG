@@ -1,0 +1,150 @@
+Never Conquered, Forever Feared - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Never Conquered, Forever Feared (Story)
+Source
+Pathfinder #131: The Reaper's Right Hand pg. 78
+You are dauntless in battle, and your lineage echoes with awe-inspiring power.
+Prerequisites
+: Be a member of House Heskillar, or have the Adopted by Dragons, Path of Righteous Rage, or Proud Heritage background.
+Benefit
+: Your stern demeanor gives you a +2 bonus on Intimidate checks. If you have 10 or more ranks in Intimidate, this bonus increases to +4. You also gain a +2 bonus on saves against paralysis and sleep effects.
+Goal
+: You must individually slay an appropriate number of significant foes in succession, without retreating or withdrawing from a fight.
+Completion Benefit
+: You can display your imposing presence as a free action when you take an offensive action, such as an attack or a charge. Opponents within 30 feet of you must succeed at a Will save or become shaken for 3d6 rounds. The DC of this save is equal to 10 + 1/2 your character level + your Charisma modifier. This ability does not cause opponents that are already shaken to become frightened, and opponents with more Hit Dice than your character level are immune to the effect. This is a mind-affecting fear effect.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

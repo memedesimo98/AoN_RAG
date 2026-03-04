@@ -1,0 +1,164 @@
+Combat Reflexes - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Combat Reflexes (Combat)
+Source
+PRPG Core Rulebook pg. 119
+You can make additional attacks of opportunity.
+Benefit
+: You may make a number of additional attacks of opportunity per round equal to your Dexterity bonus. With this feat, you may also make attacks of opportunity while flat-footed.
+Normal
+: A character without this feat can make only one attack of opportunity per round and can't make attacks of opportunity while flat-footed.
+Special
+: The Combat Reflexes feat does not allow a rogue to use her opportunist ability more than once per round.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 115
+When you miss with an attack of opportunity, you can spend 5 stamina points to make a second attack for the same provoking action. That second attack of opportunity takes a –5 penalty on the attack roll and costs one of your attacks of opportunity for the round.
+Mythic Combat Reflexes
+Source
+Mythic Adventures pg. 61
+You strike viciously whenever your foe gives you an opening.
+Prerequisites
+:
+Combat Reflexes.
+Benefit
+:  You can make any number of additional attacks of opportunity per round. As a swift action, you can expend one use of mythic power to, until the start of your next turn, make attacks of opportunity against foes you’ve already made attacks of opportunity against this round if they provoke attacks of opportunity from you by moving.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

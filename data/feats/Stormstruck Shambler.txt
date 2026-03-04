@@ -1,0 +1,148 @@
+Stormstruck Shambler - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Stormstruck Shambler
+Source
+Dungeon Denizens Revisited pg. 61
+You have been lashed by the power of the storm so many times that you retain a powerful affinity for it, able to draw upon your reserves of energy to strike enemies with living lightning.
+Prerequisites
+: Shambling mound, must have been struck by lightning.
+Benefit
+: As a free action, you may charge one of your limbs with electricity equivalent to a
+shocking grasp
+spell, dealing 5d6 electricity damage to a creature you touch, attack with an unarmed strike, or grapple. If making a touch attack, you get a +3 to your attack roll if the target is wearing metal armor. Each time you use this ability, you take 1 point of temporary Constitution damage; you regain these lost Constitution points at a rate of 1 per hour. You may use this ability a number of times per day equal to your hit dice.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

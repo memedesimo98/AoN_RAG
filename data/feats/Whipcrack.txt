@@ -1,0 +1,156 @@
+Whipcrack - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Whipcrack (Combat)
+Source
+Martial Arts Handbook pg. 24
+You move an opponent and use his momentum to send him reeling across the battlefield.
+Prerequisites
+: Int 13,
+Combat Expertise
+,
+Improved Reposition
+, base attack bonus +3 or
+monk level 1st
+.
+Benefit
+: When you successfully reposition an opponent, its movement need not remain within your reach, though once the opponent leaves your reach, its remaining movement must be in a straight line. This movement doesn’t provoke attacks of opportunity unless you have the
+Greater Reposition
+feat.
+Normal
+: The target of a reposition combat maneuver must remain within your reach at all times during its movement, except for the final 5 feet of movement, which can be to a space adjacent to your reach.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

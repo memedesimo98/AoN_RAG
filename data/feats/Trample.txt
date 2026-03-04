@@ -1,0 +1,163 @@
+Trample - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Trample (Combat)
+Source
+PRPG Core Rulebook pg. 136
+While mounted, you can ride down opponents and trample them under your mount.
+Prerequisites
+: Ride 1 rank,
+Mounted Combat.
+Benefit
+: When you attempt to overrun an opponent while mounted, your target may not choose to avoid you. Your mount may make one hoof attack against any target you knock down, gaining the standard +4 bonus on attack rolls against prone targets.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 134
+When you attempt to overrun an opponent while mounted and you don’t succeed at the overrun combat maneuver check, you can spend 2 stamina points and continue to move as if the target of the overrun had moved out of the way.
+Mythic Trample
+Source
+Mythic Adventures pg. 75
+Your rearing mount can stomp foes into the ground, barely
+Prerequisites
+:
+Trample.
+Benefit
+:  Your mount can make two hoof attacks against an opponent you knock down with an overrun, instead of one. You can expend one use of mythic power when you score a critical hit with one or more of those hoof attacks. When you do, the critical is automatically confirmed. If both scored critical hits, expending one use of mythic power automatically confirms both.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

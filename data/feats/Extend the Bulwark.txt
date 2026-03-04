@@ -1,0 +1,153 @@
+Extend the Bulwark - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Extend the Bulwark (Combat, Teamwork)
+Source
+Magical Marketplace pg. 6
+You can bolster a trained ally’s defenses by interposing your own armored body.
+Benefit
+:  If you are wearing medium or heavy armor and are adjacent to an ally who also has this feat, as a free action, you may give your ally a circumstance bonus to her AC equal to half the armor bonus provided by your armor. This bonus lasts for 1 round. During this round, you gain no bonus to your AC from your armor.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Armor Master's Handbook pg. 20
+You can spend 5 stamina points either to use this feat without losing your own armor bonus to AC, or to use this feat to grant the bonus to an ally. (
+Magical Marketplace 6
+)
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

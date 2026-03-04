@@ -1,0 +1,145 @@
+Esoteric Necromancy - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Esoteric Necromancy (Esoteric)
+Source
+Pathfinder Unchained pg. 154
+Your expertise with entropic resin causes your necromancy spells to strike fear in those they affect.
+Benefit
+: When you cast a necromancy spell using entropic resin as an esoteric material component, one target of that spell becomes shaken. If your spell allows a saving throw and the target succeeds at its save, it is unaffected by this effect. If the spell causes the target to become shaken or frightened, this effect doesn’t increase the severity of that condition (so a spell that frightens a creature wouldn’t instead cause it to become panicked due to this feat). This is a mind-affecting fear effect.
+When you gain entropic resin’s greater component effect with a necromancy spell, treat your caster level as an additional 1 higher for determining the damage dice. (This also increases the spell’s maximum damage dice if applicable.)
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,155 @@
+Spirit Rebuke - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Spirit Rebuke
+Source
+Adventurer's Guide pg. 169
+Your insight and force of will can tame dangerous spirits.
+Prerequisites
+: Wis 17;
+Iron Will
+;
+Spirit Beacon
+; Diplomacy 5 ranks or Intimidate 5 ranks.
+Benefit
+: Select one specific category of spirit (fey, outsiders, or undead). Once per day as a standard action, you can condemn these spirits with such force of will that you can drive them from hosts, unravel their magic, or damage them physically. A rebuke targets a single spirit you can see (or one that is possessing a creature you can see) within 30 feet.
+Rebuking a spirit either functions as a targeted
+dispel magic
+spell or channels damaging energy directly into the creature, similar to a cleric’s channel energy ability. To dispel a spirit’s magic, attempt a dispel check, using your character level as your caster level (DC = 11 + spell level); if you’re successful, that effect is dispelled. You can dispel only spells and spell-like abilities affecting the spirit itself or a creature it is currently possessing. If you use this dispel effect to end a spirit’s possession of a creature or object, you gain a +2 bonus on this check. Channeling damaging energy instead deals 1d6 points of damage for every 2 character levels you have. A successful Will saving throw (DC = 10 + half your character level + your Charisma modifier) halves this damage.
+Special
+: You can select this feat up to three times. Each time you do, you must select a different category of spirit your rebuke can affect, and you can use the feat one additional time each day.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,154 @@
+Kyton Cut - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Kyton Cut (Combat)
+Source
+Horror Adventures pg. 88
+You lash yourself and share the pain with your opponent.
+Prerequisites
+: Wis 17,
+Exotic Weapon Proficiency (spiked chain)
+,
+Kyton Shield
+,
+Kyton Style
+, base attack bonus +8 or monk level 6th, Knowledge (planes) 3 ranks, ki pool class feature.
+Benefit
+: When using Kyton Style, your spiked chain attacks can be brutal, both to yourself and your foe. Before attempting an attack roll with a spiked chain attack, you can choose to make a Kyton Cut. Before making the attack, you take 1d6 points of nonlethal damage. This damage cannot be avoided or reduced in any way. If you are immune to nonlethal damage, you take normal damage instead. If the attack hits, its target takes an additional 1d6 points of nonlethal damage and a –4 penalty on concentration checks for 1 round. The penalty is a pain
+UM
+effect.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

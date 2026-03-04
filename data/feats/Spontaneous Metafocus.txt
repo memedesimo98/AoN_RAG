@@ -1,0 +1,161 @@
+Spontaneous Metafocus - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Spontaneous Metafocus
+Source
+Ultimate Magic pg. 157
+You can focus to combine one of your known spells and metamagic feats.
+Prerequisites
+: Cha 13, one metamagic feat, able to spontaneously cast spells.
+Benefit
+:  Pick a single spell that you are able to cast spontaneously. When you apply metamagic feats to that spell, you can cast the spell using the normal casting time instead of at the slower casting time.
+Special
+:  You can take this feat multiple times. Each time you select this feat, choose a new spell that you can cast spontaneously; the feat applies to that spell.
+Mythic Spontaneous Metafocus
+Source
+Mythic Adventures pg. 74
+You apply metamagic to your spells with greater ease than do other spontaneous casters.
+Prerequisites
+:
+Spontaneous Metafocus
+UM
+.
+Benefit
+:  You can change which spell your Spontaneous Metafocus feat applies to each morning when you restore your expended spell slots. The spell it applies to can be of any level, but it must be a legal selection for the Spontaneous Metafocus feat.
+Special
+:  You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Spontaneous Metafocus feat.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

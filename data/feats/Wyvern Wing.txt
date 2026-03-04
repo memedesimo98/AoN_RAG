@@ -1,0 +1,154 @@
+Wyvern Wing - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Wyvern Wing (Combat)
+Source
+Legacy of Dragons pg. 21
+Like a wyvern on the wing, you command a fluid style that enables you to make attacks while moving.
+Prerequisites
+:
+Exotic Weapon Proficiency (whip)
+,
+Wyvern Fury Style
+,
+Wyvern Sting
+, Acrobatics 10 ranks, brawler’s flurry
+ACG
+class feature or flurry of blows class feature.
+Benefit
+: While using the Wyvern Style feat, if you use flurry of blows or brawler’s flurry and take a 5-foot step, you can take an additional 5-foot step. You can take this extra 5-foot step only between two attacks in your flurry, but you can take both your 5-foot steps consecutively without making an attack between them.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,155 @@
+Trepanation - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Trepanation
+Source
+Occult Origins pg. 25
+Through careful study and practice, you have learned how to relieve pressure in the brain to balance the humors, promote health, and ward off outside influence.
+Prerequisites
+: Heal 5 ranks, Knowledge (arcana) 2 ranks.
+Benefit
+:  You can perform the faith healing occult skill unlock
+OA
+even if you can’t use psychic magic. If you can cast psychic spells or have the Psychic Sensitivity
+OA
+feat, you can use faith healing one additional time per day.
+So long as you have a healer’s kit
+UE
+or surgeon’s tools
+UE
+, you can spend 1 hour performing a full trepanation on a creature. This procedure requires a Heal check (DC = 20 + the target’s Hit Dice). If you’re successful, the target gains a +2 insight bonus on saving throws against curses, possession, and spells from the enchantment (compulsion) school. These effects persist for 1 day per character level you possess. If you fail the check, the target takes 1d3 points of Intelligence, Wisdom, and Charisma damage. You can perform this procedure on yourself, but the DC increases by 5.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

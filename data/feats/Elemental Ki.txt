@@ -1,0 +1,154 @@
+Elemental Ki - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Elemental Ki
+Source
+Martial Arts Handbook pg. 28
+You can accept burn to gain the benefits of ki.
+Prerequisites
+:
+Brawler’s flurry
+or
+flurry of blows class feature
+, burn class feature,
+kinetic fist wild talent
+,
+kineticist level 4th
+.
+Benefit
+: Your burn functions like a ki pool. As long as you have at least 1 point of burn, your unarmed strikes count as magic. You can take 1 point of burn as a swift action to do any two of the following: make an additional attack at your highest bonus during a flurry of blows, increase your speed by 20 feet for 1 round, or gain a +4 dodge bonus to AC for 1 round. You can also accept burn instead of spending ki (or a combination of the two) to activate an ability that costs ki points, with each point of burn you accept counting as 2 ki points. You count as having a ki pool for effects that requires a ki pool.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

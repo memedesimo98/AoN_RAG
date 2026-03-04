@@ -1,0 +1,159 @@
+Brute Style - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Brute Style (Combat, Style)
+Source
+Horror Adventures pg. 83
+Through strength, study, and intense inner reflection, you have become an expert at battering fallen opponents.
+Prerequisites
+: Str 15, Int 13,
+Combat Reflexes
+,
+Improved Overrun
+,
+Improved Trip
+,
+Improved Unarmed Strike
+,
+Vicious Stomp
+UC
+, base attack bonus +6.
+Benefit
+: While using this style, you can use your Vicious Stomp feat against any opponent within 10 feet of you, as long as it is within your natural reach. If you don’t have the Vicious Stomp feat, you gain no benefit from this feat.
+Normal
+: The Vicious Stomp feat only works against an opponent that falls prone adjacent to you.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

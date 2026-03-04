@@ -1,0 +1,152 @@
+Focused Worker - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Focused Worker
+Source
+Quests and Campaigns pg. 26
+Your attention to detail provides you with an excess of
+some commodities, at the cost of others.
+Benefit
+:  You excel at performing skilled work for a certain type of capital, but are less adept at generating another type of capital (see page 78 of
+Ultimate Campaign
+). Choose one of the following types of capital to be your focus capital: Goods, Influence, Labor, or Magic. Whenever you spend downtime to perform skilled work to gain focus capital, you gain half again the normal amount (rounded down). However, you must also choose a second, separate type of capital from the same list to be your neglected capital. Whenever you spend downtime to perform skilled work to gain neglected capital, you gain only half the amount you normally would. This feat only affects capital you gain by performing skilled work, not capital you might gain by performing unskilled work, purchasing capital, or running a business.
+For example, say you chose Goods as your focus capital and Magic as your neglected capital. If you spent a day performing skilled work to gain Goods, and the result of your Sleight of Hands skill check is a 33, you would gain 4 Goods (rather than the usual 3 for a result of 30 or higher). However, if you were to spend the following day using your Spellcraft check to perform skilled work and again got a result of 33, you would only gain 2 Magic rather than the usual 3.
+Special
+:  You may take this feat twice. The second time,
+you must choose the other two types of capital to be a
+focus and a neglected capital.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

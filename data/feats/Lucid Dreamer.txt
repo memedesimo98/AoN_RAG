@@ -1,0 +1,152 @@
+Lucid Dreamer - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Lucid Dreamer
+Source
+Occult Adventures pg. 137
+The Dimension of Dreams is open to those willing to risk crossing the threshold.
+Prerequisites
+: Cha 13, Knowledge (planes) 3 ranks.
+Benefit
+:  You have greater control of the highly morphic qualities and wild magic of the Dimension of Dreams. You gain a +4 bonus on Charisma checks to determine your initial condition when your lucid body (see page 242) enters a dream and when attempting impossible feats in a dreamscape, and a +2 bonus on caster level checks to prevent a spell or spell-like ability from going awry because of wild magic. If someone casts a
+dream council
+spell that includes you as a target while you are dreaming, you can enter a shared dreamscape as described in that spell without spending a casting of
+dream
+or
+dream council
+. If your lucid body dies while in a dreamscape, you wake up fatigued.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

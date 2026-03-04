@@ -1,0 +1,148 @@
+Legalistic Reading - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Legalistic Reading
+Source
+Heroes of the High Court pg. 20
+Your ability to find loopholes in technical, legalistic writing extends even to magical writing on scrolls.
+Prerequisites
+:
+Scribe Scroll
+, Linguistics 3 ranks.
+Benefit
+: Any Wisdom check you attempt to avoid a mishap when casting a spell from a scroll fails only on a natural 1. When you cast a spell from a scroll, you can attempt a caster level check with a DC equal to 25 + the scroll’s caster level as a free action. If you succeed, the magical writing does not vanish for 1 round; if the spell’s casting time is no longer than a standard action, the scroll can be used again in the following round before its writing fades. You can’t use this feat on a scroll a second time, and you can’t use this feat if the spell on the scroll requires a material component worth more than 10 gp.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

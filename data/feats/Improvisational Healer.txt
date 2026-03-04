@@ -1,0 +1,154 @@
+Improvisational Healer - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Improvisational Healer
+Source
+Adventurer's Armory 2 pg. 22
+In any urban or natural setting, you can scavenge for useful medical supplies.
+Prerequisites
+: Heal 1 rank.
+Benefit
+: When attempting a Heal check that normally requires a healer’s kit, you don’t take a penalty on the check for not having a healer’s kit. When you use a healer’s kit, you can augment it with improvised supplies, gaining an additional +2 circumstance bonus on your check. Finally, you can treat any
+potion of cure light wounds
+,
+potion of cure moderate wounds
+, or
+potion of cure serious wounds
+you drink yourself or administer to another character as though its caster level were equal to the number of ranks you have in the Heal skill. The spell’s normal limitations apply; for example, a
+potion of cure light wounds
+can cure a maximum of 1d8+5 points of damage, even if you have more than 5 ranks in the Heal skill.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

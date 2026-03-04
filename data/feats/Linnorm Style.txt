@@ -1,0 +1,148 @@
+Linnorm Style - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Linnorm Style (Combat, Style)
+Source
+Legacy of Dragons pg. 20
+Your open stance invites opponents to attack you, and like a linnorm’s death curse, your retributive strikes punish those foolish enough to accept the invitation.
+Prerequisites
+: Wis 13,
+Improved Unarmed Strike
+, base attack bonus +3 or monk level 3rd.
+Benefit
+: While using this style, you take a -2 penalty to your AC against melee attacks. After a creature makes a melee attack against you, you can choose to add your Wisdom bonus to the damage from your unarmed strikes against that creature, rather than your Strength bonus. If you can normally add your Dexterity bonus to the attack’s damage, you can instead replace it with your Wisdom bonus. This lasts until the beginning of the target creature’s next turn.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

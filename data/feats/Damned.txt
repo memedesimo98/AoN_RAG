@@ -1,0 +1,211 @@
+Damned - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Damned (Story)
+Source
+Quests and Campaigns pg. 8
+,
+Ultimate Campaign pg. 67
+From your earliest days, you were destined to sacrifice
+everything in your quest for power.
+Prerequisites
+: You must have had friendly contact with an evil-aligned outsider that would qualify as a challenging foe, have a fiend-related sorcerous bloodline such as abyssal or infernal, have direct fiendish ancestry (such as being a tiefling or half-fiend), or have the Fiend Raised or The Fiend background (see
+Ultimate Campaign
+).
+Benefit
+: You gain a +2 bonus on Charisma-based
+checks involving evil-aligned outsiders and +1 bonus to
+the DC of spells and spell-like abilities you use against
+such creatures. You take a –2 penalty on Charisma-based
+checks involving good-aligned outsiders.
+Goal
+: Successfully trade your soul to an evil outsider.
+Completion Benefit
+: You gain a +2 enhancement bonus
+to an ability score of your choice. This enhancement
+bonus can’t be dispelled or removed save by the direct
+intervention of a deity, and counts as a supernatural
+ability. In addition, you gain a +2 bonus on caster level
+checks (including dispel checks and checks to bypass
+spell resistance) against good-aligned outsiders. If you
+die while under the effects of this agreement, you can’t
+be brought back from the dead unless the evil outsider
+permits it. You lose your story benefits immediately and
+permanently if you renege on the arrangement by which
+you traded your soul, though you keep the feat’s basic
+benefits.
+Suggested Traits
+: Domineering, History of Heresy
+APG
+,
+Magical Flair.
+Possible Damned Quests
+d8
+Quest
+1
+The Acadamae of Korvosa instructs in the binding of
+devils (page 195).
+2
+Deskari, a demon lord of the Worldwound, is said to
+offer power to any mortal who supplicates herself to
+him (page 198).
+3
+Summoned fiends supposedly walk the streets of
+Quantium in Nex (page 132).
+4
+The labyrinthine Tower of Slant Shadows in Nidal is
+home to the otherworldly Mother Ravel, who deals
+only in flesh with those who seek to obtain her favor
+(page 137).
+5
+Having long relied on your guile and good looks, you
+seek a fiendish bargain to prevent aging. You believe
+speaking with the impossibly long-lived Lady Kaltessa
+Iyis of Isger may yield a solution (page 85).
+6
+You seek to locate a powerful efreeti in Katapesh, where
+the land itself is said to be infused with genie magic
+(page 90).
+7
+You hope to lure out the Water Lords of the Thuvian
+desert to commune with a div (page 188).
+8
+Your blood calls you to return to your remote ancestral
+home along the coast of the Steaming Sea, where
+Dagon’s demonic spawn mingle with fiend-worshiping
+mortals (page 232).
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

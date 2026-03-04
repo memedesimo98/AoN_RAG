@@ -1,0 +1,150 @@
+Champion of Righteousness - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Champion of Righteousness (Alignment)
+Source
+Pathfinder Unchained pg. 99
+You know that good must be tempered with order if it’s going to prevail in the long term.
+Prerequisites
+: 10 Hit Dice, lawful good alignment.
+Benefit
+: You can store a number of
+affirmations
+up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation to treat the effect of a spell, magic item, or other alignment-based effect on you as if you were neither lawful nor good. You can choose to do so after any attack roll hits you with such an effect or you fail a saving throw against such an effect. Lastly, you gain a +2 bonus on weapon and spell damage rolls against chaotic and evil creatures (or +4 if the creature is both chaotic and evil). This is an alignment-based effect.
+Residual
+: If you have this feat but you are no longer lawful good, you continue to gain the +2 bonus on weapon and spell damage rolls against chaotic and evil creatures (or +4 if the creature is both chaotic and evil).
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

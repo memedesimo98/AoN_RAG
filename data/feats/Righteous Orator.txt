@@ -1,0 +1,148 @@
+Righteous Orator - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Righteous Orator
+Source
+Heroes of the High Court pg. 20
+You know words are weapons, and you allow no evil creature to best you in a social setting.
+Prerequisites
+: Diplomacy 3 ranks, smite evil class feature.
+Benefit
+: While in a verbal debate, such as a court proceeding, negotiation, or verbal duel (
+Pathfinder RPG Ultimate Intrigue 176
+), you can target another creature participating in the debate as a swift action and expend one of your uses of smite evil. If you target a creature that is not evil, your smite is wasted with no effect. If the target is evil, you add your level in the class granting the smite evil feature as a bonus on your Diplomacy checks and on your Sense Motive checks against deceit attempted by the target. You also gain a morale bonus equal to your Charisma modifier on Will saves against effects originating from the target. This effect remains until you or the target is no longer actively participating in the verbal debate.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

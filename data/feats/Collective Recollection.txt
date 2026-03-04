@@ -1,0 +1,159 @@
+Collective Recollection - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Collective Recollection (Teamwork)
+Source
+Pathfinder Society Primer pg. 11
+You and your allies can quickly jog each other’s memories
+to remember essential facts.
+Benefit
+: When an ally who also has this feat attempts a
+trained Knowledge skill check while within 30 feet
+of you, you may attempt an aid another check
+as a free action to improve that ally’s skill
+check. You must have at least 1 rank in the
+Knowledge skill to be aided in order to
+use this feat. If you succeed at the aid
+another check, you automatically know
+any information your ally gains from
+the Knowledge check as if you had
+rolled the Knowledge check. Whether or
+not your aid another check is successful,
+you cannot attempt a Knowledge check
+to determine the same information as your
+ally after using this feat.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

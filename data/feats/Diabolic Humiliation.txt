@@ -1,0 +1,150 @@
+Diabolic Humiliation - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Diabolic Humiliation (Combat)
+Source
+Planar Adventures pg. 27
+Your humiliating strikes decrease a foe’s morale.
+Prerequisites
+:
+Combat Reflexes
+, Diabolic Style; Vital Strike; Improved Unarmed Strike or Weapon Focus (unarmed strike); base attack bonus +8 or monk level 7th.
+Benefit
+: When you successfully stagger a foe with an unarmed strike using Diabolic Style, the target becomes further humiliated. The target cannot gain the benefit of any morale bonus for 1 minute after being staggered in this way, and for the duration of that minute, any additional staggered effects it suffers from your attacks of opportunity last for 2 rounds rather than 1. The durations of multiple staggered effects administered in this way stack.
+Special
+: A monk of at least 10th level with this feat can select Improved Vital Strike as a monk bonus feat.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,152 @@
+Collector's Boon - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Collector's Boon
+Source
+Chronicle of Legends pg. 24
+You have a knack for unlocking the true potential of your magical equipment.
+Prerequisites
+: Character level 5th.
+Benefit
+: You can enhance the effects of certain magical items when wearing or wielding two or more sympathetic magic items. While you are wearing or wielding at least two items from a
+set
+, you gain the two-item benefit listed in the set, as well as any specific benefits detailed in the item description entries for the pieces of that set. You do not gain any benefits that require three or more set pieces; such benefits must be unlocked by taking the
+Improved Collector’s Boon
+feat.
+Special
+: You can't gain the set bonuses of more than one set at a time due to the interference of incompatible sympathetic magical effects. If you have multiple pieces of two or more sets, you must choose the set you gain the benefits of at the start of each day and can't change this decision for 24 hours.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

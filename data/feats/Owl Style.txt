@@ -1,0 +1,148 @@
+Owl Style - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Owl Style (Combat, Style)
+Source
+Ultimate Intrigue pg. 88
+You can move with the quiet grace of an owl.
+Prerequisites
+: Dex 13,
+Skill Focus (Stealth)
+, Stealth 1 rank.
+Benefit
+: While using this style, you can use your base attack bonus in place of your ranks in Stealth to determine your Stealth skill modifier (as usual, this does not replace your ranks for other purposes, such as determining the effects of Skill Focus). While in this stance and using Stealth, you can charge at a –10 penalty beyond the penalty you take for using Stealth at full speed (which is typically –5). Foes that fail their Perception checks and don’t otherwise notice you (for instance, with an ability like blindsight) are denied their Dexterity bonuses to AC against all attacks you make against them during or at the end of that charge instead of just against the first attack.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

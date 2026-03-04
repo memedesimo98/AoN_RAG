@@ -1,0 +1,151 @@
+Infiltrator - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Infiltrator (Story)
+Source
+Spymaster's Handbook pg. 15
+You have sacrificed your true identity in order to achieve your goal.
+Prerequisites
+: Must have adopted an assumed or secret identity associated with an enemy organization.
+Benefit
+: Once per day when you succeed at a saving throw to negate a divination, you learn what the divination would have revealed and can spend an immediate action to cause the divination to return appropriate false information you imagine that would fit with your cover identity.
+Goal
+: Thwart the organization you have infiltrated, defeating or turning to your cause an appropriate number of challenging foes in the process
+.
+Completion Benefit
+: Whenever a spell or spell-like ability would reveal information about you, you can attempt a Will saving throw. If your saving throw is successful, the spell reveals nothing about you. You can use this feat’s benefits to instead give false information, as detailed above.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

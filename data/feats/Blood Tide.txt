@@ -1,0 +1,151 @@
+Blood Tide - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Blood Tide
+Source
+Monster Codex pg. 189
+In the throes of blood frenzy, you can unleash a whirlwind of claws and teeth against your foes.
+Prerequisites
+:
+Combat Expertise
+,
+Greater Blood Frenzy
+, base attack bonus +6, blood frenzy ability, sahuagin.
+Benefit
+:  When you make a full attack while in a blood frenzy, you can give up your regular attacks to instead make one melee attack at your highest base attack bonus against each bleeding or wounded opponent within reach. You must use a natural weapon with these attacks, and you must make a separate attack roll against each opponent. You do not need to use the same natural weapon against each opponent.
+When you use Blood Tide, you also forfeit any extra attacks granted by other feats, spells, or abilities.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

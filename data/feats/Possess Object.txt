@@ -1,0 +1,163 @@
+Possess Object - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Possess Object (Monster)
+Source
+Pathfinder #28: The Infernal Syndrome pg. 58
+A fiend gains the power to bind its malign essence to a single object, corrupting it into a relic of undeniable evil.
+Prerequisites
+: Cha 18, any evil outsider with 9 or more Hit Dice.
+Benefit
+: Once per day, as a full-round action, a fiend can possess a Large or smaller object. Unattended, a mundane object receives no saving throw against possession, while an attended object uses its owner's saving throw to make a Will save equal to 10 + half the fiend's Hit Dice + the fiend's Charisma modifier. Magic items save as if they were subject to a spell. Items within the area of effect of a
+hallow
+spell cannot be possessed. This effect is similar to that detailed in the
+Possess Creature
+feat, except that objects do not receive a daily save to escape the fiend's influence and the fiend's
+possession points
+can only be spent on object-possession actions.
+Should a possessed object be destroyed, the fiend is ejected, retakes its original form in an adjacent space, and is stunned for 1 round.
+Dispel evil
+(or
+dispel chaos
+or
+dispel law
+, depending on the fiend) can eject a fiend, but the caster must succeed at a caster level check with a DC equal to 10 + the HD of the possessing fiend + the fiend's Cha modifier.
+Banishment
+and
+dismissal
+immediately eject a fiend from an object if it fails to make its saving throw against the spell's effects.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

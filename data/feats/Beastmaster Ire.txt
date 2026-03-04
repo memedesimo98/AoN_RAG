@@ -1,0 +1,152 @@
+Beastmaster Ire - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Beastmaster Ire (Combat)
+Source
+Ultimate Wilderness pg. 107
+Seeing your animal companion attacked or hurt causes you to retaliate with a bestial fury of your own.
+Prerequisites
+: Cha 13,
+Alertness
+,
+Beastmaster Salvation
+,
+Beastmaster Style
+, Handle Animal 9 ranks, Sense Motive 5 ranks.
+Benefit
+: When you activate Beastmaster Style’s benefit, you gain a +2 morale bonus on melee weapon attack rolls and +4 morale bonus on weapon damage rolls against the attacking creature. If the enemy attack dealt damage to your animal companion, these bonuses increase to +4 and +8, respectively. These bonuses last until the end of your next turn.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

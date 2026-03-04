@@ -1,0 +1,150 @@
+Spear Dancing Style - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Spear Dancing Style (Combat, Style)
+Source
+Weapon Master's Handbook pg. 17
+You can use polearms and spears as double weapons.
+Prerequisites
+: Dex 13,
+Two-Weapon Fighting
+, Weapon Focus with the chosen weapon.
+Benefit
+:  Choose one weapon from the polearm or spear fighter weapon groups. While using this style, you grant the chosen weapon the double special weapon feature, using the weapon’s normal statistics for its main-hand end and the statistics of a light mace for its off-hand end. A weapon wielded in this way loses the brace and reach special weapon features.
+Special
+:  A character with the weapon training (polearms or spears) class feature can use Spear Dancing Style with any polearm or spear, respectively, in addition to the chosen weapon.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

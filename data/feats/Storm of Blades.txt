@@ -1,0 +1,148 @@
+Storm of Blades - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Storm of Blades (Combat)
+Source
+Martial Arts Handbook pg. 26
+Your technique unleashes a dizzying torrent of cuts.
+Prerequisites
+:
+Weapon Focus
+with slashing weapon, base attack bonus +6.
+Benefit
+: As a standard action, you can make a single attack with your chosen weapon while setting up a vortex of cuts that lasts until the beginning of your next turn. Any creature that begins its turn threatened by this weapon takes damage equal to your Strength or Dexterity bonus, whichever is greater. When your base attack bonus reaches +11, you also add your base weapon damage. When your base attack bonus reaches +16, you gain the distraction universal monster rule for this damage, but a creature that fails its save is only sickened. You can use this feat’s benefits only once per minute.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

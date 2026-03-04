@@ -1,0 +1,148 @@
+Command Animals - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Command Animals
+Source
+Ultimate Wilderness pg. 108
+You channel energy to get animals to do your bidding.
+Prerequisites
+: Animal domain, channel energy class feature.
+Benefit
+: As a standard action, you can use one of your daily uses of channel energy in an attempt to control animals within 30 feet. Animals can attempt a Will save (DC = 10 + half your class level + your Charisma modifier) to negate the effect. Animals that fail their saves fall under your control, obeying your commands to the best of their ability as if under the effects of a
+charm monster
+spell with a caster level equal to your class level. An affected animal can attempt a new saving throw each day to escape this effect. You can control any number of animals, so long as their total Hit Dice do not exceed your class level. If you use channel energy in this way, it has no other effect (it does not heal or harm nearby creatures). If an affected animal is controlled by or a companion of another creature, you must attempt an opposed Charisma check whenever your orders conflict.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

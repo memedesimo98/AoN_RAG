@@ -1,0 +1,156 @@
+Swordplay Deflection - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Swordplay Deflection (Combat)
+Source
+Weapon Master's Handbook pg. 17
+You can deflect incoming attacks.
+Prerequisites
+:
+Combat Expertise
+,
+Improved Feint
+,
+Swordplay Style
+,
+Swordplay Upset
+, Weapon Focus with the chosen weapon, base attack bonus +7.
+Benefit
+:  While using Swordplay Style, when you make one or more melee attacks, you can forgo a single melee attack to prepare an action to disrupt an opponent’s attack. This functions as a swashbuckler’s opportune parry and riposte
+ACG
+deed, except that if your result is greater than your opponent’s, you gain a +4 shield bonus to your Armor Class against attacks made by your opponent until the start of your next turn instead of preventing the hit, and you cannot attempt to riposte. If you have the opportune parry and riposte deed, you gain this Armor Class bonus anytime you successfully parry an opponent’s attack.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

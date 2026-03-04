@@ -1,0 +1,164 @@
+Totem Spirit - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Totem Spirit
+Source
+Inner Sea World Guide pg. 289
+,
+Rise of the Runelords Player's Guide pg. 15
+,
+Pathfinder Campaign Setting pg. 147
+You are mystically tied to your tribe’s sacred totem.
+Prerequisites
+: Member of a Shoanti tribe.
+Benefit
+: The benefit granted by this feat depends on which Shoanti tribe you belong to:
+Lyrune-Quah (Moon Clan)
+: You gain a +1 bonus on Will saves and a +2 bonus on Perception checks.
+Shadde-Quah (Axe Clan)
+: If you have the rage ability, you can rage for 3 additional rounds per day. You also gain a +2 bonus on Intimidate checks.
+Shriikirri-Quah (Hawk Clan)
+: You gain a +2 bonus on Initiative checks and a +2 bonus on Ride checks.
+Shundar-Quah (Spire Clan)
+: You gain a +1 bonus on Fortitude saves and a +2 bonus on Perception checks.
+Sklar-Quah (Sun Clan)
+: You gain a +1 bonus on Reflex saves and a +2 bonus on Acrobatics checks.
+Skoan-Quah (Skull Clan)
+: You gain a +2 bonus on weapon damage against undead and a +2 bonus on Heal checks.
+Tamiir-Quah (Wind Clan)
+: Your base land speed increases by 5 feet. You also gain a +2 bonus on Acrobatics checks.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

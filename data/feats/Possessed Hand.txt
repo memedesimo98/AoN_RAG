@@ -1,0 +1,145 @@
+Possessed Hand - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Possessed Hand
+Source
+Haunted Heroes Handbook pg. 25
+You’ve made a peaceful and permanent bargain with a ghost, spirit, or outsider. It possesses your hand, guiding and aiding you in exchange for help in return.
+Benefit
+: You attract a ghost, spirit, or outsider with personal motivations to possess your hand. This usually involves some sort of mutually beneficial pact or agreement. Your possessed hand helps you in numerous ways, but its periodic, uncontrolled antics are distracting; you take a permanent –2 penalty on concentration checks once you gain this feat.
+Any attack you make with a one-handed weapon, light weapon, unarmed strike, or natural attack with your possessed hand gains a +1 insight bonus on the attack roll and damage roll. You also gain a +1 insight bonus on Disable Device and Sleight of Hand checks. Once per day as a swift action, you can retrieve any stowed object you carry on your person, provided the object weighs no more than 5 pounds.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

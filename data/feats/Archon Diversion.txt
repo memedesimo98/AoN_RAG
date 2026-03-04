@@ -1,0 +1,154 @@
+Archon Diversion - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Archon Diversion (Combat)
+Source
+Planar Adventures pg. 25
+,
+Blood of Angels pg. 24
+You throw yourself in front of blows meant for allies, giving those allies a chance to strike back against the enemy once they have attacked you.
+Prerequisites
+:
+Archon Style
+;
+Combat Expertise
+;
+Combat Reflexes
+; base attack bonus +4 or monk level 3rd.
+Benefit
+: The penalty to AC for using Archon Style to grant nearby allies a bonus to AC against a single opponent decreases to –1. Once per round while using Archon Style, when you have at least one hand free or when wielding a shield, you can divert one melee weapon attack targeting an adjacent ally to yourself. After resolving the attack, the ally you protected can make an attack of opportunity against the diverted opponent. You expend no action to divert the attack, but you must be aware of it and must not be flat-footed. You must choose to divert the attack after the opponent has declared the melee attack, but before the attack roll is rolled.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

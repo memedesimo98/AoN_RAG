@@ -1,0 +1,148 @@
+Mutilating Ritualist - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Mutilating Ritualist
+Source
+Horror Adventures pg. 91
+You add a personal sacrifice to heighten the power of your ritual magic.
+Prerequisites
+: Knowledge (arcana) 4 ranks, Knowledge (religion) 4 ranks, Spellcraft 4 ranks.
+Benefit
+: Once during the casting of an occult ritual (
+Pathfinder RPG Occult Adventures 208
+), you can inflict 1d6 hit points of damage per 2 Hit Dice and 1d4 Constitution damage (or Charisma damage if you’re undead) to yourself as an immediate action with a piercing or slashing weapon. You can’t reduce or ignore this damage in any way. This damage doesn’t disrupt the ritual, and you can roll twice for the next skill check made as part of a ritual casting and take the better result. If the resulting ritual effect has the fear descriptor or is in the phantasm subschool, increase its saving throw DC by 1. Multiple characters with this feat can each use it once per ritual on their skill checks, but the DC increases don’t stack.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

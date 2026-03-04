@@ -1,0 +1,146 @@
+Wild Growth Hex - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Wild Growth Hex
+Source
+Ultimate Wilderness pg. 119
+Hexing your enemies causes them to be ensnared in tangling vines.
+Prerequisites
+: Hex class feature; summer, thorns, or woodlands patron.
+Benefit
+: When you gain this feat, choose one hex that you can use to affect no more than one opponent. If the target of your hex fails its saving throw to resist your hex, the square it occupies becomes overgrown with thorny plants that count as difficult terrain. A creature moving in or out of the square must succeed at a Reflex save or Acrobatics check (DC = 10 + half your level + your Charisma modifier) or take 1d6 points of piercing damage and immediately end its movement. For every 5 by which the target fails its save against your hex, you can create 1 additional square of difficult terrain adjacent to any square the target occupies. The difficult terrain lasts a number of rounds equal to your Charisma modifier (minimum 1). The ground must be composed of a material able to support plant life (such as soil).
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

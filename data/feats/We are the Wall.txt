@@ -1,0 +1,150 @@
+We are the Wall - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+We are the Wall (Story)
+Source
+Pathfinder #131: The Reaper's Right Hand pg. 76
+You embody your family’s legendary monster-hunters.
+Prerequisites
+: Be a member of House Darahan, or have the Champion of the People, Duty, or Raider background.
+Benefit
+: Three times per day as a move action, you can declare a single dragon, magical beast, or monstrous humanoid within 50 feet and in line of sight to be your mark. You gain a +1 bonus on attack rolls and on Bluff, Knowledge, Perception, Sense Motive, and Survival checks against your mark. These bonuses last for 1 minute, until you designate a new mark, or until the mark is dead. After you have declared a creature as your mark, it can’t be your mark again for another 24 hours.
+Goal
+: Protect a settlement you have lived in for at least a year from an invading force consisting of an appropriate number of dragons, magical beasts, or monstrous humanoids.
+Completion Benefit
+: The bonus provided by your mark becomes +1 for every 4 character levels you have, to a maximum of +5.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

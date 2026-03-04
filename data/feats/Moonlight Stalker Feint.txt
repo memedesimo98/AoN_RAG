@@ -1,0 +1,163 @@
+Moonlight Stalker Feint - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Moonlight Stalker Feint (Combat)
+Source
+Ultimate Combat pg. 110
+You strike through the shadows so quickly that your opponent can barely react to your attacks.
+Prerequisites
+: Int 13,
+Blind-Fight
+,
+Combat Expertise
+,
+Improved Feint
+,
+Moonlight Stalker
+, Bluff 6 ranks, darkvision or low-light vision racial trait.
+Benefit
+:  Once per round, against an opponent from whom you have concealment, you can spend a swift action to make a Bluff check to feint.
+Normal
+:  Feinting is a standard action.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 127
+When you attempt a Bluff check to feint against an opponent from whom you have concealment, you can spend up to 5 stamina points to gain a bonus on the Bluff check equal to double the number of stamina points you spent.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

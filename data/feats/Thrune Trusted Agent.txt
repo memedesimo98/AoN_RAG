@@ -1,0 +1,146 @@
+Thrune Trusted Agent - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Thrune Trusted Agent (Teamwork)
+Source
+Pathfinder #105: The Inferno Gate pg. 7
+Your supernatural bond to other Thrune agents strengthens your resolve and allows you to bolster your allies.
+Prerequisites
+: Thrune Loyal Agent trait.
+Benefit
+:  Whenever you are within 30 feet of an ally who also has this feat, you gain a +1 profane bonus on Reflex and Will saving throws. In addition, once per day as a swift action, you can forfeit the saving throw bonuses granted by this feat to increase the effectiveness of the aid another action. For a number of rounds equal to your Charisma modifier (minimum 1), when you use the aid another action to aid an ally who also has this feat, the bonus you grant to an ally’s AC, attack roll, or skill check is increased to +4 instead of the usual +2. You don’t benefit from the feat’s saving throw bonuses for 24 hours, though you still qualify as having this feat for the purpose of other characters gaining the bonuses.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

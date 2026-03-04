@@ -1,0 +1,152 @@
+Champion of Tranquility - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Champion of Tranquility (Alignment)
+Source
+Pathfinder Unchained pg. 99
+The harmony of law is your highest ideal.
+Prerequisites
+: 10 Hit Dice, lawful neutral alignment.
+Benefit
+: You can store a number of
+affirmations
+up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation to cast
+calm emotions
+as a spell-like ability as a standard action, with a caster level equal to your Hit Dice. Lastly, you gain a +2 bonus on weapon and spell damage rolls against chaotic creatures. This is an alignment-based effect.
+Residual
+: If you have this feat but you are no longer lawful neutral, you continue to gain the +2 bonus on weapon and spell damage rolls against chaotic creatures.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

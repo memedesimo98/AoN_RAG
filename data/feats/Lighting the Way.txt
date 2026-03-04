@@ -1,0 +1,156 @@
+Lighting the Way - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Lighting the Way (Story)
+Source
+Pathfinder #131: The Reaper's Right Hand pg. 79
+You seek to lead others through your pious example.
+Prerequisites
+: Be a member of House Zespire, or have the Devoted, Exemplar, Marked by the Gods, or Righteous Mentor background.
+Benefit
+: Once per day as a standard action, you can give all allies within 30 feet who can hear you a +1 bonus on attack rolls and on saving throws against mind-affecting effects for 1 minute.
+Goal
+: Establish your religion in an existing settlement where it isn’t present. You can do this by having a settlement gain the
+Holy Site or Pious quality
+for devotion to your deity, or change its government to a theocracy based on your religion.
+Completion Benefit
+: You can spontaneously convert any 2nd-level or higher divine spell into
+enthrall
+and can spontaneously convert any 3rd-level or higher divine spell into
+suggestion
+.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

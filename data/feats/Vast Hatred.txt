@@ -1,0 +1,157 @@
+Vast Hatred - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Vast Hatred (Combat)
+Source
+Advanced Race Guide pg. 37
+Your rage stretches beyond normal bounds.
+Prerequisites
+: Gnome, hatred racial trait.
+Benefit
+:  Select two creature types (and subtypes where appropriate) from the list of potential favored enemies from the ranger class ability. Your +1 attack bonus from the hatred racial trait applies to creatures of the selected types (and subtypes).
+Special
+:  You may take this feat more than once. Its benefits do not stack. Each time you select this feat, you select two additional creature types to which your hatred racial trait applies.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 135
+You can spend 5 stamina points to designate a creature type (and subtype, if appropriate) from the Ranger Favored Enemies table (
+Core Rulebook
+64). Your attack bonus from the hatred racial trait also applies to creatures of the selected type (and subtype, if appropriate) until the start of your next turn.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

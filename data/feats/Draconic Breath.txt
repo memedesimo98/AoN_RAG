@@ -1,0 +1,160 @@
+Draconic Breath - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Draconic Breath
+Source
+Advanced Race Guide pg. 136
+You possess draconic defenses and a draconic breath weapon.
+Prerequisites
+:
+Draconic Aspect
+, kobold.
+Benefit
+:  You gain a +2 bonus against sleep and paralysis effects. You gain a breath weapon that is determined by your scale coloration by either the Draconic Aspect feat or the dragon-scaled racial trait. Using a breath weapon is a standard action that does not provoke attacks of opportunity. You can use your breath weapon once per day. Creatures within the area of your breath weapon who succeed at a Reflex saving throw (DC 10 + your character level + your Constitution modifier) take only half damage.
+Black (Su)
+: You breathe a 30-foot line of acid that deals 2d6 points of acid damage.
+Blue (Su)
+: You breathe a 30-foot line of electricity that deals 2d6 points of electricity damage.
+Green (Su)
+: You breathe a 15-foot cone of acid that deals 2d6 points of acid damage.
+Red (Su)
+: You breathe a 15-foot cone of fire that deals 2d6 points of fire damage.
+White (Su)
+: You breathe a 15-foot cone of cold that deals 2d6 points of cold damage.
+Special
+: Kobold sorcerers with either the Draconic or Kobold bloodline can use their Charisma modifier instead of their Constitution to determine the DC of this breath weapon.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

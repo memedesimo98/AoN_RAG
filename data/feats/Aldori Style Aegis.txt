@@ -1,0 +1,159 @@
+Aldori Style Aegis - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Aldori Style Aegis (Combat)
+Source
+Adventurer's Guide pg. 24
+Baron Aldori’s dueling style is at its strongest when employed in one-on-one duels. Adjusting to a reverse grip and keeping your blade in motion, you parry your rival’s strikes with ease.
+Prerequisites
+:
+Aldori Style
+,
+Alertness
+,
+Combat Reflexes
+,
+Exotic Weapon Proficiency (Aldori dueling sword)
+,
+Weapon Finesse
+,
+Weapon Focus (Aldori dueling sword).
+Benefit
+: While using Aldori Style, at the beginning of your turn, you can designate a focused target as a swift action. This designation lasts until the beginning of your next turn, and you take a –2 penalty to your AC against all other creatures’ attacks for that duration. As an immediate action while using Combat Expertise or fighting defensively, you can attempt to parry the focused target’s attack. This functions as the swashbuckler’s opportune parry and riposte deed (
+Pathfinder RPG Advanced Class Guide 57
+), except that it does not cost panache and you cannot riposte.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

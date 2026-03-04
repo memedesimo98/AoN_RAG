@@ -1,0 +1,215 @@
+Foeslayer - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Foeslayer (Story)
+Source
+Quests and Campaigns pg. 10
+,
+Ultimate Campaign pg. 69
+Your feud with your enemies can be quenched only
+with blood.
+Prerequisites
+: You must have been defeated and robbed
+of at least half your possessions by a particular group of
+humanoids or monstrous humanoids, or have the An Eye
+for an Eye, Hated Foe, Raiders, or Vengeance background
+(see
+Ultimate Campaign
+). You may choose a specific race, such as duergar, or a broader group, such as goblinoids.
+At the GM’s discretion, you may instead choose residents
+of a particular country, settlement, or tribe.
+Benefit
+: The save DCs for any of your spells or abilities
+increase by 1 when used against the chosen group, and
+you receive a +1 dodge bonus to AC against their attacks.
+Goal
+: Slay an appropriate number of challenging foes.
+Completion Benefit
+: You gain the benefits of the
+Improved Critical feat on attacks made against members
+of your chosen race. Your dodge bonus to AC against such
+foes increases to +2.
+Suggested Traits
+: Dirty Fighter
+APG
+, Sworn Enemy,
+Vengeful.
+Possible Foeslayer Quests
+d8
+Quest
+1
+You saw many friends and family fall in the Goblinblood
+Wars that wracked Isger years ago. Now, as goblins
+multiply again, you’ve decided to take the fight to them
+(page 82).
+2
+Robbed by pirates from the Shackles, you have vowed to
+hunt down all of their kind (determine race randomly)
+(page 170).
+3
+A friend or relative of yours was slain senselessly by
+strix while passing near Devil’s Perch in Cheliax, and
+you’ve vowed to exact revenge against the aggressors
+and their kin (page 57).
+4
+When you were enslaved by gnolls, you were freed by
+the djinni that raided their camp. Now, you would find
+the genies again so that you might together put a more
+permanent end to the gnoll threat in western Katapesh
+(page 91).
+5
+You desire to match and then exceed the achievements
+of your ancestor Queen Boliga Bharsolm, still
+remembered in Numeria for felling a giant king in the
+Battle of Grasyhot (page 143).
+6
+In Canterwall, the denizens of various hamlets along the
+border between the Hold of Belkzen and Ustalav have
+been mysteriously disappearing. You’ve determined to
+locate the evildoers responsible and make them pay the
+price for their foul deeds (page 193).
+7
+When you traveled through southern Rahadoum,
+boggard priests of Rovagug from the Sodden Lands took
+a family treasure from you as an offering to their foul
+god (page 175).
+8
+The borderlands along the Hold of Belkzen are
+constantly seething with tribal conflicts, and one of
+them left you hungry for revenge against the orc
+aggressors (page 46).
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

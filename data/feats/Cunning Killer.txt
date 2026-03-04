@@ -1,0 +1,146 @@
+Cunning Killer - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Cunning Killer
+Source
+Blood of the Beast pg. 11
+You mercilessly dispatch those creatures that you outwit.
+Prerequisites
+: Base attack bonus +2, Knowledge (arcana, dungeoneering, local, nature, planes, or religion) 3 ranks.
+Benefit
+: When you succeed at a Knowledge check to identify a creature with an Intelligence score of 2 or less, you gain a +1 insight bonus on attack and damage rolls against that creature for a number of rounds equal to your Intelligence bonus. When your base attack bonus reaches +4 and every 4 points thereafter, increase the Intelligence score of the creatures you can affect with this ability by 2 (maximum 12 Intelligence); your Intelligence must exceed the target’s Intelligence by 5 or more for you to gain any benefit. When your base attack bonus reaches +6 and every 6 points thereafter, increase the insight bonus on attack and damage rolls by 1 (maximum +4).
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,152 @@
+Implement Mastery - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Implement Mastery (Item Mastery)
+Source
+Magic Tactics Toolbox pg. 30
+You can use your implements to unlock secrets of mastering relics and other items of power.
+Prerequisites
+: Implements
+OA
+class feature, mental focus
+OA
+class feature.
+Benefit
+: For the purposes of using item mastery feats, you treat your implements as magic items with all spells that you know from each implement’s associated implement school functioning as their effective construction requirements. When using an implement to activate an item mastery feat, you can spend a number of points of mental focus equal to half of the feat’s base Fortitude save bonus prerequisite to activate the feat without counting the use against the item mastery feat’s total number of daily uses.
+Special
+: An occultist who has this feat can select item mastery feats in place of focus powers, provided he meets the feats’ prerequisites.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

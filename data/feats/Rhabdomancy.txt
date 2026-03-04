@@ -1,0 +1,151 @@
+Rhabdomancy - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Rhabdomancy
+Source
+Occult Origins pg. 24
+You have mastered the art of casting sticks, rods, or arrows to uncover secrets and find lost things, gaining insight from the way these objects fall.
+Prerequisites
+: Knowledge (nature) 3 ranks, Survival 3 ranks.
+Benefit
+:  You can perform the dowsing occult skill unlock
+OA
+even if you can’t use psychic magic. If you can cast psychic spells or have the Psychic Sensitivity
+OA
+feat, you can use dowsing one additional time per day.
+Spending 1 minute casting sticks prior to attempting a Survival check grants you a +2 insight bonus on the check. In addition, you can cast sticks or rods while casting a spell that locates a creature or object (including scrying effects) to increase the caster level of that spell by 1.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

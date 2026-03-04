@@ -1,0 +1,152 @@
+Baneful Judgment - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Baneful Judgment (Combat)
+Source
+Monster Hunter's Handbook pg. 5
+You dole out judgment to a particular foe.
+Prerequisites
+: Bane
+APG
+class feature, judgment
+APG
+class feature, monster lore
+APG
+class feature.
+Benefit
+: You can declare a specialized judgment against a creature as a swift action. When pronouncing this judgment, you attempt a Knowledge check to identify the creature, or refer to your previous result if you’ve already identified the creature. If you succeed at the check or have already identified the creature, you can spend 1 round of bane and choose one judgment other than the healing judgment. You gain the benefits of this judgment against that creature for only 1 round plus 1 additional round for every 5 by which you exceeded the DC to identify the target. Subsequent uses of this judgment do not stack with this ability. A creature cannot be the target of this ability again for 24 hours.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

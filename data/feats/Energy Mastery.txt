@@ -1,0 +1,151 @@
+Energy Mastery - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Energy Mastery (Item Mastery)
+Source
+Weapon Master's Handbook pg. 26
+You can project energy from evocation magic items.
+Prerequisites
+: Use Magic Device 1 rank, base Fortitude save bonus +4.
+Benefit
+:  You can cause an item that has a 1st level or higher evocation spell with the acid, cold, electricity, or fire descriptor in its construction requirements to cast
+burning hands
+. The spell has the energy descriptor from the appropriate requirement spell and deals that type of damage instead of fire damage. You can use this feat once per day, plus an additional time per day at base Fortitude save bonus +6, +8, +10, and +12.
+You can spend two daily uses of this feat to cast
+lightning bolt
+this way if the spell listed in the item’s construction requirements is at least 3rd level (still dealing a type of energy damage appropriate to that spell).
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

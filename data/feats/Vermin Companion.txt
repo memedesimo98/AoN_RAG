@@ -1,0 +1,150 @@
+Vermin Companion - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Vermin Companion
+Source
+Revenge of the Kobold King pg. 6
+,
+Pathfinder Campaign Setting pg. 219
+Your understanding of creepy-crawlies has grown to the point where you can bond with one as a companion.
+Prerequisites
+:
+Vermin Heart
+, animal companion class feature, wild empathy class feature.
+Benefit
+: Add the following monsters to your list of potential animal companions at the indicated druid levels. 1st—giant ant (worker), giant fire beetle, medium monstrous centipede, medium monstrous scorpion, medium monstrous spider; 4th—giant ant (soldier), giant bee, giant bombardier beetle, Large monstrous centipede, Large monstrous scorpion, Large monstrous spider; 7th—giant praying mantis, giant stag beetle, giant wasp, huge monstrous centipede; 10th—gargantuan monstrous centipede, huge monstrous spider; 13th—huge monstrous scorpion; 16th—gargantuan monstrous spider.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,151 @@
+Sensory Control - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Sensory Control (Meditation)
+Source
+Blood of the Beast pg. 29
+Meditation focuses your powers of observation.
+Prerequisites
+: Wis 15,
+Blind-Fight
+,
+Meditation Master.
+Benefit
+: For 24 hours after you meditate, you gain low-light vision and scent, as per the universal monster abilities. If you already have low-light vision, you gain the ability to see three times as far as a human in conditions of dim light for 24 hours. If you already have scent, the range at which you detect smells using scent doubles for 24 hours (60 feet normally, 30 feet upwind, and 120 feet downwind).
+Special
+: A monk with this feat can select Improved Blind-Fight as a bonus feat beginning at 6th level, and Greater Blind-Fight as a bonus feat beginning at 10th level. He doesn’t need to meet the prerequisites of those feats.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

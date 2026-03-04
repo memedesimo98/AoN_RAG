@@ -1,0 +1,157 @@
+Mirror Move - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Mirror Move (Combat)
+Source
+Melee Tactics Toolbox pg. 7
+By tracking an opponent’s movements, you can attempt to duplicate his techniques.
+Prerequisites
+: Int 13,
+Combat Expertise
+, base attack bonus +4.
+Benefit
+:  If you are the only character threatening an opponent and that opponent uses a combat feat (including taking an action that benefits from a combat feat, or gaining any bonus to AC, attack rolls, damage rolls, or saving throws from a combat feat), you can take an immediate action to gain the benefit of that feat until the end of your next turn. You must meet all the feat’s prerequisites. If a feat has a daily use limitation, as does Stunning Fist, any uses of that feat while you’re using Mirror Move count toward that feat’s daily limit for you. You can use Mirror Move once per day for every 4 levels you have attained.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Armor Master's Handbook pg. 21
+You can spend up to 5 stamina points to extend the duration that you benefit from a mirrored feat by 1 round per stamina point spent. (
+Melee Tactics Toolbox 7
+)
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,153 @@
+Mud in Your Eye - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Mud in Your Eye (Combat)
+Source
+Heroes of the Streets pg. 29
+You are used to fighting in muck and slime, and happily hurl it in your foes’ eyes in the heat of battle.
+Prerequisites
+:
+Throw Anything.
+Benefit
+:  As a standard action when in urban or subterranean terrain, you can scoop filth, sewage, mud, or similar grime off a nearby surface and hurl it at a foe as a ranged touch attack with a range increment of 5 feet. If the attack hits, you can immediately attempt a dirty trick
+APG
+combat maneuver against the target as a free action; this dirty trick can be used only to blind the target. As a ranged touch attack, this action provokes attacks of opportunity, even if your dirty trick attempts normally wouldn’t provoke such attacks (such as via the Improved Dirty Trick
+APG
+feat).
+Special
+:  A character with favored terrain (as the ranger class feature) can use this feat when in any of his favored terrains in addition to urban and subterranean.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

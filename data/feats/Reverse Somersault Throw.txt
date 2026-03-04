@@ -1,0 +1,152 @@
+Reverse Somersault Throw - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Reverse Somersault Throw (Combat)
+Source
+Martial Arts Handbook pg. 24
+You drag your opponent off balance, then use his momentum to fling him over your head.
+Prerequisites
+: Str 13,
+Improved Drag
+,
+Power Attack
+, base attack bonus +6 or
+monk level 3rd
+.
+Benefit
+: When you succeed at a drag combat maneuver check, at the end of your movement, you can fall prone to launch your target over your head. If you do, you move the target of your drag combat maneuver into the space adjacent to you that is opposite its position at the end of your movement, and the target falls prone in that square or squares. You can’t use this ability to move a creature into a square that is occupied by a solid object or obstacle. If there would not be enough room for the creature in its new position, the ability fails and the creature is not moved.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

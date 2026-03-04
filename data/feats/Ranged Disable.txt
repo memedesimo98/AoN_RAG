@@ -1,0 +1,152 @@
+Ranged Disable - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Ranged Disable
+Source
+Ultimate Intrigue pg. 89
+You can disable devices with ranged weapons.
+Prerequisites
+:
+Far Shot
+,
+Point-Blank Shot
+,
+Weapon Focus
+, Disable Device 9 ranks.
+Benefit
+: As a full-round action, you can attempt a Disable Device check with a ranged weapon you have chosen with Weapon Focus. You can use this ability against only a simple device (one that would normally take a full-round action to disable), and you can’t use it if the device has any cover or concealment. This use of the ranged weapon deals no damage to the device, but it allows you to attempt a Disable Device check instead. You treat the ranged attack as if you were using tools inappropriate for the job, taking a –4 penalty on your Disable Device check. You also apply any range penalty for the weapon to the Disable Device check, but you do not gain any bonuses that would normally apply on attack rolls on the Disable Device check.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

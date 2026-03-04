@@ -1,0 +1,152 @@
+Overachiever - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Overachiever (Story)
+Source
+Agents of Evil pg. 9
+Others made you feel small for too long, and now you drive yourself hard and never settle for second place.
+Prerequisites
+: You must have been defeated by the same individual, organization, or creature type at least four times, or have the Boarding School or Humiliated background.
+Benefit
+: You take only half the normal penalties from exhaustion. Choose one skill upon selecting this feat. Once per day, you can forgo rest to study or practice, gaining a +3 bonus on all checks attempted with your selected skill for 24 hours but becoming fatigued in the process. If you rest to recover from this fatigue, this bonus ends (but not if you recover from your fatigue in other ways, such as via
+lesser restoration
+). Forgoing rest for this purpose does not interfere with a spellcaster’s ability to prepare spells.
+Goal
+: You must utterly humiliate a member of your hated group by besting that creature at an activity for which it is known or in which it takes pride. This opponent’s Hit Dice must exceed your current character level by at least 1.
+Completion Benefit
+: Each time you forgo rest to study or practice, you can apply this feat’s +3 bonus to a different skill. If you have 10 or more ranks in the skill selected, this bonus increases to +6.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

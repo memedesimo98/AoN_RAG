@@ -1,0 +1,147 @@
+Raging Blood - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Raging Blood
+Source
+Advanced Class Guide pg. 155
+Your blood boils with latent energy, filling you with an intense fury.
+Prerequisites
+: Eldritch Heritage or sorcerer bloodline class feature.
+Benefit
+:  You gain the 1st-level bloodrager bloodline power for your bloodline. In addition, you gain the ability to enter a state similar to (but less powerful than) a bloodrager’s bloodrage. You can enter this lesser bloodrage twice per day, for up to 4 rounds. During this lesser bloodrage, you gain a +2 morale bonus to Strength and Constitution, and no morale bonus on Will saving throws. Otherwise, this benefit is the same as the bloodrage class feature.
+If you have more than one bloodline, you choose the bloodline this applies to upon taking the feat.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

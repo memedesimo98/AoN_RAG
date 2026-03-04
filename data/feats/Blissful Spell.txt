@@ -1,0 +1,145 @@
+Blissful Spell - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Blissful Spell (Metamagic)
+Source
+Planar Adventures pg. 26
+The absolute peace of Nirvana infuses your spells, giving pause to foes and granting boldness to allies.
+Benefit
+: You can alter any spell that targets a single creature to become a blissful spell, although the exact effects of the metamagic vary depending on whether the spell is beneficial or offensive. A creature successfully hit by an offensive blissful spell (if the spell requires an attack roll) or that fails its saving throw against an offensive blissful spell takes a –2 penalty on attack rolls and weapon damage rolls for 1 round. A beneficial blissful spell instead grants affected creatures a +2 morale bonus on skill checks and saving throws for 1 round in addition to its normal effects. A blissful spell gains the good descriptor, and the additional effect is a mind-affecting compulsion effect.
+A blissful spell uses a spell slot 1 level higher than the spell’s normal spell level. Spells with the evil descriptor can’t be blissful spells.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

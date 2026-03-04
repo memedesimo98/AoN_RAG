@@ -1,0 +1,148 @@
+Touch of Evil - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Touch of Evil
+Source
+Horror Adventures pg. 94
+You instill unbidden thoughts and desires into another with your touch.
+Prerequisites
+: Channel negative energy 6d6, evil alignment.
+Benefit
+: As a standard action, you can expend three uses of your channel negative energy and make a melee touch attack against a target. You can attempt an opposed Sleight of Hand check against the target’s Perception to make this attack without the target noticing. If the attack hits, the target gets a Will save (DC=10 + 1/2 your character level + your Charisma modifier). On a failed save, you implant a suggestion into the creature’s mind. This works similar to the
+suggestion
+spell, however, you can suggest to the creature to commit a harmful or destructive act against another creature or object. If you choose the latter, the creature attempts to carry out the suggestion in 1d6+1 days as it thinks over the suggestion and plans it out. The creature can attempt another Will save at the original DC to resist the suggestion right before it carries it out. If it fails the save, it gains a +4 circumstance bonus on one die roll used in carrying out the suggestion. This relentless planning causes the creature 1 point of Wisdom damage (or 1d6 sanity damage, if you are using that system), until the suggestion is carried out.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,160 @@
+Intimidating Prowess - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Intimidating Prowess (Combat)
+Source
+PRPG Core Rulebook pg. 128
+Your physical might is intimidating to others.
+Benefit
+: Add your Strength modifier to Intimidate skill checks in addition to your Charisma modifier.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 124
+When attempting an Intimidate check, you can spend 2 stamina points for each size category smaller you are than a given target to ignore the size difference penalty against that target.
+Mythic Intimidating Prowess
+Source
+Mythic Adventures pg. 68
+Your mythic stature makes others uneasy.
+Prerequisites
+:
+Intimidating Prowess.
+Benefit
+:  You gain a bonus on Intimidate checks equal to your tier against non-mythic creatures, or half your tier against mythic creatures. If you also have the Persuasive (mythic) feat, you can expend one use of mythic power to treat the Intimidate check as if you had rolled a natural 20. You must decide to use this ability before the roll is made.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

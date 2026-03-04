@@ -1,0 +1,146 @@
+Combat Distraction - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Combat Distraction
+Source
+Goblins of Golarion pg. 25
+Anyone who attacks you while you act like a lunatic exposes themselves to brutal counterattacks from your allies.
+Prerequisites
+: Goblin, Acrobatics 1 rank, Escape Artist 1 rank.
+Benefit
+:  As a full-round action, you can choose to do something that seems to serve no useful purpose. Example actions could include laughing at another creature’s misfortune, rooting in your pockets for a snack, bending over to pick up what looks like a weird bug, or trying to fly into the air by flapping your arms like a sea gull.Although you’re acting like a lunatic, your unpredictable actions are distracting. Any creature other than a goblin within 5 feet of you takes a –2 penalty on Perception checks and concentration checks for as long as you continue to be a distraction and remain in range. This penalty stacks with other goblins performing combat distractions, as long as you’re both adjacent to the distracted target.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

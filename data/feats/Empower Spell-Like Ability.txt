@@ -1,0 +1,183 @@
+Empower Spell-Like Ability - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Empower Spell-Like Ability (Monster)
+Source
+Pathfinder RPG Bestiary pg. 314
+One of this creature’s spell-like abilities is particularly potent and powerful.
+Prerequisites
+: Spell-like ability at caster level 6th or higher.
+Benefit
+:  Choose one of the creature’s spell-like abilities, subject to the restrictions below. The creature can use that ability as an empowered spell-like ability three times per day (or less, if the ability is normally usable only once or twice per day).
+When a creature uses an empowered spell-like ability, all variable, numeric effects of the spell-like ability are increased by half (+50%). Saving throws and opposed rolls are not affected. Spell-like abilities without random variables are not affected.
+The creature can only select a spell-like ability duplicating a spell with a level less than or equal to 1/2 its caster level (round down) – 2. For a summary, see the table in the description of the Quicken Spell-Like Ability.
+Spell Level
+Caster Level to Empower
+Caster Level to Quicken
+0
+4th
+8th
+1st
+6th
+10th
+2nd
+8th
+12th
+3rd
+10th
+14th
+4th
+12th
+16th
+5th
+14th
+18th
+6th
+16th
+20th
+7th
+18th
+-
+8th
+20th
+-
+9th
+-
+-
+Special
+:  This feat can be taken multiple times. Each time it is taken, the creature can apply it to a different spell-like ability.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,150 @@
+Greater Dirge of Doom - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Greater Dirge of Doom
+Source
+Advanced Class Guide pg. 149
+The haunting sound of sepulchral intonations chills the most stalwart adversary to its very core.
+Prerequisites
+:
+Improved Dirge of Doom
+, ability to perform dirge of doom.
+Benefit
+: The effect of your dirge of doom lingers with a target for 2 rounds after the creature leaves the dirge’s area of effect. If you use your dirge on a creature that is shaken, it becomes frightened. If you use it on a creature that is frightened, it becomes panicked. Once affected by this feat, a creature cannot be affected by it again for 24 hours.
+Normal
+:  Fear effects on a creature end immediately once it leaves the area of dirge of doom. A fear effect cannot be made more extreme by dirge of doom and can be changed only to the frightened condition by the Improved Dirge of Doom feat.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

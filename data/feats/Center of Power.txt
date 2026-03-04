@@ -1,0 +1,166 @@
+Center of Power - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Center of Power
+Source
+Quests and Campaigns pg. 26
+You have posted loyal followers in the most vital places.
+Prerequisites
+: Leadership score 13, hold a leadership
+role related to running a kingdom.
+Benefit
+:  Choose a building in your kingdom as
+your center of power, and dedicate one of the followers
+granted to you by the Leadership feat to overseeing that
+location. For every kingdom turn in which that follower
+does nothing but oversee that location, the benefits
+that building grants to your kingdom’s Economy, Fame,
+Loyalty, and Stability are doubled and any penalties are
+negated. This feat does not allow a building to grant
+benefits it does not normally provide, and has no effect
+on a building’s other effects.
+This feat only applies to one building, and committing
+multiple followers to this or different buildings has
+no effect—the selected location is treated as being
+of particular importance to you, and its uniqueness
+combined with the follower’s loyalty grants it special
+efficiencies. The same follower does not have to oversee
+your center of power every month, but you must keep at
+least one follower dedicated to this location for the entire
+month to gain this feat’s benefits. Once per year, you may
+change which building is your center of power.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

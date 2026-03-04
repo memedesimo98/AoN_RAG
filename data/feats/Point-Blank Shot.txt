@@ -1,0 +1,160 @@
+Point-Blank Shot - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Point-Blank Shot (Combat)
+Source
+PRPG Core Rulebook pg. 131
+You are especially accurate when making ranged attacks against close targets.
+Benefit
+: You get a +1 bonus on attack and damage rolls with ranged weapons at ranges of up to 30 feet.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 129
+You can spend up to 6 stamina points to increase this feat’s range by 5 feet for each stamina point you spent.
+Mythic Point-Blank Shot
+Source
+Mythic Adventures pg. 71
+Your accuracy with ranged attacks is unmatched at pointblank range.
+Prerequisites
+:
+Point-Blank Shot.
+Benefit
+:  The bonus on attack and damage rolls granted by Point-Blank Shot increases to +2. As a swift action, you can expend one use of mythic power to gain an additional bonus on these rolls equal to half your tier.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

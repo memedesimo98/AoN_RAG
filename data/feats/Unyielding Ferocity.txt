@@ -1,0 +1,148 @@
+Unyielding Ferocity - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Unyielding Ferocity (Combat)
+Source
+Horror Adventures pg. 95
+When near the brink of death, you fight ferociously until the bitter end.
+Prerequisites
+: Con 19, ferocity.
+Benefit
+: When you are reduced to 0 or fewer hit points, if you remain conscious from your ferocity monster ability, you can make a full attack on your next turn (or your current turn if you are reduced to 0 hit points on your own turn). If you do, you push your body to the point that your mind becomes more primitive, and you can no longer use any Charisma-, Dexterity-, or Intelligence-based skills except Acrobatics, Fly, Intimidate, or Ride, or any ability that requires patience or concentration (such as spellcasting) until your hit points are raised above 0.
+Normal
+: When using the ferocity ability, you are staggered while you have fewer than 0 hit points and thus can’t make a full attack.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

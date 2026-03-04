@@ -1,0 +1,155 @@
+Ascendant - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Ascendant (Story)
+Source
+Spymaster's Handbook pg. 14
+You seek unquestioning admiration and respect to escape from a shameful past.
+Prerequisites
+: You must have the Secret Shame drawback (page 7) or the Bastard-Born background
+UCA
+, and you must also have no publicly known faults or made any indisputable mistakes that could humiliate or cast down a figure of high station
+.
+Benefit
+: You and your apparent allies gain a +2 bonus on skill checks to gain influence (
+Ultimate Intrigue 102
+) or request a favor. This bonus no longer applies on checks against a person or organization once you fail a skill check to gain influence over or request a favor from that person or organization. Additionally, the DC of Sense Motive checks to get hunches about you and your apparent allies increases by 2.
+Goal
+: Achieve a position in a high social class (such as the nobility) or an esteemed military position (such as general) without any substantiated rumors impugning your reputation. If your secret is exposed, you can replace this feat with RedemptionUCA after 1 month without meeting that feat’s prerequisite.
+Completion Benefit
+: You no longer lose this feat’s bonus for failing a skill check. Your Bluff checks to maintain a good reputation are always at worst unlikely (if not believable), and Bluff checks attempted by others to spoil your reputation are always at best unlikely (if not harder to believe).
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,150 @@
+Sisterhood Style - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Sisterhood Style (Combat, Style)
+Source
+Adventurer's Guide pg. 86
+The Gray Maidens are more than just soldiers—they drill relentlessly to fight as a team and to protect their bodies and minds. A Gray Maiden using the Sisterhood Style can easily coordinate tactics with other women.
+Prerequisites
+: Cha 13,
+Shield Focus
+,
+Weapon Focus (longsword)
+, base attack bonus +2.
+Benefit
+: While using this style and wielding a longsword and a light or heavy shield, you gain a +1 bonus on Reflex and Will saving throws. In addition, when you enter the Sisterhood Style stance, you can choose a teamwork feat you have. As a swift action, you can grant that feat to an ally within 10 feet until the beginning of your next turn.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

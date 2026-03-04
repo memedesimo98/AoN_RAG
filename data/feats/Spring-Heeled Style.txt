@@ -1,0 +1,152 @@
+Spring-Heeled Style - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Spring-Heeled Style (Armor Style, Combat, Style)
+Source
+Armor Master's Handbook pg. 11
+You cunningly dart across the battlefield from foe to foe, taking advantage of your armor’s flexibility to duck blows.
+Prerequisites
+: Dex 13,
+Dodge
+,
+Mobility
+, Shot on the Run or Spring Attack, base attack bonus +4, proficiency with light armor.
+Benefit
+: If using this style during any round in which you take a move action to move 10 or more feet, you gain a +2 bonus on weapon attack rolls until the start of your next turn. While using this style, you gain the AC bonus from Mobility against attacks of opportunity provoked by making a ranged attack or loading a ranged weapon.
+Special
+: A character with the armor training class feature can use Spring-Heeled Style while wearing any type of armor with which she is proficient.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

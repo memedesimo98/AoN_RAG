@@ -1,0 +1,155 @@
+Sisterhood Rampart - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Sisterhood Rampart (Combat)
+Source
+Adventurer's Guide pg. 85
+The shield wall was the heart of the Gray Maidens’ military strategy; combined with their precise tactical coordination, Gray Maiden lines were nearly unbreakable. Maidens behind the line would then strike with polearms or longbows, picking off targets with ease.
+Prerequisites
+: Cha 13,
+Shield Focus
+,
+Shield Wall
+APG
+,
+Sisterhood Style
+,
+Weapon Focus (longsword)
+, base attack bonus +4.
+Benefit
+: While using Sisterhood Style, you and adjacent allies gain an additional +1 bonus to the shield bonus granted by Shield Wall, and each of you adds your shield bonus to AC (not counting enhancement bonuses) to your CMD against bull rush combat maneuvers. In addition, you and adjacent allies do not provide soft cover against allies’ attacks.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

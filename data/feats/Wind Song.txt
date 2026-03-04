@@ -1,0 +1,146 @@
+Wind Song - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Wind Song
+Source
+Elemental Master's Handbook pg. 19
+You have learned to play haunting, captivating melodies similar to those of the eerie Painted Flutes canyon. Like an echo, the wind carries the sound and magic of your music much farther than it would normally reach.
+Prerequisites
+: Perform (wind instruments) 5 ranks; bardic performance or raging song class feature.
+Benefit
+: Three times per day while you are using a wind instrument to play a bardic performance or raging song, you can spend an extra round of performance at the start of your performance and choose a square within 120 feet. Strange echoes carry your music, and for the purpose of determining which creatures are affected by your performance, your performance counts as originating from that square rather than from your location. You cannot change the square from which the music originates until you end your performance. If you move beyond 120 feet from the chosen square, the performance immediately ends.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

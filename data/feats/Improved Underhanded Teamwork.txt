@@ -1,0 +1,160 @@
+Improved Underhanded Teamwork - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Improved Underhanded Teamwork (Combat, Teamwork)
+Source
+Pathfinder Society Primer pg. 15
+You and your allies have trained together long enough
+to know how to exploit an opponent’s disadvantage to
+make her predicament even worse.
+Prerequisites
+:
+Combat Expertise
+,
+Improved Dirty Trick
+,
+Underhanded Teamwork
+, base attack bonus +6.
+Benefit
+:  Whenever an ally who also has this feat
+performs the dirty trick combat maneuver against a foe
+that you both threaten, you may attempt a dirty trick
+combat maneuver against the same foe as an immediate
+action to inflict a second condition. If the foe uses an
+action to remove the first condition, it also removes the
+condition imposed by your immediate action.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,157 @@
+Ritual Mask - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Ritual Mask
+Source
+Adventurer's Guide pg. 125
+,
+Arcane Anthology pg. 15
+You can use your mask to enhance your occult powers.
+Prerequisites
+:
+Nameless One
+, ability to cast one or more occult rituals (
+Pathfinder RPG Occult Adventures
+208).
+Benefit
+: While benefiting from the Nameless One feat, your masked identity affords you a greater spiritual connection when you act as the primary caster for an occult ritual you know. For any such occult ritual, you can attempt all required skill checks, even if untrained in such a skill. If you are trained in such a skill, you instead gain a +3 bonus on your skill check.
+In addition, if you have the spirit class feature (as per the shaman
+ACG
+or medium
+OA
+class), you can use the ritualistic focus afforded by this feat to enhance your connection to spirits with which you have communed. Once per day, when you use a supernatural ability granted to you by your spirit (such as a shaman’s spirit’s hex or spirit abilities, or a medium’s spirit powers), you increase your effective class level by 1 when determining the effects of that supernatural ability.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

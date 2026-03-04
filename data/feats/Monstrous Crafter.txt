@@ -1,0 +1,151 @@
+Monstrous Crafter - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Monstrous Crafter (Item Creation)
+Source
+Monster Hunter's Handbook pg. 24
+You can weave pieces of beasts into your magic items.
+Prerequisites
+:
+Craft Wondrous Item
+,
+Grisly Ornament
+,
+Harvest Parts.
+Benefit
+: Whenever you use the Grisly Ornament feat, you are able to permanently integrate one ornament you have crafted using the harvested creature parts into a wondrous item. The ornament grants no ongoing benefits, but once per day you can activate an integrated ornament as a free action to gain its full benefits for 1 minute. You can integrate an ornament into a wondrous item (or replace an item’s existing ornament) by spending 8 hours of work and 100 gp × the creature’s CR.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

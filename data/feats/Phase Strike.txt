@@ -1,0 +1,147 @@
+Phase Strike - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Phase Strike (Combat, Conduit)
+Source
+Planar Adventures pg. 31
+You strike through the Ethereal Plane so your weapon phases through obstacles, armor, and even thick hide to strike true.
+Prerequisites
+: Knowledge (planes) 10 ranks.
+Benefit
+: As a move action, you can phase out one manufactured weapon or piece of ammunition you are holding. The next melee attack or thrown ranged attack you make with that weapon before the end of your turn is resolved as a touch attack and ignores cover, but does not ignore armor bonuses from force effects. You can attack through total cover this way, although you must still select the correct square for your target.
+You can use this feat’s benefit once per day, plus an additional time per day for every 10 ranks you have in Knowledge (planes). This feat does not function on planes that are not coterminous with the Ethereal Plane.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

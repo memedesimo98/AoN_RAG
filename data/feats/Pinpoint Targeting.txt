@@ -1,0 +1,168 @@
+Pinpoint Targeting - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Pinpoint Targeting (Combat)
+Source
+PRPG Core Rulebook pg. 131
+You can target the weak points in your opponent's armor.
+Prerequisites
+: Dex 19,
+Improved Precise Shot
+,
+Point-Blank Shot
+,
+Precise Shot
+, base attack bonus +16.
+Benefit
+: As a standard action, make a single ranged attack. The target does not gain any armor, natural armor, or shield bonuses to its Armor Class. You do not gain the benefit of this feat if you move this round.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Pathfinder Unchained pg. 129
+When you use this feat, you can spend stamina points to retain the ability to move. If you spend 2 stamina points, you can take a 5-foot step after you make the attack. If you instead spend 5 stamina points, you can move up to half your speed as a move action.
+Mythic Pinpoint Targeting
+Source
+Mythic Adventures pg. 70
+Your attacks can home in on your opponent’s weak spot and ignore many defenses.
+Prerequisites
+:
+Pinpoint Targeting.
+Benefit
+:  You can use this feat even if you move this round, but only if the distance you move is equal to or less than 5 feet per tier.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

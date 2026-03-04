@@ -1,0 +1,146 @@
+Racial Item Mastery - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Racial Item Mastery (Item Mastery)
+Source
+Magic Tactics Toolbox pg. 30
+You can use certain magic items to fuel your innate powers.
+Prerequisites
+: Use Magic Device 6 ranks, base Fortitude saving throw bonus +3.
+Benefit
+: You can focus on an item associated with your race to use a racial spell-like ability that you have without expending any uses per day from that spell-like ability. A racial spell-like ability is any spell-like ability that you have gained from a racial trait, from a feat or trait that lists your race as a prerequisite, or from a class option or archetype that is available only to members of your race. You must use an item with a spell in its construction requirement that belongs to the same school and is at least of the same level as the spell-like ability that you wish to use. You can use this feat once per day, plus an additional time per day when your base Fortitude save bonus reaches +9 and +12.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

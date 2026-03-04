@@ -1,0 +1,148 @@
+Crystalline Cloud - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Crystalline Cloud
+Source
+Plane-Hopper's Handbook pg. 14
+You can release large amounts of crystalline dust to create a diversion or cover your allies.
+Prerequisites
+: Aphorite, character level 5th, crystalline dust racial trait.
+Benefit
+: When you use your crystalline dust supernatural racial trait, you can instead create a cloud of crystalline dust in a 10-foot radius centered on you. The cloud does not obscure sight, but allies within the cloud receive the benefit of your crystalline dust. The cloud can be maintained each round as a free action as long as you remain within the cloud’s area. A moderate wind (11+ mph), such as from a gust of wind spell, disperses the cloud immediately. Each round that the crystalline cloud is active expends 2 rounds of your crystalline dust racial trait. If you have the
+Gilded Weapons
+feat, any creature with the chaotic subtype that enters the cloud must succeed at a Fortitude save (DC = 10 + half your character level + your Charisma modifier) or be sickened for 1 round.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

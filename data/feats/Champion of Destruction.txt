@@ -1,0 +1,150 @@
+Champion of Destruction - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Champion of Destruction (Alignment)
+Source
+Pathfinder Unchained pg. 98
+You would destroy the world if it were within your power.
+Prerequisites
+: 10 Hit Dice, chaotic evil alignment.
+Benefit
+: You can store a number of
+affirmations
+up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can also use an affirmation to treat an effect on you from a spell, magic item, or other alignment-based effect as if you were neither chaotic nor evil. You can choose to do so after any attack roll hits you with such an effect or you fail a saving throw against such an effect. Lastly, you gain a +2 bonus on weapon and spell damage rolls against lawful and good creatures (or +4 if the creature is both lawful and good). This is an alignment-based effect.
+Residual
+: If you have this feat but you are no longer chaotic evil, you continue to gain the +2 bonus on weapon and spell damage rolls against lawful and good creatures (or +4 if the creature is both lawful and good).
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

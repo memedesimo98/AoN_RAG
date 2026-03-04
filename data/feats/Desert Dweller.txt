@@ -1,0 +1,152 @@
+Desert Dweller - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Desert Dweller
+Source
+Ultimate Wilderness pg. 109
+,
+Pathfinder Campaign Setting pg. 138
+,
+Inner Sea World Guide pg. 286
+The endless sands and waterless wastes are your home, and neither the heat nor dehydration presents as lethal of a threat to you as it does to other travelers.
+Prerequisites
+: Favored terrain (desert) class feature.
+Benefit
+: You treat hot environments (
+Core Rulebook 444
+) as though they were one step less severe; if you have a similar ability from another feat, such as Torrid Tolerance, the benefits stack and you treat hot conditions as if they were two steps less severe. You need to consume only half the normal amount of water for a creature of your size, and you gain a +4 bonus on Constitution checks to resist the effects of thirst. You also gain a +4 bonus on saving throws and checks to avoid becoming blinded or dazzled by glare or being deceived by a desert mirage.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

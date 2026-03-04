@@ -1,0 +1,147 @@
+Disassemble Magic Item - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Disassemble Magic Item (Faction)
+Source
+Faction Guide pg. 56
+You can take apart and reassemble magic items.
+Prerequisites
+: Any item creation feat, Aspis Consortium 20 TPA.
+Benefit
+: You can break a magic item down into component pieces. These pieces are nonmagical and may have little resemblance to the original item other than being of the same material (a magical sword may be three recognizable metal pieces or simply a collection of metal scraps). Disassembling a magic item takes 1 hour per 1,000 gp of the item’s price and requires you to concentrate as if crafting an item. You can only use this feat on items your item creation feat would let you craft (for example, if you have Craft Wondrous Item, you can disassemble wondrous items but not magic weapons or armor).
+You may reassemble a dismantled item as long as all the pieces are present; this takes the same amount of time as taking it apart did. There is a 10% chance the reconstruction fails and the item is permanently destroyed.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,148 @@
+Touched by Sacred Fire - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Touched by Sacred Fire (Faction)
+Source
+Faction Guide pg. 57
+Regular contact with an elemental guardian of the Ruby Prince (such as Khemet’s invisible fire elemental cohort Janhelia) has left you able to shrug off many sources of unnatural heat, even if the effort required sometimes makes it difficult to defend yourself from attacks.
+Prerequisites
+:
+Endurance
+, Risen Guard rank, Risen Guard 15 TPA.
+Benefit
+: You gain fire resistance 5 and a +2 bonus on all saving throws to resist the effects of fire or heat. As a swift action, you can increase your fire resistance to 10 and your save bonus to +4 until your next turn; this causes you to lose your Dexterity bonus to Armor Class until your next turn (which leaves you vulnerable to sneak attacks).
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

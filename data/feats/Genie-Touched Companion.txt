@@ -1,0 +1,175 @@
+Genie-Touched Companion - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Genie-Touched Companion
+Source
+Qadira, Jewel of the East pg. 61
+Your animal companion is descended from creatures from one of the Elemental Planes.
+Prerequisites
+: Cha 13, animal companion or mount class feature.
+Benefit
+: You can take a genie-touched creature as an animal companion. This animal companion functions as a horse companion, with the adjustments that follow. When you choose your genie-touched companion, you must select your companion’s breed: istaheq, misayyah, tuanu, or zefaheen. Your choice determines the type of energy resistance your companion gains, as well as the three additional abilities your companion acquires as you advance in level.
+Genie-Touched Companion
+Companion Type
+Resistance
+Starting Ability
+4th-Level Ability
+8th-Level Ability
+Istaheq
+Acid 10
+Steadfast
+Scion of stone
+Thundering hooves
+Misayyah
+Fire 10
+Firesight
+Sunborn
+Flaming trail
+Tuanu
+Cold 10
+Water sense
+Fluid movement
+Waterborn
+Zefaheen
+Electricity 10
+Desert walker
+Sand sense
+Air walker
+Note: see the descriptions of the special abilities
+here
+.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

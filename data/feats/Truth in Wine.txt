@@ -1,0 +1,153 @@
+Truth in Wine - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Truth in Wine
+Source
+Occult Origins pg. 25
+In refining your palate and experiencing the food, drink, and meal rituals of myriad cultures, you have learned to divine truths about human behavior and use intoxication to break down psychological barriers.
+Prerequisites
+: Appraise 3 ranks.
+Benefit
+:  You can perform the psychometry occult skill unlock
+OA
+even if you can’t use psychic magic, though you must consume a drink of high-quality alcohol (costing at least 10 gp per drink) to do so. If you can cast psychic spells or have the Psychic Sensitivity
+OA
+feat, you can use psychometry one additional time per day.
+If you consume a drink of high-quality alcohol, you gain a +2 circumstance bonus on Appraise and Sense Motive checks for 1 minute and can increase the caster level of the next divination spell you cast within 1 minute by 1. If you are addicted to alcohol, as described on page 236 of the
+Pathfinder RPG GameMastery Guide
+, these bonuses increase by 1, but so too does the save DC for your addiction.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

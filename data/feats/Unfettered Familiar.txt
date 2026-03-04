@@ -1,0 +1,150 @@
+Unfettered Familiar - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Unfettered Familiar
+Source
+Advanced Class Guide pg. 159
+You can channel touch spells through your familiar without needing to be adjacent to it.
+Prerequisites
+: Caster level 5th, familiar class feature.
+Benefit
+:  Once per day, you can cast a touch spell without being in contact with your familiar and designate your familiar as the “toucher.” You do not require line of sight to your familiar to use this ability, but you must be within 30 feet of your familiar when you cast the spell, and if you can’t see or hear your familiar, you must at least be able to speak with it.
+Normal
+:  Your familiar must be in contact with you when a spell is cast in order for it to deliver the spell.
+Special
+:  You can take this feat multiple times. Each time you do, you gain another use of this feat, and the distance you can be from your familiar increases by 10 feet.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

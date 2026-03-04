@@ -1,0 +1,148 @@
+Unbalancing Blow - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Unbalancing Blow (Combat)
+Source
+Martial Arts Handbook pg. 7
+With a forceful strike, you throw your foe off-balance.
+Prerequisites
+: Dex 13, Wis 13,
+Improved Unarmed Strike
+, base attack bonus +4.
+Benefit
+: When using this feat, in addition to dealing damage normally, you force a foe damaged by your unarmed attack to attempt a Reflex saving throw (DC = 10 + half your character level + your Wisdom modifier). A creature that fails this saving throw is flat-footed, and if it is larger than Medium size, it loses any special size modifier to its CMD against effects or combat maneuvers that would move it until its next turn. It is also knocked out of any stance associated with a style feat. You must declare that you are using this feat before you make your attack roll; if your attack roll fails, the target is unaffected and your attempt is wasted. You can attempt to use Unbalancing Blow once per day for every 4 character levels you have, but no more than once per round. Creatures immune to tripping are immune to this effect.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

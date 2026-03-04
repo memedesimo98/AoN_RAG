@@ -1,0 +1,155 @@
+Dirty Grapple - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Dirty Grapple (Combat)
+Source
+Dirty Tactics Toolbox pg. 14
+You are skilled at pulling dirty tricks during a grapple.
+Prerequisites
+: Dex 13, Int 13,
+Combat Expertise
+,
+Improved Dirty Trick
+APG
+,
+Improved Grapple
+,
+Improved Unarmed Strike
+, base attack bonus +6.
+Benefit
+:  You can attempt to perform a dirty trick and a grapple maneuver together against a single target as a full-round action when initiating or maintaining a grapple. You must attempt a single combat maneuver check for both maneuvers. If your CMB is different for the two types of maneuvers, use the lower of the two bonuses. If your target’s CMD is different against the two types of maneuvers, use the higher CMD. If you succeed at the check, you successfully perform both combat maneuvers.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

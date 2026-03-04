@@ -1,0 +1,163 @@
+Unblinking Flame Fist - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Unblinking Flame Fist (Combat)
+Source
+Adventurer's Guide pg. 106
+,
+Inner Sea Combat pg. 13
+You can exploit the weaknesses in your opponents’ defenses, like a flame seeking fuel to consume.
+Prerequisites
+: Int 13; Wis 13;
+Combat Expertise
+;
+Perfect Style
+;
+Stunning Fist
+;
+Unblinking Flame Feint
+; base attack bonus +13 or monk level 13th.
+Benefit
+: When using Perfect Style, the save DC of your stunning fist attack increases by 2 against flat-footed targets. When you spend 1 ki point to gain the benefits of Improved Feint for 1 round, you can attempt a feint as part of your movement when charging.
+Combat Trick
+(from the
+Combat Stamina
+feat)
+Source
+Weapon Master's Handbook pg. 25
+You can spend 2 stamina points instead of 1 ki point when using Unblinking Flame Fist.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

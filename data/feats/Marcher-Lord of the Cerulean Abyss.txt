@@ -1,0 +1,148 @@
+Marcher-Lord of the Cerulean Abyss - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Marcher-Lord of the Cerulean Abyss (Gathlain Court Title)
+Source
+Plane-Hopper's Handbook pg. 22
+You’ve made your case to become one of Ragadahn’s nobles in the traditional way—by carving your sigil and the Water Lord’s ouroboros in the flesh of a living dragon or of another massive monstrosity—and earned some of his might as a reward.
+Prerequisites
+: Fey creature type or
+Fey Obedience
+(Ragadahn), you must have carved your name and Ragadahn's holy symbol on the hide of a living dragon or outsider with either the aquatic or water subtype and a CR at least 2 higher than your level when you took the feat.
+Benefit
+: You claim ownership of that which you strike. If you have dealt hit point damage to a creature this round, that creature takes a –2 penalty on combat maneuver checks and to its CMD until the beginning of your next round.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,172 @@
+Sinister Reputation - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Sinister Reputation
+Source
+Adventurer's Guide pg. 35
+You need spook only a few souls to scare a whole city.
+Prerequisites
+: Cha 13; Intimidate 5 ranks; Persuasive or renown social talent
+UI
+.
+Benefit
+: By spending 8 hours cultivating your local legend in a settlement and then succeeding at an Intimidate check, your fearsome reputation becomes common knowledge. The DC is based on the size of the settlement (see the Sinister Reputation table below and page 203 of
+Pathfinder RPG GameMastery Guide
+). If the check succeeds, you can attempt an Intimidate check to demoralize a creature that has fewer Hit Dice than you as a swift action, and using Intimidate to force a creature to act friendly to you takes only half as long. You gain these benefits only while within the settlement and while not disguised. These benefits last for a number of days equal to your half your level + your Charisma modifier.
+Special
+: This feat’s benefits always apply to a vigilante’s
+UI
+area of renown, and he can choose whether the reputation and benefits apply to his social identity, vigilante identity, or both. You can always apply this feat’s benefits to followers and cohorts gained from Leadership or similar abilities. Sinister Reputation
+Settlement Size
+DC
+Thorp
+10
+Hamlet
+12
+Village
+15
+Small town
+18
+Large town
+20
+Small city
+25
+Large city
+30
+Metropolis
+35
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

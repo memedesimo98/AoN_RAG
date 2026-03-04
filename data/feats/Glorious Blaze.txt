@@ -1,0 +1,152 @@
+Glorious Blaze - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Glorious Blaze
+Source
+Heroes of Golarion pg. 9
+The goddess
+Sarenrae
+welcomes all who seek good in the world into her fold, and some goblins are drawn to worship her, in part due to her incarnation as a giant ball of fire.
+Prerequisites
+:
+Goblin
+, worshipper of
+Sarenrae
+.
+Benefit
+: If the sun is visible, you can spend 1 round performing a wild dance in worship of the Dawnflower. Starting at the beginning of your next turn, allies who can see you gain a +1 morale bonus on attack rolls, skill checks, and saving throws. This effect lasts for a number of rounds equal to half your character level + your Wisdom modifier (minimum 1 round). At 9th level, this bonus increases to +2.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

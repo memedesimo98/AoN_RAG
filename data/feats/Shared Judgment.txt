@@ -1,0 +1,146 @@
+Shared Judgment - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Shared Judgment
+Source
+Ultimate Combat pg. 118
+You extend the benefits of your judgment to an ally.
+Prerequisites
+: Second judgment class feature.
+Benefit
+:  You can pronounce a single judgment and extend its effects to one adjacent ally instead of pronouncing a second judgment. Similarly, once you have the third judgment class feature, you can pronounce a single judgment and extend its effects to two adjacent allies instead of pronouncing a second and third judgment. Alternatively, once you have the third judgment class feature, you can pronounce two judgments and extend the effects of one judgment to one adjacent ally instead of pronouncing a third judgment. Once an ally has gained the effects of your judgment, he need not remain adjacent to you to continue gaining that benefit. You can spend a free action to end this benefit for one or both allies. If your judgment bonus is suspended for you, it is suspended for all allies, but when it resumes, it does so for all allies.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

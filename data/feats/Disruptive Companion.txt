@@ -1,0 +1,147 @@
+Disruptive Companion - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Disruptive Companion (Combat)
+Source
+Ultimate Wilderness pg. 217
+The animal’s presence harries nearby enemies, making concentration difficult.
+Prerequisites
+: Animal companion.
+Benefit
+: The animal companion is trained to interfere with its opponent’s concentration, making even rote tasks difficult. Increase the concentration check DC of spells and spell-like abilities that opponents cast while within the animal companion’s reach by +2. Additionally, opponents can’t take 10 on d20 rolls or checks while within the animal companion’s reach. If an opponent has an ability that allows it to always take 10 on certain skill checks while distracted (such as the skill mastery advanced talent), it gains the benefit of such abilities only if its number of skill ranks is at least 4 higher than the animal companion’s Hit Dice.
+In addition, the animal companion counts as a fighter with a number of class levels equal to its Hit Dice for the purposes of qualifying for the Disruptive feat, as well as for any feat that lists the Disruptive feat as a prerequisite. The animal companion also adds those feats to the list of animal feats that it can choose from when gaining a new feat.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

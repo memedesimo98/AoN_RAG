@@ -1,0 +1,147 @@
+Conduit Casting - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Conduit Casting (Teamwork)
+Source
+Legacy of the First World pg. 19
+Your magic flows through your ally.
+Prerequisites
+: Spellcraft 3 ranks.
+Benefit
+: Whenever you are within 30 feet of an ally who also has this feat, you can channel your magic through her when casting a spell or using a spell-like ability, provided that she has the spell on her class list or has the ability to cast it as a spell-like ability. The spell cannot have a range of personal. When you finish casting the spell, the ally may spend an immediate action to act as your conduit. Your ally must concentrate to act as the conduit for the spell, just as if she were casting the spell, and the spell is lost if a concentration check is required and she fails (such as from damage, or to cast the spell defensively).
+If successfully cast, the spell originates from the ally’s space instead of yours. You remain the spell’s caster for the purpose of determining the caster level, saving throw DC, and so on, but your ally selects the targets or area affected and makes any required attack rolls for the spell.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

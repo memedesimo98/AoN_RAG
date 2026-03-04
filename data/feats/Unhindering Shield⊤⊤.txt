@@ -1,0 +1,150 @@
+Unhindering Shield - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Unhindering Shield (Combat, Shield Mastery)
+Source
+Armor Master's Handbook pg. 19
+You are accustomed to fighting with your shield.
+Prerequisites
+:
+Shield Focus
+, base attack bonus +6 or fighter level 4th, proficiency with bucklers.
+Benefit
+: You still gain a buckler’s bonus to AC even if you use your shield hand for some other purpose. When you wield a buckler, your shield hand is considered free for the purposes of casting spells, wielding weapons, and using any other abilities that require you to have a free hand or interact with your shield, such as the swashbuckler’s precise strike deed or the Weapon Finesse feat.
+Special
+: A monk with this feat is not considered to be using a shield for the purposes of his AC bonus, fast movement, or flurry of blows.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

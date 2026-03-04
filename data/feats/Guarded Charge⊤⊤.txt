@@ -1,0 +1,150 @@
+Guarded Charge - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Guarded Charge (Combat, Shield Mastery)
+Source
+Armor Master's Handbook pg. 18
+Your raised shield protects you as you charge forward.
+Prerequisites
+:
+Shield Focus
+, base attack bonus +6 or fighter level 4th.
+Benefit
+: When performing a bull rush or overrun combat maneuver as part of a charge, you don’t provoke an attack of opportunity for that maneuver. If you already have the improved Bull Rush or Improved Overrun feats, you gain an additional +2 bonus on your combat maneuver check when attempting the respective maneuver.
+Special
+: This feat counts as having a Strength score of 13 and Power Attack for the purposes of meeting the prerequisites of Improved Bull Rush and Improved Overrun, and for feats that require either of those two feats as prerequisites.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

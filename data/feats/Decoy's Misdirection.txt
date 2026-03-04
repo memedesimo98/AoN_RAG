@@ -1,0 +1,154 @@
+Decoy's Misdirection - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Decoy's Misdirection (Familiar)
+Source
+Familiar Folio pg. 18
+You can fool scrying attempts by using your familiar.
+Prerequisites
+: Must have a familiar with the decoy archetype (see page 10).
+Benefit
+:  As long as your familiar is within 30 feet of you, anytime you succeed at a Will save to negate a scrying effect (including
+scrying
+and
+greater scrying
+), you become aware of the scrying attempt as though you succeeded at the Spellcraft check to identify it, and you can choose to let the spell function as normal instead of causing it to fail. If you do, you can choose to redirect the scrying effect toward your familiar, causing the familiar to immediately change shape (as its secret sharer spell-like ability, except the duration is as long as the scrying effect lasts). The creator of the scrying effect observes the familiar as though it were you, though spells such as
+detect magic
+detect the
+alter self
+effect as normal.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

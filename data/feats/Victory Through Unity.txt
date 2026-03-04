@@ -1,0 +1,154 @@
+Victory Through Unity - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Victory Through Unity (Story)
+Source
+Pathfinder #131: The Reaper's Right Hand pg. 79
+You have practiced your family’s genetic experimentations upon your own familiar.
+Prerequisites
+: You must have a familiar, and you must either be a member of House Merrosett or have the Initiated or Storied Lineage background.
+Benefit
+: When you gain this feat, choose an animal aspect granted by the
+hunter’s animal focus class ability
+and apply it to your familiar. Your hunter level for this ability is 1st, and you cannot change this ability once you have selected it. If your familiar dies, it loses its aspect and you may choose a new aspect if you take a new familiar. Your familiar’s form is altered by superficial changes appropriate to its aspect.
+Goal
+: You must breed a new magical creature.
+Completion Benefit
+: You may either choose and apply a second animal aspect to your familiar or apply an evolution from the 1-point evolutions available to a
+summoner’s eidolon
+. The familiar must conform to any limitations of the evolution (such as being one size category larger than its rider to serve as a mount). Once selected, this decision cannot be changed, but if your familiar dies it loses these abilities and you may choose new abilities if you take a new familiar. If your familiar breeds with its original kind, it has the potential to pass on these extra abilities as permanent traits.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

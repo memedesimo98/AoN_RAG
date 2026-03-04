@@ -1,0 +1,155 @@
+Tattoo Conversion - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Tattoo Conversion
+Source
+Monster Summoner's Handbook pg. 15
+Your have turned your deep knowledge of creating tattoos from summoned creatures into an offensive weapon.
+Prerequisites
+:
+Inscribe Magical Tattoo
+ISM
+or Varisian Tattoo
+ISWG
+;
+Tattoo Attunement
+; Spellcraft 15 ranks; ability to cast control summoned creature
+UM
+.
+Benefit
+:  Once per day as a standard action that provokes attacks of opportunity, you can make a melee touch attack against a summoned creature to transform it into a magical tattoo on your body as per Tattoo Attunement. When you later transform the creature from tattoo to creature form, you can attempt an opposed Spellcraft check against the creature’s original summoner; if that summoner is unconscious or dead, you automatically succeed at the check. If you succeed, the creature must succeed at a Will save (DC = 10 + your caster level) or treat you as the caster of the spell that originally summoned it for the remaining duration of the spell. This is a supernatural ability.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

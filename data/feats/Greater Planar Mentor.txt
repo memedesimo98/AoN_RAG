@@ -1,0 +1,165 @@
+Greater Planar Mentor - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Greater Planar Mentor
+Source
+Plane-Hopper's Handbook pg. 26
+Your mentor begins to look upon you as an equal and can even answer your call.
+Prerequisites
+:
+Improved Planar Mentor
+,
+Planar Mentor
+, character level 13th.
+Benefit
+: You can benefit from your
+Planar Mentor
+feat one additional time per day. You add the following to the list of spell-like abilities you can cast using Improved Planar Mentor for their respective alignments, each of which affects only a single target within 30 feet:
+blasphemy
+(evil),
+dictum
+(lawful),
+holy word
+(good),
+slay living
+(neutral), and
+word of chaos
+(chaotic).
+Once per week you can cast
+greater planar ally
+as a spell-like ability, but only to conjure your planar mentor. Your mentor requires only half the normal payment for its services.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

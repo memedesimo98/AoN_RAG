@@ -1,0 +1,560 @@
+Expanded Summon Monster - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Expanded Summon Monster
+Source
+Monster Summoner's Handbook pg. 28
+You can summon allies beyond the reach of most conjurers.
+Prerequisites
+: Ability to cast a
+summon monster
+spell.
+Benefit
+:  For each spell level 1–9, select two creatures from Table 2 below. You then add these creatures to the
+summon monster
+table of the same level, allowing you to summon them with the appropriate
+summon monster
+spell. Once made, these choices can’t be changed.
+Special
+:  You can take this feat multiple times. Each time you do, you can select two more monsters from the table below to add to the summon monster table of the same level.
+1st Level
+Source
+Antelope* (herd animal)
+Bestiary 3
+147
+Baboon* (primate)
+Bestiary 2
+212
+Badger*
+Bestiary 2
+40
+Great horned owl*
+Bestiary 3
+213
+Kangaroo* (marsupial)
+Bestiary 3
+191
+Snapping turtle*
+Bestiary 2
+273
+Stingray*
+Bestiary 2
+232
+Thylacine* (marsupial)
+Bestiary 3
+191
+Trumpeter swan*
+Bestiary 4
+257
+Vulture*
+Bestiary 3
+284
+2nd Level
+Source
+Camel* (herd animal)
+Bestiary 2
+154
+Compsognathus* (dinosaur)
+Bestiary 2
+90
+Dimorphodon* (dinosaur)
+Bestiary 4
+58
+Gar*
+Bestiary 2
+128
+Giant gecko* (lizard)
+Bestiary 3
+186
+Giant tortoise*
+Bestiary 4
+263
+Giant weasel*
+Bestiary 4
+275
+Manta ray*
+Bestiary 2
+232
+Ram* (herd animal)
+Bestiary 2
+154
+Stag* (herd animal)
+Bestiary 4
+150
+3rd Level
+Source
+Arbiter (inevitable)
+Bestiary 2
+162
+Augur (kyton)
+Bestiary 3
+171
+Axe beak*
+Bestiary 3
+29
+Azer
+Bestiary 2
+39
+Bull shark*
+Bestiary 4
+241
+Cacodaemon (daemon)
+Bestiary 2
+64
+Cassisian (angel)
+Bestiary 2
+26
+Cythnigot (qlippoth)
+Bestiary 2
+221
+Dire badger*
+Bestiary 2
+40
+Doru (div)
+Bestiary 3
+86
+Foo dog
+Bestiary 3
+120
+Giant porcupine*
+Bestiary 3
+222
+Lyrakien (azata)
+Bestiary 2
+38
+Paracletus (aeon)
+Bestiary 2
+11
+Silvanshee (agathion)
+Bestiary 2
+21
+Thoqqua
+Bestiary 2
+262
+Tripurasura (asura)
+Bestiary 3
+26
+Velociraptor (dinosaur)
+Bestiary 4
+59
+Voidworm (protean)
+Bestiary 2
+217
+4th Level
+Source
+Crysmal
+Bestiary 2
+61
+Dimetrodon* (dinosaur)
+Bestiary 3
+78
+Dire weasel*
+Bestiary 4
+275
+D’ziriak
+Bestiary 2
+113
+Foo lion
+Bestiary 3
+120
+Giant seahorse*
+Bestiary 4
+234
+Giant skunk*
+Bestiary 3
+247
+Giant vulture*
+Bestiary 3
+284
+Giraffe* (herd animal)
+Bestiary 4
+150
+Great white shark*
+Bestiary 4
+241
+Howler
+Bestiary 2
+159
+Magmin
+Bestiary 3
+189
+Megaloceros* (megafauna)
+Bestiary 2
+187
+Pachycephalosaurus* (dinosaur)
+Bestiary 3
+79
+Parasaurolophus* (dinosaur)
+Bestiary 2
+91
+Schir (demon)
+Bestiary 3
+74
+Vulnudaemon (daemon)
+Bestiary 3
+63
+5th Level
+Source
+Achaierai
+Bestiary 2
+7
+Archelon (megafauna)
+Bestiary 3
+192
+Belker
+Bestiary 2
+45
+Cerberi
+Bestiary 3
+51
+Emperor cobra* (snake)
+Bestiary 2
+252
+Giant gar*
+Bestiary 2
+128
+Glyptodon* (megafauna)
+Bestiary 2
+186
+Hippopotamus*
+Bestiary 2
+157
+Host devil
+Bestiary 4
+53
+Hypnalis
+Bestiary 4
+154
+Iguanodon* (dinosaur)
+Bestiary 3
+78
+Incubus (demon)
+Bestiary 3
+73
+Ceustodaemon (daemon)
+Bestiary 2
+65
+Megatherium* (megafauna)
+Bestiary 2
+187
+Mudlord
+Bestiary 4
+195
+Ostiarius (kyton)
+Bestiary 4
+176
+Shadow mastiff
+Bestiary 3
+241
+Styracosaurus (dinosaur)
+Bestiary 4
+59
+Tojanida
+Bestiary 3
+270
+Vulpinal (agathion)
+Bestiary 2
+22
+6th Level
+Source
+Adhukait (asura)
+Bestiary 3
+22
+Allosaurus* (dinosaur)
+Bestiary 2
+90
+Animate dream
+Bestiary 2
+29
+Arsinoitherium* (megafauna)
+Bestiary 2
+186
+Axiomite
+Bestiary 2
+36
+Baluchitherium* (megafauna)
+Bestiary 3
+192
+Hellcat
+Bestiary 2
+153
+Hydrodaemon (daemon)
+Bestiary 2
+67
+Immense tortoise*
+Bestiary 4
+263
+Legion archon
+Bestiary 3
+19
+Megalania* (megafauna)
+Bestiary 3
+193
+Mihstu
+Bestiary 2
+190
+Naunet (protean)
+Bestiary 2
+216
+Pairaka (div)
+Bestiary 3
+88
+Shoggti (qlippoth)
+Bestiary 2
+225
+Theletos (aeon)
+Bestiary 2
+14
+Tylosaurus (dinosaur)
+Bestiary 2
+91
+7th Level
+Source
+Avoral (agathion)
+Bestiary 2
+16
+Behemoth hippopotamus*
+Bestiary 2
+157
+Contract devil
+Bestiary 3
+76
+Ghawwas (div)
+Bestiary 3
+87
+Giant anaconda* (snake)
+Bestiary 2
+252
+Giant snapping turtle*
+Bestiary 2
+273
+Kalavakus (demon)
+Bestiary 2
+78
+Leukodaemon (daemon)
+Bestiary 2
+68
+Movanic deva (angel)
+Bestiary 2
+28
+Nyogoth (qlippoth)
+Bestiary 2
+224
+Piscodaemon (daemon)
+Bestiary 2
+72
+Sacristan (kyton)
+Bestiary 4
+177
+Shield archon
+Bestiary 2
+31
+Upasunda (asura)
+Bestiary 3
+27
+Whale*
+Bestiary 2
+282
+8th Level
+Source
+Aghasura (asura)
+Bestiary 3
+23
+Baregara
+Bestiary 3
+34
+Basilosaurus* (megafauna)
+Bestiary 3
+193
+Chernobue (qlippoth)
+Bestiary 2
+220
+Coloxus (demon)
+Bestiary 3
+72
+Diplodocus* (dinosaur)
+Bestiary 4
+58
+Interlocutor (kyton)
+Bestiary 3
+174
+Kolyarut (inevitable)
+Bestiary 2
+163
+Leonal (agathion)
+Bestiary 2
+20
+Meladaemon (daemon)
+Bestiary 2
+69
+Monadic deva (angel)
+Bestiary 2
+27
+Omox (demon)
+Bestiary 2
+79
+Shira (div)
+Bestiary 3
+90
+Spinosaurus* (dinosaur)
+Bestiary 3
+79
+9th Level
+Source
+Augnagar (qlippoth)
+Bestiary 2
+219
+Couatl
+Bestiary
+49
+Great white whale*
+Bestiary 2
+282
+Sepid (div)
+Bestiary 3
+89
+Storm giant
+Bestiary
+152
+Tarry demodand
+Bestiary 3
+71
+Valkyrie
+Bestiary 3
+277
+* This creature is summoned with the celestial template if you are good and the fiendish template if you are evil. If you are neutral, you can choose which template to apply to the creature. This summoned creature has an alignment that matches yours, regardless of its usual alignment. Summoning this creature makes the summoning spell’s type match your alignment.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

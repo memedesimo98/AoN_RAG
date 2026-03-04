@@ -1,0 +1,149 @@
+Fey Obedience - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Fey Obedience
+Source
+The First World, Realm of the Fey pg. 17
+Your devotion to one of the Eldest is so great that daily prayer and offerings grant you special boons.
+Prerequisites
+: Knowledge (planes) 3 ranks, must worship one of the Eldest.
+Benefit
+: Each Eldest requires a different obedience, but each obedience takes only 1 hour to perform. Once you’ve performed the obedience, you gain the benefit of a special ability or resistance as indicated in the “Obedience” entry for that Eldest.
+If you have at least 12 Hit Dice, you also gain the first boon granted by your Eldest upon undertaking your obedience. If you have at least 16 Hit Dice, you also gain the Eldest’s second boon. If you have at least 20 Hit Dice, you also gain the Eldest’s third boon. Unless a specific duration or number of uses per day is listed, a boon’s effects are constant.
+Feysworn gain access to these boons at lower levels as a benefit of their prestige class.
+If you ever fail to perform a daily obedience, you lose all access to the benefits and boons granted by this feat until you next perform the obedience.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog

@@ -1,0 +1,150 @@
+Poison Shot Deed - Feats - Archives of Nethys: Pathfinder RPG Database
+|||
+Home
+Afflictions/Hazards
+Classes
+Deities
+Equipment
+FAQ
+Feats
+Magic Items
+Monster Index
+Mythic Index
+NPC Index
+Prestige Classes
+Races
+Rules
+Skills
+Spells/Rituals
+Technology
+Traits
+Licenses
+Projects
+Sources
+Tools
+Contact Us
+Contributors
+Support the Archives
+Maximize Menu
+Archives of Nethys
+Character Creation +
+Classes
+Feats
+Prestige Classes
+Races
+Skills
+Traits
+Mythic Index
+Deities
+Equipment +
+Equipment (Non-Magical)
+Magic Items
+Technology
+FAQ
+Spells/Rituals
+Rules +
+Afflictions
+NPC Index
+Rules
+Tools
+Hazards
+Monsters
+Sources
+About the Archives +
+Licenses
+Projects
+Contact Us
+Contributors
+Support the Archives
+Toggle Theme
+Archives of Nethys
+General
+|
+Combat Stamina
+Achievement
+|
+Alignment
+|
+Armor Mastery
+|
+Armor Style
+|
+Betrayal
+|
+Blood Hex
+|
+Called Shot
+|
+Combat
+|
+Combination
+|
+Conduit
+|
+Coven
+|
+Critical
+|
+Damnation
+|
+Esoteric
+|
+Faction
+|
+Familiar
+|
+Gathlain Court Title
+|
+Grit
+|
+Hero Point
+|
+Item Creation
+|
+Item Mastery
+|
+Meditation
+|
+Metamagic
+|
+Monster
+|
+Origin
+|
+Panache
+|
+Performance
+|
+Shield Mastery
+|
+Shield Style
+|
+Stare
+|
+Story
+|
+Style
+|
+Targeting
+|
+Teamwork
+|
+Trick
+|
+Weapon Mastery
+|
+Words of Power
+Poison Shot Deed (Grit)
+Source
+Dirty Tactics Toolbox pg. 9
+You can specially prepare bullets to deliver poisons that are normally used more subtly.
+Prerequisites
+: Amateur Gunslinger
+UC
+or grit
+UC
+class feature.
+Benefit
+:  You can spend 1 grit point to load your firearm with 1 dose of inhaled or ingested poison as a move action. This action has no chance of exposing you to the poison (as if you had the poison use class feature). Shooting a firearm loaded with a poison in this manner is a standard action that provokes attacks of opportunity and sprays out the poison in a 15-foot cone. Any creatures caught in the blast take no damage but are exposed to this poison and must each immediately attempt a save against the poison as though the onset time had elapsed.
+Site Owner: Blake Davis
+Email Spam Checker: MX Guarddog
